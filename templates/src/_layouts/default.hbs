@@ -18,12 +18,12 @@
     <link rel="preload" href="assets/373e2d-regular.woff2" as="font" type="font/woff2">
     <link rel="preload" href="assets/373e2d-regular.woff" as="font" type="font/woff">
     {{!-- END: Preload --}}
-    <link href="assets/{{ project.shortname }}.main.css" rel="stylesheet">
+    <link href="{{ project.shortname }}.css" rel="stylesheet">
   </head>
   <body{{#if body_classes}} class="{{ body_classes }}"{{/if}}>
 {% body %}
 {{!--
-    <script src="assets/{{ project.shortname }}.main.js"></script>
+    <script src="{{ project.shortname }}.js"></script>
 --}}
   </body>
 </html>

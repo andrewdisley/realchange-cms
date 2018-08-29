@@ -30,19 +30,19 @@
 }
 
 .edge-rc-aubergine-top::before {
-  background-image: url(edge-rc-aubergine-top.png);
+  background-image: url(assets/edge-rc-aubergine-top.png);
 }
 
 .edge-rc-candy-top::before {
-  background-image: url(edge-rc-candy-top.png);
+  background-image: url(assets/edge-rc-candy-top.png);
 }
 
 .edge-rc-blue-top::before {
-  background-image: url(edge-rc-blue-top.png);
+  background-image: url(assets/edge-rc-blue-top.png);
 }
 
 .edges {
-  background-image: url(edges-left.png), url(edges-right.png);
+  background-image: url(assets/edges-left.png), url(assets/edges-right.png);
   background-position: 0 0, 100% 0;
   background-repeat: repeat-y, repeat-y;
   background-size: 4px 336px, 4px 336px;
@@ -61,13 +61,13 @@
   }
 
   &::before {
-    background-image: url(edges-top.png);
+    background-image: url(assets/edges-top.png);
     background-position: 0 0;
     top: 0;
   }
 
   &::after {
-    background-image: url(edges-bottom.png);
+    background-image: url(assets/edges-bottom.png);
     background-position: 100% 100%;
     bottom: 0;
   }
@@ -86,13 +86,13 @@
 }
 
 .edges-rc-blue {
-  background-image: url(edges-rc-blue-left.png), url(edges-rc-blue-right.png);
+  background-image: url(assets/edges-rc-blue-left.png), url(assets/edges-rc-blue-right.png);
 
   &::before {
-    background-image: url(edges-rc-blue-top.png);
+    background-image: url(assets/edges-rc-blue-top.png);
   }
 
   &::after {
-    background-image: url(edges-rc-blue-bottom.png);
+    background-image: url(assets/edges-rc-blue-bottom.png);
   }
 }
