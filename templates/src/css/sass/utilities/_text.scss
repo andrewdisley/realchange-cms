@@ -1,0 +1,56 @@
+// Text
+//
+
+// Alignment
+//
+.text-justify  { text-align: justify !important; }
+.text-nowrap   { white-space: nowrap !important; }
+.text-truncate { @include text-truncate; }
+
+// Responsive alignment
+//
+@each $breakpoint in map-keys($grid-breakpoints) {
+  @include media-breakpoint-up($breakpoint) {
+    $infix: breakpoint-infix($breakpoint, $grid-breakpoints);
+
+    .text#{$infix}-left   { text-align: left !important; }
+    .text#{$infix}-right  { text-align: right !important; }
+    .text#{$infix}-center { text-align: center !important; }
+  }
+}
+
+// Transformation
+//
+.text-lowercase  { text-transform: lowercase !important; }
+.text-uppercase  { text-transform: uppercase !important; }
+.text-capitalize { text-transform: capitalize !important; }
+
+// Weight and italics
+//
+.font-weight-light  { font-weight: $font-weight-light !important; }
+.font-weight-normal { font-weight: $font-weight-normal !important; }
+.font-weight-bold   { font-weight: $font-weight-bold !important; }
+.font-italic        { font-style: italic !important; }
+
+// Family
+//
+.font-family-barlowsemicondensed { font-family: $font-family-rc-barlowsemicondensed; }
+.font-family-lunchbox { font-family: $font-family-rc-lunchbox; }
+
+// Colors
+//
+.text-black { color: $color-black !important; }
+.text-white { color: $color-white !important; }
+
+.text-rc-black { color: $color-rc-black !important; }
+.text-rc-aubergine { color: $color-rc-aubergine !important; }
+.text-rc-candy { color: $color-rc-candy !important; }
+.text-rc-flame { color: $color-rc-flame !important; }
+.text-rc-spark { color: $color-rc-spark !important; }
+.text-rc-sunny { color: $color-rc-sunny !important; }
+.text-rc-sage { color: $color-rc-sage !important; }
+.text-rc-moss { color: $color-rc-moss !important; }
+.text-rc-dream { color: $color-rc-dream !important; }
+.text-rc-dive { color: $color-rc-dive !important; }
+.text-rc-blue { color: $color-rc-blue !important; }
+.text-primary { color: $color-primary !important; }

@@ -1,0 +1,29 @@
+<!doctype html>
+<html class="no-js" lang="en-GB">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>{{{ title }}} | Real Change</title>
+    {{!-- START: Preload --}}
+    <link rel="preload" href="assets/barlowsemicondensed-bold.woff2" as="font" type="font/woff2">
+    <link rel="preload" href="assets/barlowsemicondensed-bold.woff" as="font" type="font/woff">
+    <link rel="preload" href="assets/barlowsemicondensed-light.woff2" as="font" type="font/woff2">
+    <link rel="preload" href="assets/barlowsemicondensed-light.woff" as="font" type="font/woff">
+    <link rel="preload" href="assets/barlowsemicondensed-regular.woff2" as="font" type="font/woff2">
+    <link rel="preload" href="assets/barlowsemicondensed-regular.woff" as="font" type="font/woff">
+    <link rel="preload" href="assets/373e2d-bold.woff2" as="font" type="font/woff2">
+    <link rel="preload" href="assets/373e2d-bold.woff" as="font" type="font/woff">
+    <link rel="preload" href="assets/373e2d-light.woff2" as="font" type="font/woff2">
+    <link rel="preload" href="assets/373e2d-light.woff" as="font" type="font/woff">
+    <link rel="preload" href="assets/373e2d-regular.woff2" as="font" type="font/woff2">
+    <link rel="preload" href="assets/373e2d-regular.woff" as="font" type="font/woff">
+    {{!-- END: Preload --}}
+    <link href="assets/{{ project.shortname }}.main.css" rel="stylesheet">
+  </head>
+  <body{{#if body_classes}} class="{{ body_classes }}"{{/if}}>
+{% body %}
+{{!--
+    <script src="assets/{{ project.shortname }}.main.js"></script>
+--}}
+  </body>
+</html>

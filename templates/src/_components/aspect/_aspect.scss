@@ -1,0 +1,104 @@
+// Aspect
+//
+
+.aspect {
+  display: block;
+  padding: 0;
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+
+  &::before {
+    content: "";
+    display: block;
+  }
+
+  .aspect-item,
+  embed,
+  iframe,
+  img,
+  object,
+  video {
+    border: 0;
+    bottom: 0;
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+  }
+}
+
+.aspect-1by1 {
+  &::before {
+    padding-top: percentage(1 / 1);
+  }
+}
+
+.aspect-2by1 {
+  &::before {
+    padding-top: percentage(1 / 2);
+  }
+}
+
+.aspect-3by1 {
+  &::before {
+    padding-top: percentage(1 / 3);
+  }
+}
+
+.aspect-3by2 {
+  &::before {
+    padding-top: percentage(2 / 3);
+  }
+}
+
+.aspect-4by3 {
+  &::before {
+    padding-top: percentage(3 / 4);
+  }
+}
+
+.aspect-5by2 {
+  &::before {
+    padding-top: percentage(2 / 5);
+  }
+}
+
+.aspect-5by3 {
+  &::before {
+    padding-top: percentage(3 / 5);
+  }
+}
+
+.aspect-6by5 {
+  &::before {
+    padding-top: percentage(5 / 6);
+  }
+}
+
+.aspect-16by9 {
+  &::before {
+    padding-top: percentage(9 / 16);
+  }
+}
+
+.aspect-bg {
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  padding: 1rem 0.75rem;
+
+  @include media-breakpoint-up(md) {
+    padding: 1rem;
+  }
+}
+
+.aspect-bg-2by1 {
+  // Background image is actually: 25 : 13
+  background-image: url(aspect-bg-2by1.png);
+}
+
+.aspect-bg-4by3 {
+  background-image: url(aspect-bg-4by3.png);
+}

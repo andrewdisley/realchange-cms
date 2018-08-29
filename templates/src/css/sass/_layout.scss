@@ -1,0 +1,39 @@
+// Layout
+//
+
+@mixin container {
+  max-width: $container-max-width;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+.container {
+  @include container;
+}
+
+.columns {
+  @include media-breakpoint-up(sm) {
+    display: flex;
+    margin: 1.5rem -1rem;
+  }
+}
+
+.column {
+  margin-bottom: 1.5rem;
+
+  @include media-breakpoint-up(sm) {
+    display: block;
+    flex-basis: 0;
+    flex-grow: 1;
+    flex-shrink: 1;
+    margin: 0 1rem;
+  }
+
+  > :last-child {
+    margin-bottom: 0;
+  }
+}
+
+.column-order-1 { order: 1; }
+.column-order-2 { order: 2; }

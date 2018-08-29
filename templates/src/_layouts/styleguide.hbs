@@ -1,0 +1,21 @@
+<!doctype html>
+<html class="no-js" lang="en-GB">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>{{{ title }}} | Real Change</title>
+    <link href="assets/{{ project.shortname }}.main.css" rel="stylesheet">
+    <link href="assets/{{ project.shortname }}.styleguide.css" rel="stylesheet">
+  </head>
+  <body{{#if body_classes}} class="{{ body_classes }}"{{/if}}>
+<div class="styleguide-header">
+  <div class="container">
+    <h1><a href="index.html">Real Change <span>Styleguide</span></a></h1>
+  </div>
+</div>
+
+{% body %}
+
+{{!-- <script src="assets/{{ project.shortname }}.main.js"></script> --}}
+  </body>
+</html>

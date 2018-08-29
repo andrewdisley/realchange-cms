@@ -1,0 +1,114 @@
+---
+title: "Footer | Styleguide"
+layout: styleguide
+---
+<div class="container">
+
+  <nav class="breadcrumb" aria-label="breadcrumb">
+    <ul>
+      <li><a href="index.html">Real Change</a></li>
+      <li><a href="index.html#Components">Components</a></li>
+      <li class="active"><a href="styleguide-footer.html" aria-current="page">Footer</a></li>
+    </ul>
+  </nav>
+
+  <section class="styleguide-section">
+    <div class="styleguide-intro">
+      <h1>Footer</h1>
+      <p>The footer can be displayed with or without the "Cityscape".</p>
+    </div>
+  </section>
+
+</div>
+
+  <section class="styleguide-section">
+    <h3 class="styleguide-h3">Footer with only copyright and links</h3>
+    <div class="styleguide-example">
+{{> footer }}
+    </div>
+    <div class="styleguide-code">
+      <pre><code>&#x3C;footer class=&#x22;footer&#x22;&#x3E;
+  &#x3C;div class=&#x22;footer-inner&#x22;&#x3E;
+    &#x3C;div class=&#x22;footer-info&#x22; role=&#x22;contentinfo&#x22;&#x3E;
+      &#x3C;p&#x3E;&#xA9; 2018 Real Change &#x3C;a href=&#x22;#&#x22;&#x3E;Privacy Policy&#x3C;/a&#x3E; &#x3C;span class=&#x22;sr-only&#x22;&#x3E;:&#x3C;/span&#x3E;&#x3C;a href=&#x22;#&#x22;&#x3E;Sitemap&#x3C;/a&#x3E;&#x3C;/p&#x3E;
+    &#x3C;/div&#x3E;
+  &#x3C;/div&#x3E;
+&#x3C;/footer&#x3E;</code></pre>
+    </div>
+
+    <h3 class="styleguide-h3">Footer with Brand and Body</h3>
+    <div class="styleguide-example">
+{{> footer footer__bodyorlogo="true" footer__body="true" footer__logo="true" }}
+    </div>
+    <div class="styleguide-code">
+      <pre><code>&#x3C;footer class=&#x22;footer&#x22;&#x3E;
+  &#x3C;div class=&#x22;footer-inner&#x22;&#x3E;
+    &#x3C;div class=&#x22;footer-split&#x22;&#x3E;
+      &#x3C;div class=&#x22;footer-body&#x22;&#x3E;
+        &#x3C;h3 class=&#x22;h2&#x22;&#x3E;Other ways you can help&#x3C;/h3&#x3E;
+        &#x3C;p class=&#x22;footer-body-icon&#x22;&#x3E;
+          &#x3C;svg&#x3E;...&#x3C;/svg&#x3E;
+          Share us on &#x3C;a href=&#x22;#&#x22; target=&#x22;_blank&#x22;&#x3E;Facebook&#x3C;/a&#x3E; and &#x3C;a href=&#x22;#&#x22; target=&#x22;_blank&#x22;&#x3E;Twitter&#x3C;/a&#x3E;
+        &#x3C;/p&#x3E;
+        &#x3C;p class=&#x22;footer-body-icon&#x22;&#x3E;
+          &#x3C;svg&#x3E;...&#x3C;/svg&#x3E;
+          Visit &#x3C;a href=&#x22;#&#x22; target=&#x22;_blank&#x22;&#x3E;Street Support&#x3C;/a&#x3E; to see what else you can give.
+        &#x3C;/p&#x3E;
+        &#x3C;p class=&#x22;footer-body-icon&#x22;&#x3E;
+          &#x3C;svg&#x3E;...&#x3C;/svg&#x3E;
+          Find out how your business can apply for &#x3C;a href=&#x22;#&#x22;&#x3E;Corporate partnership&#x3C;/a&#x3E;
+        &#x3C;/p&#x3E;
+      &#x3C;/div&#x3E;
+      &#x3C;div class=&#x22;footer-brand&#x22;&#x3E;
+        &#x3C;div class=&#x22;footer-brand-inner&#x22;&#x3E;
+          &#x3C;img alt=&#x22;Real Change&#x22; class=&#x22;footer-brand-logo&#x22; height=&#x22;63&#x22; src=&#x22;assets/real-change-logo-x2.png&#x22; width=&#x22;55&#x22;&#x3E;
+        &#x3C;/div&#x3E;
+        &#x3C;div class=&#x22;footer-brand-subtitle&#x22;&#x3E;Wigan &#x26;amp; Leigh&#x3C;/div&#x3E;
+      &#x3C;/div&#x3E;
+    &#x3C;/div&#x3E;
+    &#x3C;div class=&#x22;footer-info&#x22; role=&#x22;contentinfo&#x22;&#x3E;
+      &#x3C;p&#x3E;&#xA9; 2018 Real Change &#x3C;a href=&#x22;#&#x22;&#x3E;Privacy Policy&#x3C;/a&#x3E; &#x3C;span class=&#x22;sr-only&#x22;&#x3E;:&#x3C;/span&#x3E;&#x3C;a href=&#x22;#&#x22;&#x3E;Sitemap&#x3C;/a&#x3E;&#x3C;/p&#x3E;
+    &#x3C;/div&#x3E;
+  &#x3C;/div&#x3E;
+&#x3C;/footer&#x3E;</code></pre>
+    </div>
+
+    <h3 class="styleguide-h3">Footer with Cityscape</h3>
+    <p>To apply the "Cityscape" add the class <code>.footer-withcityscape</code> to the <code>.footer</code>, you must also apply <code>.pre-footer-withcityscape</code> to the  previous element to allow the cityscape to sit on top of the previous element.</p>
+    <div class="styleguide-example bg-rc-spark">
+      <div class="pre-footer-withcityscape"></div>
+{{> footer footer__bodyorlogo="true" footer__body="true" footer__logo="true" footer__classes="footer-withcityscape" }}
+    </div>
+    <div class="styleguide-code">
+      <pre><code>&#x3C;footer class=&#x22;footer footer-withcityscape&#x22;&#x3E;
+  &#x3C;div class=&#x22;footer-inner&#x22;&#x3E;
+    &#x3C;div class=&#x22;footer-split&#x22;&#x3E;
+      &#x3C;div class=&#x22;footer-body&#x22;&#x3E;
+        &#x3C;h3 class=&#x22;h2&#x22;&#x3E;Other ways you can help&#x3C;/h3&#x3E;
+        &#x3C;p class=&#x22;footer-body-icon&#x22;&#x3E;
+          &#x3C;svg&#x3E;...&#x3C;/svg&#x3E;
+          Share us on &#x3C;a href=&#x22;#&#x22; target=&#x22;_blank&#x22;&#x3E;Facebook&#x3C;/a&#x3E; and &#x3C;a href=&#x22;#&#x22; target=&#x22;_blank&#x22;&#x3E;Twitter&#x3C;/a&#x3E;
+        &#x3C;/p&#x3E;
+        &#x3C;p class=&#x22;footer-body-icon&#x22;&#x3E;
+          &#x3C;svg&#x3E;...&#x3C;/svg&#x3E;
+          Visit &#x3C;a href=&#x22;#&#x22; target=&#x22;_blank&#x22;&#x3E;Street Support&#x3C;/a&#x3E; to see what else you can give.
+        &#x3C;/p&#x3E;
+        &#x3C;p class=&#x22;footer-body-icon&#x22;&#x3E;
+          &#x3C;svg&#x3E;...&#x3C;/svg&#x3E;
+          Find out how your business can apply for &#x3C;a href=&#x22;#&#x22;&#x3E;Corporate partnership&#x3C;/a&#x3E;
+        &#x3C;/p&#x3E;
+      &#x3C;/div&#x3E;
+      &#x3C;div class=&#x22;footer-brand&#x22;&#x3E;
+        &#x3C;div class=&#x22;footer-brand-inner&#x22;&#x3E;
+          &#x3C;img alt=&#x22;Real Change&#x22; class=&#x22;footer-brand-logo&#x22; height=&#x22;63&#x22; src=&#x22;assets/real-change-logo-x2.png&#x22; width=&#x22;55&#x22;&#x3E;
+        &#x3C;/div&#x3E;
+        &#x3C;div class=&#x22;footer-brand-subtitle&#x22;&#x3E;Wigan &#x26;amp; Leigh&#x3C;/div&#x3E;
+      &#x3C;/div&#x3E;
+    &#x3C;/div&#x3E;
+    &#x3C;div class=&#x22;footer-info&#x22; role=&#x22;contentinfo&#x22;&#x3E;
+      &#x3C;p&#x3E;&#xA9; 2018 Real Change &#x3C;a href=&#x22;#&#x22;&#x3E;Privacy Policy&#x3C;/a&#x3E; &#x3C;span class=&#x22;sr-only&#x22;&#x3E;:&#x3C;/span&#x3E;&#x3C;a href=&#x22;#&#x22;&#x3E;Sitemap&#x3C;/a&#x3E;&#x3C;/p&#x3E;
+    &#x3C;/div&#x3E;
+  &#x3C;/div&#x3E;
+&#x3C;/footer&#x3E;</code></pre>
+    </div>
+  </section>

@@ -1,0 +1,39 @@
+// Backgrounds
+//
+
+.bg-black { background-color: $color-black !important; }
+.bg-white { background-color: $color-white !important; }
+
+.bg-rc-black { background-color: $color-rc-black !important; }
+.bg-rc-aubergine { background-color: $color-rc-aubergine !important; }
+.bg-rc-candy { background-color: $color-rc-candy !important; }
+.bg-rc-flame { background-color: $color-rc-flame !important; }
+.bg-rc-spark { background-color: $color-rc-spark !important; }
+.bg-rc-sunny { background-color: $color-rc-sunny !important; }
+.bg-rc-sage { background-color: $color-rc-sage !important; }
+.bg-rc-moss { background-color: $color-rc-moss !important; }
+.bg-rc-dream { background-color: $color-rc-dream !important; }
+.bg-rc-dive { background-color: $color-rc-dive !important; }
+.bg-rc-blue { background-color: $color-rc-blue !important; }
+.bg-rc-primary { background-color: $color-primary !important; }
+
+.bg-rc-black,
+.bg-rc-aubergine,
+.bg-rc-candy,
+.bg-rc-flame,
+.bg-rc-spark,
+.bg-rc-sunny,
+.bg-rc-sage,
+.bg-rc-moss,
+.bg-rc-dream,
+.bg-rc-dive,
+.bg-rc-blue,
+.bg-rc-primary {
+  a:not(.button) {
+    color: $color-white;
+
+    @include hover {
+      color: $color-rc-black;
+    }
+  }
+}

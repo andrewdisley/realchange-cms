@@ -1,0 +1,165 @@
+// Footer
+//
+
+.footer {
+  background-color: $color-white;
+
+  a {
+    font-weight: $font-weight-bold;
+  }
+}
+
+.footer-inner {
+  @include container;
+  max-width: 836px;
+  padding: 1rem 0.75rem;
+
+  @include media-breakpoint-up(sm) {
+    padding: 1.5rem 1rem;
+  }
+
+  @include media-breakpoint-up(md) {
+    padding: 3rem 1rem 2rem;
+  }
+
+  @media (min-width: 868px) {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
+.footer-split {
+  margin-bottom: 1rem;
+
+  @include media-breakpoint-up(sm) {
+    align-items: flex-start;
+    display: flex;
+    margin-bottom: 2rem;
+  }
+}
+
+.footer-brand {
+  order: 1;
+  max-width: 170px;
+}
+
+.footer-brand-inner {
+  display: inline-flex;
+  width: 65px;
+
+  @include media-breakpoint-up(sm) {
+    width: 120px;
+  }
+
+  @include media-breakpoint-up(md) {
+    width: 170px;
+  }
+}
+
+.footer-brand-logo {
+  height: 63px;
+  max-width: 100%;
+  width: 55px;
+
+  @include media-breakpoint-up(sm) {
+    height: 94px;
+    width: 82px;
+  }
+
+  @include media-breakpoint-up(md) {
+    height: 110px;
+    width: 96px;
+  }
+}
+
+.footer-brand-subtitle {
+  font-size: $font-size-xs;
+  font-weight: $font-weight-bold;
+
+  @include media-breakpoint-up(sm) {
+    font-size: $font-size-sm;
+  }
+
+  @include media-breakpoint-up(md) {
+    font-size: $font-size-md;
+  }
+}
+
+.footer-body {
+  flex: 1;
+  font-weight: $font-weight-light;
+  margin-bottom: 2rem;
+  order: 2;
+
+  @include media-breakpoint-up(sm) {
+    margin-bottom: 0;
+  }
+
+  .h2 {
+    margin-bottom: 0.25rem;
+  }
+
+  p {
+    margin-bottom: 0;
+  }
+}
+
+.footer-body-icon {
+  padding-left: 1.75rem;
+  position: relative;
+
+  svg {
+    color: $color-rc-aubergine;
+    fill: currentColor;
+    left: 0;
+    position: absolute;
+    top: 4px;
+  }
+}
+
+.footer-info {
+  font-size: $font-size-sm;
+
+  a {
+    margin-left: 0.25rem;
+    margin-right: 0.25rem;
+  }
+
+  > :last-child {
+    margin-bottom: 0;
+  }
+}
+
+.footer-withcityscape {
+  padding-top: 0.5rem;
+  position: relative;
+
+  @include media-breakpoint-up(sm) {
+    padding-top: 2rem;
+  }
+
+  &:before {
+    background-image: url(footer-cityscape.png);
+    background-repeat: repeat-x;
+    background-position: 50% 2px;
+    content: "";
+    display: block;
+    height: 64px;
+    left: 0;
+    position: absolute;
+    top: -64px;
+    width: 100%;
+    right: 0;
+  }
+}
+
+// Apply this to the element preceding the .footer-withcityscape
+.pre-footer-withcityscape {
+  padding-bottom: 4.5rem !important;
+
+  &.section {
+    @include media-breakpoint-up(lg) {
+      padding-bottom: 6.5rem !important;
+    }
+  }
+}

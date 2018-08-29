@@ -1,0 +1,98 @@
+// Edge
+//
+
+.edge {
+  position: relative;
+}
+
+.edge-bottom::after,
+.edge-top::before {
+  content: '';
+  display: block;
+  height: $edge-height;
+}
+
+.edge-top::before {
+  background-position: 50% 0;
+  background-repeat: repeat-x;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: -1rem;
+}
+
+.edge-top-offset-1::before {
+  background-position: 25% 0;
+}
+
+.edge-top-offset-2::before {
+  background-position: 75% 0;
+}
+
+.edge-rc-aubergine-top::before {
+  background-image: url(edge-rc-aubergine-top.png);
+}
+
+.edge-rc-candy-top::before {
+  background-image: url(edge-rc-candy-top.png);
+}
+
+.edge-rc-blue-top::before {
+  background-image: url(edge-rc-blue-top.png);
+}
+
+.edges {
+  background-image: url(edges-left.png), url(edges-right.png);
+  background-position: 0 0, 100% 0;
+  background-repeat: repeat-y, repeat-y;
+  background-size: 4px 336px, 4px 336px;
+  position: relative;
+
+  &::before,
+  &::after {
+    background-repeat: repeat-x;
+    background-size: 840px 4px;
+    content: "";
+    display: block;
+    height: 4px;
+    left: 0;
+    position: absolute;
+    right: 0;
+  }
+
+  &::before {
+    background-image: url(edges-top.png);
+    background-position: 0 0;
+    top: 0;
+  }
+
+  &::after {
+    background-image: url(edges-bottom.png);
+    background-position: 100% 100%;
+    bottom: 0;
+  }
+}
+
+.edges-notop {
+  &::before {
+    display: none;
+  }
+}
+
+.edges-nobottom {
+  &::after {
+    display: none;
+  }
+}
+
+.edges-rc-blue {
+  background-image: url(edges-rc-blue-left.png), url(edges-rc-blue-right.png);
+
+  &::before {
+    background-image: url(edges-rc-blue-top.png);
+  }
+
+  &::after {
+    background-image: url(edges-rc-blue-bottom.png);
+  }
+}

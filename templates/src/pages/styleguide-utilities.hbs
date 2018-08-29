@@ -1,0 +1,110 @@
+---
+title: "Utilities | Styleguide"
+layout: styleguide
+---
+<div class="container">
+
+  <nav class="breadcrumb" aria-label="breadcrumb">
+    <ul>
+      <li><a href="index.html">Real Change</a></li>
+      <li><a href="index.html#Components">Components</a></li>
+      <li class="active"><a href="styleguide-utilities.html" aria-current="page">Utilities</a></li>
+    </ul>
+  </nav>
+
+  <section class="styleguide-section">
+    <div class="styleguide-intro">
+      <h1>Utilities</h1>
+      <p>Details on Display, Spacing and screenreaders Utilities</p>
+    </div>
+  </section>
+
+  <section class="styleguide-section">
+    <h2 class="styleguide-h2">Display</h2>
+    <p>Display utility classes are available for all display values and for all breakpoints.</p>
+
+    <h3 class="styleguide-h3">Notation</h3>
+    <p>The classes are named using the format:</p>
+    <ul>
+      <li><code class="mark">.d-{value}</code>: applies to <span class="mark">xs</span> and up</li>
+      <li><code class="mark">.d-{breakpoint}-{value}</code>: for <span class="mark">sm</span>, <span class="mark">md</span>, <span class="mark">lg</span></li>
+    </ul>
+    <p>Where {value} is one of:</p>
+    <ul>
+      <li><code class="mark">none</code></li>
+      <li><code class="mark">inline</code></li>
+      <li><code class="mark">inline-block</code></li>
+      <li><code class="mark">block</code></li>
+      <li><code class="mark">table</code></li>
+      <li><code class="mark">table-cell</code></li>
+      <li><code class="mark">table-row</code></li>
+      <li><code class="mark">flex</code></li>
+      <li><code class="mark">inline-flex</code></li>
+      <li><code class="mark">sr-only</code></li>
+    </ul>
+
+    <h3 class="styleguide-h3">Examples that applies to all breakpoints</h3>
+    <div class="styleguide-example">
+      <div class="d-inline bg-rc-candy text-white p-2">d-inline</div>
+      <div class="d-inline bg-rc-flame text-white p-2">d-inline</div>
+    </div>
+    <div class="styleguide-code">
+      <pre><code>&#x3C;div class=&#x22;d-inline bg-rc-candy text-white p-2&#x22;&#x3E;d-inline&#x3C;/div&#x3E;
+&#x3C;div class=&#x22;d-inline bg-rc-flame text-white p-2&#x22;&#x3E;d-inline&#x3C;/div&#x3E;</code></pre>
+    </div>
+
+    <div class="styleguide-example">
+      <div class="d-block bg-rc-candy text-white p-2">d-block</div>
+      <div class="d-block bg-rc-flame text-white p-2">d-block</div>
+    </div>
+    <div class="styleguide-code">
+      <pre><code>&#x3C;div class=&#x22;d-block bg-rc-candy text-white p-2&#x22;&#x3E;d-block&#x3C;/div&#x3E;
+&#x3C;div class=&#x22;d-block bg-rc-flame text-white p-2&#x22;&#x3E;d-block&#x3C;/div&#x3E;</code></pre>
+    </div>
+
+    <h3 class="styleguide-h3">Breakpoint examples</h3>
+    <div class="styleguide-example">
+      <div class="d-md-none bg-rc-candy text-white p-2">d-md-none</div>
+      <div class="d-lg-none bg-rc-flame text-white p-2">d-lg-none</div>
+      <div class="d-none d-md-block bg-rc-spark text-white p-2">d-none d-md-block</div>
+    </div>
+    <div class="styleguide-code">
+      <pre><code>&#x3C;div class=&#x22;d-md-none bg-rc-candy text-white p-2&#x22;&#x3E;d-md-none&#x3C;/div&#x3E;
+&#x3C;div class=&#x22;d-lg-none bg-rc-flame text-white p-2&#x22;&#x3E;d-md-none&#x3C;/div&#x3E;
+&#x3C;div class=&#x22;d-none d-md-block bg-rc-spark text-white p-2&#x22;&#x3E;d-md-none&#x3C;/div&#x3E;</code></pre>
+    </div>
+  </section>
+
+  <section class="styleguide-section">
+    <h2 class="styleguide-h2">Spacing</h2>
+    <p>Spacing utility classes are available for <code>margin</code></p>
+    <p>Spacing utilities currently apply to all breakpoints there are no responsive spacing utility classes.</p>
+    <ul>
+      <li><code>mx-a</code> - applies <code class="small">margin-left: auto !important; margin-right: auto !important;</code></li>
+      <li><code>mx-n</code> - applies <code class="small">margin-left: 0 !important; margin-right: 0 !important;</code></li>
+      <li><code>.mb-n</code> - applies <code class="small">margin-bottom: 0 !important;</code></li>
+      <li><code>.mb-sm</code> - applies <code class="small">margin-bottom: $spacer * 1 !important;</code></li>
+      <li><code>.mb-md</code> - applies <code class="small">margin-bottom: $spacer * 2 !important;</code></li>
+      <li><code>.mb-lg</code> - applies <code class="small">margin-bottom: $spacer * 3 !important;</code></li>
+      <li><code>.mt-n</code> - applies <code class="small">margin-top: 0 !important;</code></li>
+      <li><code>.mt-sm</code> - applies <code class="small">margin-top: $spacer * 1 !important;</code></li>
+      <li><code>.mt-md</code> - applies <code class="small">margin-top: $spacer * 2 !important;</code></li>
+      <li><code>.mt-lg</code> - applies <code class="small">margin-top: $spacer * 3 !important;</code></li>
+      <li><code>.ml-n</code> - applies <code class="small">margin-left: 0 !important;</code></li>
+      <li><code>.ml-sm</code> - applies <code class="small">margin-left: $spacer * 1 !important;</code></li>
+      <li><code>.ml-md</code> - applies <code class="small">margin-left: $spacer * 2 !important;</code></li>
+      <li><code>.ml-lg</code> - applies <code class="small">margin-left: $spacer * 3 !important;</code></li>
+      <li><code>.ml-xl</code> - applies <code class="small">margin-left: $spacer * 4 !important;</code></li>
+      <li><code>.mr-n</code> - applies <code class="small">margin-right: 0 !important;</code></li>
+      <li><code>.mr-sm</code> - applies <code class="small">margin-right: $spacer * 1 !important;</code></li>
+      <li><code>.mr-md</code> - applies <code class="small">margin-right: $spacer * 2 !important;</code></li>
+      <li><code>.mr-lg</code> - applies <code class="small">margin-right: $spacer * 3 !important;</code></li>
+    </ul>
+  </section>
+
+  <section class="styleguide-section">
+    <h2 class="styleguide-h2">Screenreaders</h2>
+    <p>Use <code>.sr-only</code> to hide text visually but have it available for screenreaders.</p>
+  </section>
+
+</div>

@@ -1,0 +1,192 @@
+// Variables
+//
+
+//
+// Colors
+//
+$color-black: #000000;
+$color-black-sec: hsl(0, 0%, 4%);
+
+$color-white: #FFFFFF;
+$color-white-sec: hsl(0, 0%, 96%);
+
+$color-grey: hsl(0, 0%, 48%);
+$color-grey-darker: hsl(0, 0%, 20%);
+$color-grey-dark: hsl(0, 0%, 29%);
+$color-grey-medium: hsl(0, 0%, 65%);
+$color-grey-light: hsl(0, 0%, 80%);
+$color-grey-lighter: hsl(0, 0%, 85%);
+
+$color-border: #E3E3E3;
+
+// Brand Colors
+//
+$color-rc-black: #1D1D1C;
+$color-rc-aubergine: #B7528F;
+$color-rc-candy: #E96187;
+$color-rc-flame: #E95041;
+$color-rc-spark: #EE7C19;
+$color-rc-sunny: #FBBF09;
+$color-rc-sage: #909B23;
+$color-rc-moss: #388269;
+$color-rc-dream: #48BEDE;
+$color-rc-dive: #5E71BA;
+$color-rc-yellow: #FFC300;
+$color-rc-blue: #2FA0BC;
+$color-primary: $color-rc-yellow;
+
+//
+// Grid breakpoints
+//
+$grid-breakpoints: (
+  xs: 0,
+  sm: 576px,
+  md: 768px,
+  lg: 992px,
+  xl: 1200px
+);
+
+$breakpoint-mobile-nav: 350px;
+$container-max-width: 840px;
+
+//
+// Spacing
+//
+$spacer: 1rem;
+$spacers: ();
+$spacers: map-merge((
+  0: 0,
+  1: ($spacer * .25),
+  2: ($spacer * .5),
+  3: $spacer,
+  4: ($spacer * 1.5),
+  5: ($spacer * 3)
+), $spacers);
+
+//
+// Body
+//
+$body-bg: $color-white;
+$body-color: $color-black-sec;
+
+//
+// Links
+//
+$link-color: $color-rc-aubergine;
+$link-decoration: underline;
+$link-hover-color: darken($color-rc-aubergine, 15%);
+$link-hover-decoration: none;
+
+//
+// Fonts
+//
+// TODO: Base fallback font
+$font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Verdana, Geneva, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+$font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+$font-family-rc-barlowsemicondensed: "Barlow Semi Condensed";
+$font-family-rc-lunchbox: "Lunchbox";
+$font-family-base: $font-family-rc-barlowsemicondensed, $font-family-sans-serif;
+
+$font-size-html: 16px;
+$font-size-base: 1.125rem; // 18px
+
+$font-size-xs: ($font-size-base * 0.6666666667); // 12px
+$font-size-sm: ($font-size-base * 0.7777777778); // 14px
+$font-size-md: ($font-size-base * 0.8888888889); // 16px
+// $font-size-lg: ($font-size-base * 1.25); // 20px
+// $font-size-xl: ($font-size-base * 1.5); // 24px
+
+$font-weight-base: 400;
+$font-weight-light: 300;
+$font-weight-normal: 400;
+$font-weight-bold: 700;
+
+$line-height-base: 1.5;
+$line-height-sm: 1.2857142857;
+
+$headings-color: inherit;
+$headings-font-family: $font-family-rc-lunchbox, $font-family-sans-serif;
+$headings-font-weight: 700;
+$headings-margin-bottom: 0.5rem;
+
+$h1-font-size: ($font-size-base * 2.6666666667); // 48px
+$h1-font-size-md: ($font-size-base * 3.2222222222); // 58px
+$h1-line-height: 1.125; // 54px
+$h1-line-height-md: 1.1034482759; // 64px
+
+$h2-font-size: ($font-size-base * 1.6666666667); // 30px
+$h2-font-size-md: ($font-size-base * 1.8888888889); // 34px
+$h2-line-height: 1.1764705882; // 40px
+$h2-line-height-md: 1.2; // 36px
+
+$h3-font-size: ($font-size-base * 1.5555555556); // 28px
+$h3-font-size-md: ($font-size-base * 1.6666666667); // 30px
+$h3-line-height: 1.2142857143; // 34px
+$h3-line-height-md: 1.2; // 36px
+
+$h4h5h6-font-size: ($font-size-base * 1.4444444444); // 26px
+$h4h5h6-font-size-md: ($font-size-base * 1.5555555556); // 28px
+$h4h5h6-line-height: 1.2307692308; // 32px
+$h4h5h6-line-height-md: 1.2142857143; // 34px
+
+$h5-font-weight: 400;
+$h6-font-weight: 300;
+
+$paragraph-margin-bottom: 0.5rem;
+$paragraph-lg-font-size: ($font-size-base * 1.1111111111); // 20px
+$paragraph-lg-line-height: 1.3; // 26px
+$paragraph-lg-font-size-md: ($font-size-base * 1.3333333333); // 24px
+$paragraph-lg-line-height-md: 1.3333333333; // 32px
+
+$small-font-size: 80%;
+$small-font-weight: $font-weight-normal;
+
+$mark-padding: .2em;
+$mark-bg: $color-rc-yellow;
+
+$text-muted: $color-grey-medium; // TODO
+
+$dt-font-weight: $font-weight-bold;
+
+$hr-border-color: rgba($color-black, .1);
+$hr-border-width: 1px;
+$hr-margin-y: $spacer;
+
+//
+// Tables
+//
+$table-cell-padding: .75rem;
+$table-cell-padding-sm: .3rem;
+$table-caption-color: $text-muted;
+
+//
+// Forms
+//
+$label-margin-bottom: .5rem;
+$input-and-button-line-height: 1.5;
+$input-and-button-padding: 0.5rem 0.75rem;
+$form-vertical-spacer: 1.5rem;
+
+// Buttons
+//
+$button-font-family: $font-family-rc-lunchbox, $font-family-base;
+$button-font-weight: $font-weight-bold;
+$button-padding: 0.5rem 1.625rem;
+$button-padding-md: 0.5rem 2rem;
+$button-line-height: 1.5;
+
+//
+// Nav
+//
+$nav-link-padding-x: .5rem;
+$nav-link-padding-y: 1rem;
+
+//
+// Edge
+//
+$edge-height: 1rem;
+
+//
+// Decor
+//
+$decor-height: 1rem;
