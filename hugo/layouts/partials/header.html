@@ -1,0 +1,18 @@
+<header class="header{{ if .classes }} {{ .classes }}{{ end }}" role="banner"{{ if .background }} style="background-image: url({{ .background }});" {{ end }}>
+  <a class="header-skip" href="#main">Skip to main content</a>
+  <div class="header-inner">
+    <div class="header-brand">
+      <a href="/">
+        <div class="header-brand-inner bg-rc-candy">
+          <img alt="Real Change" class="header-brand-logo" height="63" src="/assets/real-change-logo-x2.png" width="55">
+        </div>
+        <div class="header-brand-subtitle">Wigan &amp; Leigh</div>
+      </a>
+    </div>
+    {{ if .hero }}
+    <div class="header-hero">
+      <h1 class="header-hero-title">HERO</h1>
+    </div>
+    {{ end }}
+  </div>
+</header>
