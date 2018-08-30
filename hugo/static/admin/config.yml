@@ -4,3 +4,21 @@ backend:
 
 media_folder: "static/assets/uploads"
 public_folder: "/assets/uploads"
+
+collections:
+  - name: "pages"
+    label: "Pages"
+    files:
+      - file: "site/content/_index.md"
+        label: "Home Page"
+        name: "home"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: "Header", name: header, widget: object, fields: [
+              {label: "Classes", name: "classes", widget: string},
+              {label: "Background", name: "background", widget: image},
+              {label: "Hero", name: "hero", widget: text}
+            ]}
+          - {label: "Footer", name: footer, widget: object, fields: [
+              {label: "Classes", name: "classes", widget: string}
+            ]}
