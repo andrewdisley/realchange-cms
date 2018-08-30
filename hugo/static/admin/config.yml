@@ -12,6 +12,8 @@ collections:
       - file: "hugo/content/_index.md"
         label: "Home Page"
         name: "home"
+        editor:
+          preview: false
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Header", name: "header", widget: "object", fields: [
@@ -28,7 +30,8 @@ collections:
               {label: "Button", name: "button", widget: "object", fields: [
                 {label: "URL (inc. http://)", name: "url", widget: "string"},
                 {label: "Text", name: "text", widget: "string"}
-              ]}
+              ]},
+              {label: "Image", name: "image", widget: "image"}
             ]}
           - {label: "Who", name: "who", widget: "object", fields: [
               {label: "Heading", name: "heading", widget: "string"},
