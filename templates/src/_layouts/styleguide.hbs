@@ -4,8 +4,8 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>{{{ title }}} | Real Change</title>
-    <link href="assets/{{ project.shortname }}.main.css" rel="stylesheet">
-    <link href="assets/{{ project.shortname }}.styleguide.css" rel="stylesheet">
+    <link href="{{ project.shortname }}.css" rel="stylesheet">
+    <link href="{{ project.shortname }}.styleguide.css" rel="stylesheet">
   </head>
   <body{{#if body_classes}} class="{{ body_classes }}"{{/if}}>
 <div class="styleguide-header">
@@ -16,6 +16,6 @@
 
 {% body %}
 
-{{!-- <script src="assets/{{ project.shortname }}.main.js"></script> --}}
+{{!-- <script src="{{ project.shortname }}.js"></script> --}}
   </body>
 </html>

@@ -1,0 +1,5 @@
+baseurl = "/"
+languageCode = "en-gb"
+title = "Real Change Wigan & Leigh"
+[blackfriday]
+   hrefTargetBlank = true

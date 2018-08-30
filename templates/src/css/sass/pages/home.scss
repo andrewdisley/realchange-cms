@@ -148,7 +148,7 @@
 // }
 
 .home-stories-header {
-  background-image: url(home-stories-header.png), url(home-stories-header.png);
+  background-image: url(assets/home-stories-header.png), url(assets/home-stories-header.png);
   background-repeat: no-repeat;
   background-position: 50% 0%, 50% 100%;
   background-size: 100% 10px, 100% 10px;
@@ -176,7 +176,7 @@
 
   &::before,
   &::after {
-    background-image: url(home-stories-header-ba.png);
+    background-image: url(assets/home-stories-header-ba.png);
     background-position: 0 50%;
     background-repeat: no-repeat;
     bottom: 0;

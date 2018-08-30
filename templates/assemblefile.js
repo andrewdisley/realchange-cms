@@ -47,7 +47,7 @@ var config = {
     "dist" : {
       "html": "dist",
       "assets" : "dist/assets",
-      "css" : "dist/assets",
+      "css" : "dist",
       "js" : "dist/assets"
     },
     "server": "./dist"
@@ -72,9 +72,9 @@ app.task('assets', function() {
 app.task('sass:main', function() {
 
   return app.src('src/css/sass/main.scss')
-    .pipe(sass({ outputStyle: 'compressed' }).on('error', sass.logError))
-    // .pipe(sass({ outputStyle: 'compact' }).on('error', sass.logError))
-    .pipe(concat(config.project.shortname + '.main.css'))
+    // .pipe(sass({ outputStyle: 'compressed' }).on('error', sass.logError))
+    .pipe(sass({ outputStyle: 'compact' }).on('error', sass.logError))
+    .pipe(concat(config.project.shortname + '.css'))
     .pipe(autoprefixer({
       browsers: ['> 1%', 'last 3 versions'],
       cascade: false
@@ -125,7 +125,7 @@ app.task('js', function() {
     .pipe(jshint.reporter('jshint-stylish', {beep: true}))
     .pipe(include())
     .pipe(uglify())
-    .pipe(concat(config.project.shortname + '.main.js'))
+    .pipe(concat(config.project.shortname + '.js'))
     .pipe(app.dest(config.paths.dist.js))
     .pipe(browserSync.reload({stream: true}));
 });
