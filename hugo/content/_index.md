@@ -3,6 +3,7 @@ title: "Real Change"
 header:
   classes: "home-header decor decor-bottom decor-rc-candy"
   background: "assets/home-header.jpg"
+  hero: "Help make a <span class=\"text-rc-candy\">Real Change</span> in **Wigan &amp; Leigh**"
 footer:
   classes: "footer-withcityscape"
 whatis:
