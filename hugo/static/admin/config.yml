@@ -30,3 +30,11 @@ collections:
                 {label: "Text", name: "text", widget: "string"}
               ]}
             ]}
+          - {label: "Who", name: "who", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"}
+            ]}
+          - {label: "How", name: "how", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"}
+            ]}

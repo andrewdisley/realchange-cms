@@ -3,7 +3,7 @@ title: "Real Change"
 header:
   classes: "home-header decor decor-bottom decor-rc-candy"
   background: "assets/uploads/home-header.jpg"
-  hero: "Help make a <span class=\"text-rc-candy\">Real Change</span> in **Wigan &amp; Leigh**"
+  hero: "Help make a <span class=\"text-rc-candy\">Real Change</span> in **Wigan & Leigh**"
 footer:
   classes: "footer-withcityscape"
 whatis:
@@ -25,15 +25,15 @@ who:
 how:
   heading: "How can you apply?"
   body: |
-    If your organisation provides a service to support people who are homeless in Wigan &amp; Leigh and you would like to discuss how to become an approved Real Change partner please contact the Real Change Secretary on [0000 000 000](#URL) or [xxxxxx@realchange.co.uk](mailto:xxxxxx@realchange.co.uk) or [find out more here](#URL).
+    If your organisation provides a service to support people who are homeless in Wigan & Leigh and you would like to discuss how to become an approved Real Change partner please contact the Real Change Secretary on [0000 000 000](#URL) or [xxxxxx@realchange.co.uk](mailto:xxxxxx@realchange.co.uk) or [find out more here](#URL).
 partners:
   classes: "bg-rc-blue home-partners pre-footer-withcityscape edge edge-top edge-rc-blue-top"
   heading: "Help from our Partners"
   media: "assets/home-partners-media.jpg"
   body: |
-    **If you are sleeping rough in Wigan &amp; Leigh and want to apply for funds to help you get off the street, get in touch with one of our partner organisations who will work with you to apply for funds on your behalf.**
+    **If you are sleeping rough in Wigan & Leigh and want to apply for funds to help you get off the street, get in touch with one of our partner organisations who will work with you to apply for funds on your behalf.**
 
-    Real Change Wigan &amp; Leigh currently works in partnership with the following organisations:
+    Real Change Wigan & Leigh currently works in partnership with the following organisations:
   list: |
     * [Barnabus](#Barnabus)
     * [Big Issue North](#BigIssueNorth)
