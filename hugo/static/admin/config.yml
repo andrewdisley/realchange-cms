@@ -9,16 +9,24 @@ collections:
   - name: "pages"
     label: "Pages"
     files:
-      - file: "site/content/_index.md"
+      - file: "hugo/content/_index.md"
         label: "Home Page"
         name: "home"
         fields:
-          - {label: Title, name: title, widget: string}
-          - {label: "Header", name: header, widget: object, fields: [
-              {label: "Classes", name: "classes", widget: string},
-              {label: "Background", name: "background", widget: image},
-              {label: "Hero", name: "hero", widget: text}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Header", name: "header", widget: "object", fields: [
+              {label: "Classes", name: "classes", widget: "string"},
+              {label: "Background", name: "background", widget: "image"},
+              {label: "Hero", name: "hero", widget: "markdown"}
             ]}
-          - {label: "Footer", name: footer, widget: object, fields: [
-              {label: "Classes", name: "classes", widget: string}
+          - {label: "Footer", name: "footer", widget: "object", fields: [
+              {label: Classes, name: "classes", widget: "string"}
+            ]}
+          - {label: "What Is", name: "whatis", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"},
+              {label: "Button", name: "button", widget: "object", fields: [
+                {label: "URL (inc. http://)", name: "url", widget: "string"},
+                {label: "Text", name: "text", widget: "string"}
+              ]}
             ]}
