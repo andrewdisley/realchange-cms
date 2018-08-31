@@ -1,38 +1,52 @@
 ---
-title: "Welcome to "
+title: 'Welcome to '
 header:
-  classes: "home-header"
-  background: "assets/uploads/home-header.jpg"
-  hero: "Help make a <span class=\"text-rc-candy\">Real Change</span> in **Wigan & Leigh**"
-footer:
-  classes: "footer-withcityscape"
+  background: assets/uploads/home-header.jpg
+  hero: >-
+    Help make a <span class="text-rc-candy">Real Change</span> in **Wigan &
+    Leigh**
 whatis:
-  heading: "What is Real Change?"
-  body: |
-    **Real Change pays for practical items individuals need to build independent lives away from the streets.**
+  body: >
+    **Real Change pays for practical items individuals need to build independent
+    lives away from the streets.**
 
-    If everyone who lives, works or visits Wigan & Leigh donates, together we can make a Real Change!
+
+    If everyone who lives, works or visits Wigan & Leigh donates, together we
+    can make a Real Change!
   button:
-    url: "#DONATE"
-    text: "Donate and make a real change"
-  image: "assets/uploads/home-intro-whatis.png"
+    text: Donate and make a real change
+    url: '#DONATEwhatTODO'
+  heading: What is Real Change?
+  image: assets/uploads/home-intro-whatis.png
 who:
-  heading: "Who does Real Change help?"
-  body: |
-    **The Real Change fund supports individuals who are homeless by paying for items they need** - a deposit for a home, a training course, clothes for a job interview, furnishing for a new flat, or travel costs.
+  body: >
+    **The Real Change fund supports individuals who are homeless by paying for
+    items they need** - a deposit for a home, a training course, clothes for a
+    job interview, furnishing for a new flat, or travel costs.
 
-    [Find out more about how Real Change works and how the money is spent.](/how-it-works/)
+
+    [Find out more about how Real Change works and how the money is
+    spent.](/how-it-works/)
+  heading: Who does Real Change help?
 how:
-  heading: "How can you apply?"
-  body: |
-    If your organisation provides a service to support people who are homeless in Wigan & Leigh and you would like to discuss how to become an approved Real Change partner please contact the Real Change Secretary on [0000 000 000](#URL) or [xxxxxx@realchange.co.uk](mailto:xxxxxx@realchange.co.uk) or [find out more here](#URL).
+  body: >
+    If your organisation provides a service to support people who are homeless
+    in Wigan & Leigh and you would like to discuss how to become an approved
+    Real Change partner please contact the Real Change Secretary on [0000 000
+    000](#URL) or [xxxxxx@realchange.co.uk](mailto:xxxxxx@realchange.co.uk) or
+    [find out more here](#URL).
+  heading: How can you apply?
 partners:
-  heading: "Help from our Partners"
-  image: "assets/uploads/home-partners-media.jpg"
-  body: |
-    **If you are sleeping rough in Wigan & Leigh and want to apply for funds to help you get off the street, get in touch with one of our partner organisations who will work with you to apply for funds on your behalf.**
+  body: >
+    **If you are sleeping rough in Wigan & Leigh and want to apply for funds to
+    help you get off the street, get in touch with one of our partner
+    organisations who will work with you to apply for funds on your behalf.**
 
-    Real Change Wigan & Leigh currently works in partnership with the following organisations:
+
+    Real Change Wigan & Leigh currently works in partnership with the following
+    organisations:
+  heading: Help from our Partners
+  image: assets/uploads/home-partners-media.jpg
   list: |
     * [Barnabus](#Barnabus)
     * [Big Issue North](#BigIssueNorth)
@@ -54,3 +68,4 @@ partners:
     * [Riverside](#Riverside)
     * [Shelter](#Shelter)
 ---
+
