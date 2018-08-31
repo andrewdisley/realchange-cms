@@ -1,7 +1,6 @@
 ---
-type: story
 title: Danny’s Story |
-date: 2018-08-25T20:24:10.347Z
+date: 2018-08-31T20:24:10.347Z
 header:
   background: /assets/uploads/header-worldcap.jpg
   hero: "<span class=\"text-rc-candy\">Real Change</span> in Wigan & Leigh **\LDanny’s Story**"
