@@ -8,12 +8,12 @@ public_folder: "assets/uploads"
 collections:
   - name: "pages"
     label: "Pages"
+    editor:
+      preview: false
     files:
       - file: "hugo/content/_index.md"
         label: "Home Page"
         name: "home"
-        editor:
-          preview: false
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Header", name: "header", widget: "object", fields: [
