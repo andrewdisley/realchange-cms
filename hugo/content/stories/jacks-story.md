@@ -1,4 +1,5 @@
 ---
+type: story
 title: Jack’s Story |
 date: 2018-08-26T01:00:00.000Z
 header:
