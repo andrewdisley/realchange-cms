@@ -1,10 +1,8 @@
 ---
-title: "Stories | "
+title: "Stories |"
 date: 2018-08-30T01:20:38+01:00
 header:
   background: false
-footer:
-  classes: "footer-withcityscape"
 heading: "56 people helped so far in Wigan & Leigh"
 button:
   url: "#URL"
