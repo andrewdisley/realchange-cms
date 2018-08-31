@@ -29,12 +29,12 @@ who:
     spent.](/how-it-works/)
   heading: Who does Real Change help?
 how:
-  body: >
+  body: >-
     If your organisation provides a service to support people who are homeless
     in Wigan & Leigh and you would like to discuss how to become an approved
     Real Change partner please contact the Real Change Secretary on [0000 000
-    000](#URL) or [xxxxxx@realchange.co.uk](mailto:xxxxxx@realchange.co.uk) or
-    [find out more here](#URL).
+    000](#URL) or <mailto:xxxxxx@realchange.co.uk> or [find out more
+    here](/how-to-apply/).
   heading: How can you apply?
 partners:
   body: >
