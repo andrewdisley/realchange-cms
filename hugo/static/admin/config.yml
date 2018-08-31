@@ -142,6 +142,8 @@ collections:
             ]}
   - name: "stories"
     label: "Story"
+    editor:
+      preview: false
     folder: "hugo/content/stories"
     create: true
     filter: {field: "story", value: "yes"}
