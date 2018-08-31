@@ -1,5 +1,5 @@
 ---
-story: true
+story: yes
 title: Danny’s Story |
 date: 2018-08-25T20:24:10.347Z
 header:
