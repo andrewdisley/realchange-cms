@@ -4,8 +4,8 @@
 <div class="section">
   <div class="container">
     <div class="content">
-      {{ $bodyMarkdown := .Params.body | markdownify }}
-      {{ if not ( strings.Contains $bodyMarkdown "<p>" ) }}<p>{{ $bodyMarkdown }}</p>{{ else }}{{ $bodyMarkdown }}{{ end }}
+      {{ $contentMarkdown := .Params.content | markdownify }}
+      {{ if not ( strings.Contains $contentMarkdown "<p>" ) }}<p>{{ $contentMarkdown }}</p>{{ else }}{{ $contentMarkdown }}{{ end }}
     </div>
   </div>
 </div>
