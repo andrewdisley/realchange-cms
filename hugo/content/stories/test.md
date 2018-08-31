@@ -1,5 +1,5 @@
 ---
-story: 'true'
+story: 'yes'
 title: test
 date: 2018-08-31T21:29:12.231Z
 header:
