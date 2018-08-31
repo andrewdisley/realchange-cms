@@ -1,5 +1,6 @@
 baseurl = "/"
 languageCode = "en-gb"
 title = "Real Change Wigan & Leigh"
+disableKinds = ["RSS"]
 [blackfriday]
    hrefTargetBlank = true
