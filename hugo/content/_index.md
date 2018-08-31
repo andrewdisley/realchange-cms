@@ -1,7 +1,7 @@
 ---
-title: "Real Change"
+title: "Welcome to "
 header:
-  classes: "home-header decor decor-bottom decor-rc-candy"
+  classes: "home-header"
   background: "assets/uploads/home-header.jpg"
   hero: "Help make a <span class=\"text-rc-candy\">Real Change</span> in **Wigan & Leigh**"
 footer:

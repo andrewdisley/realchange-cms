@@ -2,7 +2,6 @@
 title: "Stories | "
 date: 2018-08-30T01:20:38+01:00
 header:
-  classes: "decor decor-bottom decor-rc-candy"
   background: false
 footer:
   classes: "footer-withcityscape"

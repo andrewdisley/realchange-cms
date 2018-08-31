@@ -1,7 +1,6 @@
 ---
 title: "How it Works"
 header:
-  classes: "decor decor-bottom decor-rc-candy"
   background: false
   hero: "<span class=\"text-rc-candy\">Real Change</span> in Wigan & Leigh **How it Works**"
 footer:
