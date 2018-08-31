@@ -21,15 +21,14 @@ who:
   body: |
     **The Real Change fund supports individuals who are homeless by paying for items they need** - a deposit for a home, a training course, clothes for a job interview, furnishing for a new flat, or travel costs.
 
-    [Find out more about how Real Change works and how the money is spent.](#URL)
+    [Find out more about how Real Change works and how the money is spent.](/how-it-works/)
 how:
   heading: "How can you apply?"
   body: |
     If your organisation provides a service to support people who are homeless in Wigan & Leigh and you would like to discuss how to become an approved Real Change partner please contact the Real Change Secretary on [0000 000 000](#URL) or [xxxxxx@realchange.co.uk](mailto:xxxxxx@realchange.co.uk) or [find out more here](#URL).
 partners:
-  classes: "bg-rc-blue home-partners pre-footer-withcityscape edge edge-top edge-rc-blue-top"
   heading: "Help from our Partners"
-  media: "assets/home-partners-media.jpg"
+  image: "assets/uploads/home-partners-media.jpg"
   body: |
     **If you are sleeping rough in Wigan & Leigh and want to apply for funds to help you get off the street, get in touch with one of our partner organisations who will work with you to apply for funds on your behalf.**
 

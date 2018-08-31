@@ -41,3 +41,19 @@ collections:
               {label: "Heading", name: "heading", widget: "string"},
               {label: "Body", name: "body", widget: "markdown"}
             ]}
+          - {label: "Partners", name: "partners", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Image", name: "image", widget: "image"},
+              {label: "Body", name: "body", widget: "markdown"},
+              {label: "List", name: "list", widget: "markdown"}
+            ]}
+      - file: "hugo/content/privacy/_index.md"
+        label: "Privacy Policy"
+        name: "privacy"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: "Header", name: "header", widget: "object", fields: [
+              {label: "Classes", name: "classes", widget: "string"},
+              {label: "Background", name: "background", widget: "image"},
+              {label: "Hero", name: "hero", widget: "markdown"}
+            ]}

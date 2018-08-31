@@ -2,13 +2,13 @@
 title: "{{ replace .Name "-" " " | title }} | "
 date: {{ .Date }}
 draft: true
-image: /img/{{ replace .Name " " "-" | lower }}-4by3.jpg
+image: assets/uploads/{{ replace .Name " " "-" | lower }}-4by3.jpg
 name: "{{ replace .Name "-" " " | title }}"
 age: "..."
 help: "Received help with..."
 summary:
   heading: "“Real change helped me ...”"
-  image: /img/{{ replace .Name " " "-" | lower }}-5by2.jpg
+  image: assets/uploads/{{ replace .Name " " "-" | lower }}-5by2.jpg
   text: "Read {{ replace .Name "-" " " | title }} story"
 realchange:
   heading: "The real change you made"
