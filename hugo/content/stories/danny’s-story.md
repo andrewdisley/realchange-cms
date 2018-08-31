@@ -6,12 +6,12 @@ header:
   hero: "<span class=\"text-rc-candy\">Real Change</span> in Wigan & Leigh **\LDanny’s Story**"
 summary:
   heading: “Real change helped me when I needed it most”
-  image: /assets/uploads/casestudy-danny-5by2.jpg
+  image: /assets/uploads/story-danny-5by2.jpg
   text: Read Danny’s story
 content:
   age: '31'
   help: Received help with childcare
-  image: /assets/uploads/casestudy-danny-4by3.jpg
+  image: /assets/uploads/story-danny-4by3.jpg
   name: Danny
 realchange:
   body: >-
