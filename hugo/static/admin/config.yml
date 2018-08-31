@@ -158,3 +158,18 @@ collections:
               {label: "Heading", name: "heading", widget: "string"},
               {label: "body", name: "body", widget: "markdown"}
             ]}
+      - file: "hugo/content/stories/_index.md"
+        label: "Stories"
+        name: "stories"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Header", name: "header", widget: "object", fields: [
+              {label: "Background (optional)", name: "background", widget: "image"},
+              {label: "Header Text (optional)", name: "hero", widget: ""}
+            ]}
+          - {label: "Intro", name: "intro", widget: "markdown"}
+          - {label: "Heading", name: "heading", widget: "text"}
+          - {label: "Button", name: "button", widget: "object", fields: [
+              {label: "URL (inc. http://)", name: "url", widget: "string"},
+              {label: "Text", name: "text", widget: "string"}
+            ]}
