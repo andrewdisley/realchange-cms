@@ -1,6 +1,7 @@
 ---
 title: '{{ replace .Name "-" " " | title }} |'
 date: {{ .Date }}
+draft: true
 summary:
   heading: “Real change helped me ...”
   image: assets/uploads/{{ replace .Name " " "-" | lower }}-5by2.jpg
