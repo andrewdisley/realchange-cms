@@ -52,3 +52,4 @@ collections:
               {label: "Background (optional)", name: "background", widget: "image"},
               {label: "Header Text (optional)", name: "hero", widget: "markdown"}
             ]}
+          - {label: "Body", name: "body", widget: "markdown"}
