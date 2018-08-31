@@ -12,7 +12,7 @@ collections:
       preview: false
     files:
       - file: "hugo/content/_index.md"
-        label: "Home Page"
+        label: "Home"
         name: "home"
         fields:
           - {label: "Title", name: "title", widget: "string"}
@@ -95,6 +95,21 @@ collections:
                 {label: "URL (inc. http://)", name: "url", widget: "string"},
                 {label: "Text", name: "text", widget: "string"}
               ]}
+            ]}
+      - file: "hugo/content/how-to-apply/_index.md"
+        label: "How to Apply"
+        name: "how-to-apply"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Header", name: "header", widget: "object", fields: [
+              {label: "Background (optional)", name: "background", widget: "image"},
+              {label: "Header Text (optional)", name: "hero", widget: "markdown"}
+            ]}
+          - {label: "Body", name: "content", widget: "markdown"}
+          - {label: "List", name: "list", widget: "markdown"}
+          - {label: "Partners", name: "partners", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "body", name: "body", widget: "markdown"}
             ]}
       - file: "hugo/content/privacy/_index.md"
         label: "Privacy Policy"

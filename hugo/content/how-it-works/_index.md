@@ -1,10 +1,8 @@
 ---
-title: "How it Works"
+title: 'How it Works |'
 header:
   background: false
   hero: "<span class=\"text-rc-candy\">Real Change</span> in Wigan & Leigh **How it Works**"
-footer:
-  classes: "footer-withcityscape"
 intro:
   body: |
     **Real change is a fund for Wigan & Leigh that pays for items that local people need to get off and stay off the street.**
