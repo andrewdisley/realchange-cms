@@ -1,12 +1,12 @@
 ---
-title: 'Welcome to'
+title: Welcome to
 header:
   background: assets/uploads/home-header.jpg
   hero: >-
     Help make a <span class="text-rc-candy">Real Change</span> in **Wigan &
     Leigh**
 whatis:
-  body: >
+  body: >-
     **Real Change pays for practical items individuals need to build independent
     lives away from the streets.**
 
@@ -68,3 +68,4 @@ partners:
     * [Riverside](#Riverside)
     * [Shelter](#Shelter)
 ---
+
