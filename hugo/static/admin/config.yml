@@ -17,12 +17,8 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Header", name: "header", widget: "object", fields: [
-              {label: "Classes", name: "classes", widget: "string"},
-              {label: "Background", name: "background", widget: "image"},
-              {label: "Hero", name: "hero", widget: "markdown"}
-            ]}
-          - {label: "Footer", name: "footer", widget: "object", fields: [
-              {label: Classes, name: "classes", widget: "string"}
+              {label: "Background (optional)", name: "background", widget: "image"},
+              {label: "Header Text (optional)", name: "hero", widget: "markdown"}
             ]}
           - {label: "What Is", name: "whatis", widget: "object", fields: [
               {label: "Heading", name: "heading", widget: "string"},
@@ -53,7 +49,6 @@ collections:
         fields:
           - {label: Title, name: title, widget: string}
           - {label: "Header", name: "header", widget: "object", fields: [
-              {label: "Classes", name: "classes", widget: "string"},
-              {label: "Background", name: "background", widget: "image"},
-              {label: "Hero", name: "hero", widget: "markdown"}
+              {label: "Background (optional)", name: "background", widget: "image"},
+              {label: "Header Text (optional)", name: "hero", widget: "markdown"}
             ]}
