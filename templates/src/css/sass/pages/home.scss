@@ -216,6 +216,7 @@
 
   @include media-breakpoint-up(sm) {
     display: flex;
+    flex-wrap: wrap;
     margin-left: 0.25rem;
     margin-right: 0.25rem;
   }
@@ -228,6 +229,8 @@
   .card-story {
     margin-left: 0.75rem;
     margin-right: 0.75rem;
+    max-width: 47%;
+    min-width: 47%;
 
     @include media-breakpoint-up(sm) {
       flex-basis: 0;

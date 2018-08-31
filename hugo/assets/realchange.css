@@ -583,11 +583,11 @@ p + .button { margin-top: 1rem; }
 
 .home-stories-body { margin-bottom: 2rem; }
 
-@media (min-width: 576px) { .home-stories-body { display: -webkit-box; display: -ms-flexbox; display: flex; margin-left: 0.25rem; margin-right: 0.25rem; } }
+@media (min-width: 576px) { .home-stories-body { display: -webkit-box; display: -ms-flexbox; display: flex; -ms-flex-wrap: wrap; flex-wrap: wrap; margin-left: 0.25rem; margin-right: 0.25rem; } }
 
 @media (min-width: 992px) { .home-stories-body { margin-left: -0.75rem; margin-right: -0.75rem; } }
 
-.home-stories-body .card-story { margin-left: 0.75rem; margin-right: 0.75rem; }
+.home-stories-body .card-story { margin-left: 0.75rem; margin-right: 0.75rem; max-width: 47%; min-width: 47%; }
 
 @media (min-width: 576px) { .home-stories-body .card-story { -ms-flex-preferred-size: 0; flex-basis: 0; -webkit-box-flex: 1; -ms-flex-positive: 1; flex-grow: 1; -ms-flex-negative: 1; flex-shrink: 1; margin-bottom: 0; margin-left: 0.5rem; margin-right: 0.5rem; } }
 
