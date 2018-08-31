@@ -1,7 +1,7 @@
 ---
 story: 'yes'
-title: Another test
-date: 2018-08-31T21:42:34.333Z
+title: Empty story
+date: 2018-07-29T21:42:34.333Z
 header:
   hero: test
 summary:
