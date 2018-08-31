@@ -1,5 +1,5 @@
 ---
-title: 'Welcome to '
+title: 'Welcome to'
 header:
   background: assets/uploads/home-header.jpg
   hero: >-
@@ -68,4 +68,3 @@ partners:
     * [Riverside](#Riverside)
     * [Shelter](#Shelter)
 ---
-
