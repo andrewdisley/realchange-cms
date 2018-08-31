@@ -12,6 +12,7 @@ collections:
     create: true
     filter: {field: "type", value: "story"}
     fields:
+      - {label: "Type", name: "type", widget: "hidden", default: "story"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Header", name: "header", widget: "object", fields: [
