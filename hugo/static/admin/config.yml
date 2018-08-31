@@ -43,11 +43,64 @@ collections:
               {label: "Body", name: "body", widget: "markdown"},
               {label: "List", name: "list", widget: "markdown"}
             ]}
+      - file: "site/content/how-it-works/_index.md"
+        label: "How it works"
+        name: "how-it-works"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Header", name: "header", widget: "object", fields: [
+              {label: "Background (optional)", name: "background", widget: "image"},
+              {label: "Header Text (optional)", name: "hero", widget: "markdown"}
+            ]}
+          - {label: "Intro", name: "intro", widget: "object", fields: [
+              {label: "Body", name: "body", widget: "markdown"},
+              {label: "Button", name: "button", widget: "object", fields: [
+                {label: "URL (inc. http://)", name: "url", widget: "string"},
+                {label: "Text", name: "text", widget: "string"}
+              ]}
+            ]}
+          - {label: "Where", name: "where", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"},
+              {label: "Stat 1", name: "stat1", widget: "object", fields: [
+                {label: "Image", name: "image", widget: "image"},
+                {label: "Count", name: "count", widget: "string"},
+                {label: "Text", name: "text", widget: "string"}
+              ]},
+              {label: "Stat 2", name: "stat2", widget: "object", fields: [
+                {label: "Image", name: "image", widget: "image"},
+                {label: "Count", name: "count", widget: "string"},
+                {label: "Text", name: "text", widget: "string"}
+              ]},
+              {label: "Stat 3", name: "stat3", widget: "object", fields: [
+                {label: "Image", name: "image", widget: "image"},
+                {label: "Count", name: "count", widget: "string"},
+                {label: "Text", name: "text", widget: "string"}
+              ]}
+            ]}
+          - {label: "How", name: "how", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"},
+              {label: "Card 1", name: "card1", widget: "object", fields: [
+                {label: "Heading", name: "heading", widget: "string"},
+                {label: "Subheading", name: "subheading", widget: "string"},
+                {label: "Body", name: "body", widget: "markdown"}
+              ]},
+              {label: "Card 2", name: "card2", widget: "object", fields: [
+                {label: "Heading", name: "heading", widget: "string"},
+                {label: "Subheading", name: "subheading", widget: "string"},
+                {label: "Body", name: "body", widget: "markdown"}
+              ]},
+              {label: "Button", name: "button", widget: "object", fields: [
+                {label: "URL (inc. http://)", name: "url", widget: "string"},
+                {label: "Text", name: "text", widget: "string"}
+              ]}
+            ]}
       - file: "hugo/content/privacy/_index.md"
         label: "Privacy Policy"
         name: "privacy"
         fields:
-          - {label: Title, name: title, widget: string}
+          - {label: "Title", name: "title", widget: "string"}
           - {label: "Header", name: "header", widget: "object", fields: [
               {label: "Background (optional)", name: "background", widget: "image"},
               {label: "Header Text (optional)", name: "hero", widget: "markdown"}
