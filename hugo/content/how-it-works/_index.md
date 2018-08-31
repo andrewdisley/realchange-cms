@@ -1,17 +1,12 @@
 ---
-<<<<<<< HEAD
 title: 'How it Works |'
 header:
   background: false
-  hero: "<span class=\"text-rc-candy\">Real Change</span> in Wigan & Leigh **How it Works**"
-=======
-title: How it Works
-header:
+  header:
   background: /assets/uploads/casestudy-jack-header.jpg
   hero: >-
     <span class="text-rc-candy">Real Change</span> in Wigan & Leigh **How it
     Works**
->>>>>>> e134bd878ee65c1361318ed1976edd087b618132
 intro:
   body: >
     **Real change is a fund for Wigan & Leigh that pays for items that local
@@ -69,4 +64,3 @@ how:
     subheading: '(e.g. Deposit or rent, furnishings for a flat, white goods over £100)'
   heading: How will my donation be spent?
 ---
-
