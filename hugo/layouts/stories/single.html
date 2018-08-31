@@ -4,20 +4,23 @@
 <article class="section casestudy">
   <div class="container">
     <div class="casestudy-header">
+      {{ if .Params.content.image }}
       <div class="casestudy-header-media aspect-bg aspect-bg-4by3">
         <div class="aspect aspect-4by3">
-          <img alt="" src="assets/casestudy-jack-4by3.jpg">
+          <img alt="" src="{{ .Params.content.image }}">
         </div>
       </div>
+      {{ end }}
       <div class="casestudy-header-body">
-        {{ if .Params.name }}<h4 class="h2 mb-n">Name:</h4><p>{{ .Params.name }}</p>{{ end }}
-        {{ if .Params.age }}<h4 class="h2 mb-n">Age:</h4><p>{{ .Params.age }}</p>{{ end }}
-        {{ if .Params.help }}<h4 class="h2 mb-n">Help Received:</h4><p>{{ .Params.help }}</p>{{ end }}
+        {{ if .Params.content.name }}<h4 class="h2 mb-n">Name:</h4><p>{{ .Params.content.name }}</p>{{ end }}
+        {{ if .Params.content.age }}<h4 class="h2 mb-n">Age:</h4><p>{{ .Params.content.age }}</p>{{ end }}
+        {{ if .Params.content.help }}<h4 class="h2 mb-n">Help Received:</h4><p>{{ .Params.content.help }}</p>{{ end }}
       </div>
     </div>
     <div class="casestudy-body">
       <div class="content">
-{{ .Content }}
+        {{ $contentBodyMarkdown := .Params.content.body | markdownify }}
+        {{ if not ( strings.Contains $contentBodyMarkdown "<p>" ) }}<p>{{ $contentBodyMarkdown }}</p>{{ else }}{{ $contentBodyMarkdown }}{{ end }}
       </div>
     </div>
   </div>
