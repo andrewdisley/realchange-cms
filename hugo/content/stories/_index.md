@@ -1,6 +1,5 @@
 ---
 title: "Stories |"
-date: 2018-08-30T01:20:38+01:00
 header:
   background: false
 heading: "56 people helped so far in Wigan & Leigh"
