@@ -6,6 +6,37 @@ media_folder: "hugo/static/assets/uploads"
 public_folder: "assets/uploads"
 
 collections:
+  - name: "stories"
+    label: "Stories"
+    folder: "hugo/content/stories"
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Header", name: "header", widget: "object", fields: [
+          {label: "Background (optional)", name: "background", widget: "image"},
+          {label: "Header Text (optional)", name: "hero", widget: "markdown"}
+        ]}
+      - {label: "Summary (Card on Home and Stories)", name: "summary", widget: "object", fields: [
+          {label: "Image", name: "image", widget: "image"},
+          {label: "Heading", name: "heading", widget: "string"},
+          {label: "Text", name: "text", widget: "string"}
+        ]}
+      - {label: "Content", name: "content", widget: "object", fields: [
+          {label: "Image", name: "image", widget: "image"},
+          {label: "Name", name: "name", widget: "string"},
+          {label: "Age", name: "age", widget: "string"},
+          {label: "Help received", name: "help", widget: "string"},
+          {label: "Body", name: "content", widget: "markdown"}
+        ]}
+      - {label: "Real change", name: "realchange", widget: "object", fields: [
+          {label: "Heading", name: "heading", widget: "string"},
+          {label: "Body", name: "body", widget: "markdown"},
+          {label: "Button", name: "button", widget: "object", fields: [
+            {label: "URL (inc. http://)", name: "url", widget: "string"},
+            {label: "Text", name: "text", widget: "string"}
+          ]}
+        ]}
   - name: "pages"
     label: "Pages"
     editor:
