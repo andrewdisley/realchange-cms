@@ -105,4 +105,8 @@ collections:
               {label: "Background (optional)", name: "background", widget: "image"},
               {label: "Header Text (optional)", name: "hero", widget: "markdown"}
             ]}
-          - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Body", name: "content", widget: "markdown"}
+          - {label: "Partners", name: "partners", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "body", name: "body", widget: "markdown"}
+            ]}
