@@ -10,9 +10,9 @@ collections:
     label: "Stories"
     folder: "hugo/content/stories"
     create: true
-    filter: {field: "type", value: "story"}
+    filter: {field: "story", value: "true"}
     fields:
-      - {label: "Type", name: "type", widget: "hidden", default: "story"}
+      - {label: "Type", name: "story", widget: "hidden", default: "true"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Header", name: "header", widget: "object", fields: [
