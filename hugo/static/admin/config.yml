@@ -43,8 +43,8 @@ collections:
               {label: "Body", name: "body", widget: "markdown"},
               {label: "List", name: "list", widget: "markdown"}
             ]}
-      - file: "site/content/how-it-works/_index.md"
-        label: "How it works"
+      - file: "hugo/content/how-it-works/_index.md"
+        label: "How it Works"
         name: "how-it-works"
         fields:
           - {label: "Title", name: "title", widget: "string"}
