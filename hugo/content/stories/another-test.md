@@ -3,9 +3,10 @@ story: 'yes'
 title: Empty story
 date: 2018-07-29T21:42:34.333Z
 header:
-  hero: test
+  hero: ''
 summary:
-  heading: test
+  heading: Empty story
+  text: Read my empty story
 content:
   name: test
 realchange:
