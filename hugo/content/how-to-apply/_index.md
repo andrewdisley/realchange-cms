@@ -1,8 +1,9 @@
 ---
 title: 'How to Apply |'
 header:
-  background: false
-  hero: "<span class=\"text-rc-candy\">Real Change</span> in Wigan & Leigh **How to Apply**"
+  background: /assets/uploads/header-worldcap.jpg
+  hero: >-
+    <span class="text-rc-candy">Real Change</span> in Wigan & Leigh **How to Apply**
 content: >
   **If you are sleeping rough and want to apply for funds to help you get off the street, get in touch with one of our partner organisations who will work with you to apply for funds on your behalf:**
 list: |

@@ -1,7 +1,7 @@
 ---
 title: 'How it Works |'
 header:
-  background: /assets/uploads/casestudy-jack-header.jpg
+  background: /assets/uploads/header-worldcap.jpg
   hero: >-
     <span class="text-rc-candy">Real Change</span> in Wigan & Leigh **How it
     Works**
