@@ -8,8 +8,15 @@ summary:
   heading: Empty story
   text: Read my empty story
 content:
-  name: test
+  age: Old
+  body: body
+  help: 'Yes'
+  name: Name
 realchange:
+  body: body
+  button:
+    text: Donate
+    url: '#donate'
   heading: test
 ---
 
