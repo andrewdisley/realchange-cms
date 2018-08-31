@@ -7,7 +7,7 @@ header:
   hero: "<span class=\"text-rc-candy\">Real Change</span> in Wigan & Leigh **\LJack’s Story**"
 summary:
   heading: “Real change helped me make a real difference”
-  image: assets/uploads/story-jack-5by2.jpg
+  image: /assets/uploads/story-jack-5by2.jpg
   text: Read Jack’s story
 content:
   age: '26'

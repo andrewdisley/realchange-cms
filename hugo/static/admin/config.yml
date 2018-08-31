@@ -165,7 +165,7 @@ collections:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Header", name: "header", widget: "object", fields: [
               {label: "Background (optional)", name: "background", widget: "image"},
-              {label: "Header Text (optional)", name: "hero", widget: ""}
+              {label: "Header Text (optional)", name: "hero", widget: "markdown"}
             ]}
           - {label: "Intro", name: "intro", widget: "markdown"}
           - {label: "Heading", name: "heading", widget: "text"}
