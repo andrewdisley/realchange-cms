@@ -9,6 +9,14 @@
         <div class="header-brand-subtitle">Wigan & Leigh</div>
       </a>
     </div>
+    <nav class="header-body" role="navigation" aria-labelledby="nav-site">
+      <h2 class="sr-only" id="nav-site">Site navigation</h2>
+      <ul class="header-nav">
+        <li><a href="/">Home</a></li>
+        <li><a href="/how-it-works/">How</a></li>
+        <li><a href="/how-to-apply/">Apply</a></li>
+      </ul>
+    </nav>
     {{ if .hero }}
     <div class="header-hero">
       <h1 class="header-hero-title">{{ .hero | markdownify | safeHTML }}</h1>
