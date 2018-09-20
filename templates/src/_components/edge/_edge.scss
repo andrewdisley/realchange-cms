@@ -93,14 +93,14 @@
   }
 }
 
-.edges-rc-blue {
-  background-image: url(assets/edges-rc-blue-left.png), url(assets/edges-rc-blue-right.png);
+.edges-rc-dive {
+  background-image: url(assets/edges-rc-dive-left.png), url(assets/edges-rc-dive-right.png);
 
   &::before {
-    background-image: url(assets/edges-rc-blue-top.png);
+    background-image: url(assets/edges-rc-dive-top.png);
   }
 
   &::after {
-    background-image: url(assets/edges-rc-blue-bottom.png);
+    background-image: url(assets/edges-rc-dive-bottom.png);
   }
 }
