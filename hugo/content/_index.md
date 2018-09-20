@@ -1,7 +1,8 @@
 ---
 title: Welcome to
 header:
-  background: assets/uploads/home-header.jpg
+  background:
+  classes: "home-header"
   hero: >-
     Help make a Real Change in **Wigan & Leigh**
 whatis:

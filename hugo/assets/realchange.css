@@ -517,11 +517,11 @@ p + .button { margin-top: 1rem; }
 
 @media (min-width: 768px) { .home-header .header-hero { margin-top: -6rem; padding-bottom: 3rem; } }
 
-.home-header .header-hero-title { font-size: 48px; }
+.home-header .header-hero-title, .home-header .header-hero-title strong { font-size: 48px; }
 
-@media (min-width: 576px) { .home-header .header-hero-title { font-size: 58px; } }
+@media (min-width: 576px) { .home-header .header-hero-title, .home-header .header-hero-title strong { font-size: 58px; } }
 
-@media (min-width: 768px) { .home-header .header-hero-title { font-size: 90px; } }
+@media (min-width: 768px) { .home-header .header-hero-title, .home-header .header-hero-title strong { font-size: 90px; } }
 
 .home-intro .boxed { margin-left: 0.75rem; margin-right: 0.75rem; }
 
