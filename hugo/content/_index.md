@@ -2,7 +2,7 @@
 title: Welcome to
 header:
   classes: home-header
-  hero: Help make a Real Change in **Wigan & Leigh**
+  hero: <span>Help make</span> a Real Change in **Wigan & Leigh**
 whatis:
   body: >-
     **Real Change pays for practical items individuals need to build independent
