@@ -43,7 +43,7 @@
 
 .header-brand {
   a {
-    color: $color-white;
+    color: $color-black;
     text-decoration: none;
   }
 }
@@ -54,6 +54,7 @@
   height: 80px;
   margin-left: 0.5rem;
   margin-right: 0.5rem;
+  vertical-align: top;
   width: 65px;
 
   @include media-breakpoint-up(sm) {
@@ -72,16 +73,19 @@
 }
 
 .header-brand-subtitle {
-  font-size: $font-size-xs;
+  font-family: $font-family-rc-lunchbox;
+  font-size: $font-size-sm;
   font-weight: $font-weight-bold;
+  margin-top: 4px;
   text-align: center;
 
   @include media-breakpoint-up(sm) {
-    font-size: $font-size-sm;
+    font-size: $font-size-base;
+    margin-top: 2px;
   }
 
   @include media-breakpoint-up(md) {
-    font-size: $font-size-base;
+    font-size: $font-size-xl;
   }
 }
 
