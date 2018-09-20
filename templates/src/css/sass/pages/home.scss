@@ -12,7 +12,8 @@
     }
   }
 
-  .header-hero-title {
+  .header-hero-title,
+  .header-hero-title strong {
     font-size: 48px;
 
     @include media-breakpoint-up(sm) {
