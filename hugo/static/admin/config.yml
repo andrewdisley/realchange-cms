@@ -130,6 +130,7 @@ collections:
         name: "stories"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Show on Home", name: "showonhome", widget: "boolean", default: false}
           - {label: "Header", name: "header", widget: "object", fields: [
               {label: "Background (optional)", name: "background", widget: "image"},
               {label: "Header Text (optional)", name: "hero", widget: "markdown"}

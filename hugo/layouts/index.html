@@ -33,6 +33,7 @@
   </div>
 </section>
 
+{{ with .Site.GetPage "section" "stories" }}{{ if eq .Params.showonhome true }}
 <section class="section home-stories bg-rc-aubergine edge edge-top edge-rc-aubergine-top">
   <div class="container">
     <div class="home-stories-header">
@@ -56,6 +57,7 @@
     </div>
   </div>
 </section>
+{{ end }}{{ end }}
 
 <section class="section bg-rc-blue home-partners pre-footer-withcityscape edge edge-top edge-rc-blue-top">
   <div class="container">
