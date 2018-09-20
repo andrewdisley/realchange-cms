@@ -305,7 +305,7 @@ p + .button { margin-top: 1rem; }
 
 .decor-bottom::after { background-position: 50% 0; background-repeat: repeat-x; bottom: -0.5rem; left: 0; position: absolute; right: 0; }
 
-.decor-rc-dive.decor-bottom::after { background-image: url(assets/decor-rc-dive.png); }
+.decor-rc-sunny.decor-bottom::after { background-image: url(assets/decor-rc-sunny.png); }
 
 .edge { position: relative; }
 

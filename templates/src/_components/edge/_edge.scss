@@ -45,6 +45,10 @@
   background-image: url(assets/edge-rc-dive-top.png);
 }
 
+.edge-rc-sunny-top::before {
+  background-image: url(assets/edge-rc-sunny-top.png);
+}
+
 .edges {
   background-image: url(assets/edges-left.png), url(assets/edges-right.png);
   background-position: 0 0, 100% 0;
