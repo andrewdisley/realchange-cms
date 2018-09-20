@@ -182,8 +182,8 @@
 }
 
 .header-hero-title {
-  // background-color: blue;
-  font-size: 32px;
+  // background-color: $color-rc-dive;
+  font-size: 40px;
   line-height: 1;
   margin-bottom: 0;
 
@@ -193,28 +193,20 @@
   }
 
   @include media-breakpoint-up(md) {
-    font-size: 36px;
     margin-left: 8rem;
     margin-right: 8rem;
   }
 
-  @include media-breakpoint-up(lg) {
-    font-size: 40px;
-  }
-
   span {
-    display: inline-block;
+    display: block;
   }
 
   strong {
-
+    display: block;
+    font-size: 58px;
+  
     @include media-breakpoint-up(md) {
-      display: block;
-      font-size: 90px;
-    }
-
-    @include media-breakpoint-up(lg) {
-      font-size: 120px;
+      font-size: 70px;
     }
   }
 }

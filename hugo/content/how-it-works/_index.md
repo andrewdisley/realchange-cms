@@ -3,8 +3,7 @@ title: 'How it Works |'
 header:
   background: /assets/uploads/header-worldcap.jpg
   hero: >-
-    <span class="text-rc-candy">Real Change</span> in Wigan & Leigh **How it
-    Works**
+    Real Change in Wigan & Leigh **How it Works**
 intro:
   body: >
     **Real change is a fund for Wigan & Leigh that pays for items that local

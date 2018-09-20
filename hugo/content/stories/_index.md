@@ -4,7 +4,7 @@ title: Stories |
 showonhome: false
 header:
   background: /assets/uploads/header-worldcap.jpg
-  hero: <span class="text-rc-candy">Real Change</span> in Wigan & Leigh **Stories**
+  hero: Real Change in Wigan & Leigh **Stories**
 intro: >
   **Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque laborum
   voluptatibus, eius in a quas aspernatur harum autem, amet, nostrum libero

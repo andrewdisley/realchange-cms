@@ -7,20 +7,20 @@
     padding-bottom: 2rem;
 
     @include media-breakpoint-up(md) {
-      margin-top: -2rem;
-      padding-bottom: 4rem;
+      margin-top: -6rem;
+      padding-bottom: 3rem;
     }
   }
 
   .header-hero-title {
-     strong {
-      @include media-breakpoint-up(md) {
-        font-size: 90px;
-      }
+    font-size: 48px;
 
-      @include media-breakpoint-up(lg) {
-        font-size: 120px;
-      }
+    @include media-breakpoint-up(sm) {
+      font-size: 58px;
+    }
+
+    @include media-breakpoint-up(md) {
+      font-size: 90px;
     }
   }
 }

@@ -3,8 +3,7 @@ title: Welcome to
 header:
   background: assets/uploads/home-header.jpg
   hero: >-
-    Help make a <span class="text-rc-candy">Real Change</span> in **Wigan &
-    Leigh**
+    Help make a Real Change in **Wigan & Leigh**
 whatis:
   body: >-
     **Real Change pays for practical items individuals need to build independent
