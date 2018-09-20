@@ -1,10 +1,8 @@
 ---
 title: Welcome to
 header:
-  background:
-  classes: "home-header"
-  hero: >-
-    Help make a Real Change in **Wigan & Leigh**
+  classes: home-header
+  hero: Help make a Real Change in **Wigan & Leigh**
 whatis:
   body: >-
     **Real Change pays for practical items individuals need to build independent
@@ -46,7 +44,6 @@ partners:
     Real Change Wigan & Leigh currently works in partnership with the following
     organisations:
   heading: Help from our Partners
-  youtube:
   image: assets/uploads/home-partners-media.jpg
   list: |
     * [Barnabus](#Barnabus)
@@ -68,5 +65,6 @@ partners:
     * [Reach Out to the Community](#ReachOuttotheCommunity)
     * [Riverside](#Riverside)
     * [Shelter](#Shelter)
+  youtube: 'https://www.youtube.com/embed/pjxX5ndMCDo?rel=0'
 ---
 
