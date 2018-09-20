@@ -305,7 +305,7 @@ p + .button { margin-top: 1rem; }
 
 .decor-bottom::after { background-position: 50% 0; background-repeat: repeat-x; bottom: -0.5rem; left: 0; position: absolute; right: 0; }
 
-.decor-rc-candy.decor-bottom::after { background-image: url(assets/decor-rc-candy.png); }
+.decor-rc-dive.decor-bottom::after { background-image: url(assets/decor-rc-dive.png); }
 
 .edge { position: relative; }
 
@@ -319,9 +319,11 @@ p + .button { margin-top: 1rem; }
 
 .edge-rc-aubergine-top::before { background-image: url(assets/edge-rc-aubergine-top.png); }
 
+.edge-rc-blue-top::before { background-image: url(assets/edge-rc-blue-top.png); }
+
 .edge-rc-candy-top::before { background-image: url(assets/edge-rc-candy-top.png); }
 
-.edge-rc-blue-top::before { background-image: url(assets/edge-rc-blue-top.png); }
+.edge-rc-dive-top::before { background-image: url(assets/edge-rc-dive-top.png); }
 
 .edges { background-image: url(assets/edges-left.png), url(assets/edges-right.png); background-position: 0 0, 100% 0; background-repeat: repeat-y, repeat-y; background-size: 4px 336px, 4px 336px; position: relative; }
 
@@ -343,7 +345,7 @@ p + .button { margin-top: 1rem; }
 
 .footer { background-color: #FFFFFF; }
 
-.footer a { font-weight: 700; }
+.footer a { color: #5E71BA; font-weight: 700; }
 
 .footer-inner { max-width: 840px; margin-left: auto; margin-right: auto; width: 100%; max-width: 836px; padding: 1rem 0.75rem; }
 
@@ -371,11 +373,11 @@ p + .button { margin-top: 1rem; }
 
 @media (min-width: 768px) { .footer-brand-logo { height: 110px; width: 96px; } }
 
-.footer-brand-subtitle { font-size: 0.75rem; font-weight: 700; }
+.footer-brand-subtitle { font-family: "Lunchbox"; font-size: 0.75rem; font-weight: 700; }
 
 @media (min-width: 576px) { .footer-brand-subtitle { font-size: 0.875rem; } }
 
-@media (min-width: 768px) { .footer-brand-subtitle { font-size: 1.0rem; } }
+@media (min-width: 768px) { .footer-brand-subtitle { font-size: 1.125rem; } }
 
 .footer-body { -webkit-box-flex: 1; -ms-flex: 1; flex: 1; font-weight: 300; margin-bottom: 2rem; -webkit-box-ordinal-group: 3; -ms-flex-order: 2; order: 2; }
 
@@ -387,7 +389,7 @@ p + .button { margin-top: 1rem; }
 
 .footer-body-icon { padding-left: 1.75rem; position: relative; }
 
-.footer-body-icon svg { color: #B7528F; fill: currentColor; left: 0; position: absolute; top: 4px; }
+.footer-body-icon svg { color: #5E71BA; fill: currentColor; left: 0; position: absolute; top: 4px; }
 
 .footer-info { font-size: 0.875rem; }
 
@@ -417,19 +419,19 @@ p + .button { margin-top: 1rem; }
 
 .header-inner { max-width: 840px; margin-left: auto; margin-right: auto; width: 100%; display: -webkit-box; display: -ms-flexbox; display: flex; -ms-flex-wrap: wrap; flex-wrap: wrap; max-width: 1024px; overflow: hidden; }
 
-.header-brand a { color: #FFFFFF; text-decoration: none; }
+.header-brand a { color: #000000; text-decoration: none; }
 
-.header-brand-inner { -webkit-box-align: end; -ms-flex-align: end; align-items: flex-end; display: -webkit-inline-box; display: -ms-inline-flexbox; display: inline-flex; height: 80px; margin-left: 0.5rem; margin-right: 0.5rem; width: 65px; }
+.header-brand-inner { -webkit-box-align: end; -ms-flex-align: end; align-items: flex-end; display: -webkit-inline-box; display: -ms-inline-flexbox; display: inline-flex; height: 80px; margin-left: 0.5rem; margin-right: 0.5rem; vertical-align: top; width: 65px; }
 
 @media (min-width: 576px) { .header-brand-inner { height: 118px; margin-left: 0.75rem; margin-right: 0.75rem; width: 96px; } }
 
 @media (min-width: 768px) { .header-brand-inner { height: 160px; margin-left: 1rem; margin-right: 1rem; width: 130px; } }
 
-.header-brand-subtitle { font-size: 0.75rem; font-weight: 700; text-align: center; }
+.header-brand-subtitle { font-family: "Lunchbox"; font-size: 0.875rem; font-weight: 700; margin-top: 4px; text-align: center; }
 
-@media (min-width: 576px) { .header-brand-subtitle { font-size: 0.875rem; } }
+@media (min-width: 576px) { .header-brand-subtitle { font-size: 1.125rem; margin-top: 2px; } }
 
-@media (min-width: 768px) { .header-brand-subtitle { font-size: 1.125rem; } }
+@media (min-width: 768px) { .header-brand-subtitle { font-size: 1.75rem; } }
 
 .header-brand-logo { height: 63px; margin-bottom: -1px; margin-left: -1px; max-width: 100%; width: 55px; }
 
@@ -463,19 +465,17 @@ p + .button { margin-top: 1rem; }
 
 @media (min-width: 768px) { .header-hero { margin-top: -5rem; } }
 
-.header-hero-title { font-size: 32px; line-height: 1; margin-bottom: 0; }
+.header-hero-title { font-size: 40px; line-height: 1; margin-bottom: 0; }
 
 @media (min-width: 576px) { .header-hero-title { margin-left: 5rem; margin-right: 5rem; } }
 
-@media (min-width: 768px) { .header-hero-title { font-size: 36px; margin-left: 8rem; margin-right: 8rem; } }
+@media (min-width: 768px) { .header-hero-title { margin-left: 8rem; margin-right: 8rem; } }
 
-@media (min-width: 992px) { .header-hero-title { font-size: 40px; } }
+.header-hero-title span { display: block; }
 
-.header-hero-title span { display: inline-block; }
+.header-hero-title strong { display: block; font-size: 58px; }
 
-@media (min-width: 768px) { .header-hero-title strong { display: block; font-size: 90px; } }
-
-@media (min-width: 992px) { .header-hero-title strong { font-size: 120px; } }
+@media (min-width: 768px) { .header-hero-title strong { font-size: 70px; } }
 
 .stat { margin-bottom: 1rem; text-align: center; }
 
@@ -515,11 +515,13 @@ p + .button { margin-top: 1rem; }
 
 .home-header .header-hero { margin-top: 0; padding-bottom: 2rem; }
 
-@media (min-width: 768px) { .home-header .header-hero { margin-top: -2rem; padding-bottom: 4rem; } }
+@media (min-width: 768px) { .home-header .header-hero { margin-top: -6rem; padding-bottom: 3rem; } }
 
-@media (min-width: 768px) { .home-header .header-hero-title strong { font-size: 90px; } }
+.home-header .header-hero-title { font-size: 48px; }
 
-@media (min-width: 992px) { .home-header .header-hero-title strong { font-size: 120px; } }
+@media (min-width: 576px) { .home-header .header-hero-title { font-size: 58px; } }
+
+@media (min-width: 768px) { .home-header .header-hero-title { font-size: 90px; } }
 
 .home-intro .boxed { margin-left: 0.75rem; margin-right: 0.75rem; }
 
