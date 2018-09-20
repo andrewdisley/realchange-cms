@@ -1,7 +1,6 @@
 ---
 title: 'How to Apply |'
 header:
-  background: /assets/uploads/header-worldcap.jpg
   hero: >-
     Real Change in Wigan & Leigh **How to Apply**
 content: >

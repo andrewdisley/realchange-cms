@@ -3,7 +3,6 @@ draft: true
 title: Stories |
 showonhome: false
 header:
-  background: /assets/uploads/header-worldcap.jpg
   hero: Real Change in Wigan & Leigh **Stories**
 intro: >
   **Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque laborum

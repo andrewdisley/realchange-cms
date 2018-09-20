@@ -1,7 +1,6 @@
 ---
 title: 'How it Works |'
 header:
-  background: /assets/uploads/header-worldcap.jpg
   hero: >-
     Real Change in Wigan & Leigh **How it Works**
 intro:

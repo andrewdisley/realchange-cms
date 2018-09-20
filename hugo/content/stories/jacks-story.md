@@ -4,7 +4,6 @@ story: 'yes'
 title: Jack’s Story |
 date: 2018-08-26T01:00:00.000Z
 header:
-  background: /assets/uploads/header-worldcap.jpg
   hero: "Real Change in Wigan & Leigh **\LJack’s Story**"
 summary:
   heading: “Real change helped me make a real difference”
