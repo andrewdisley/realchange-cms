@@ -5,6 +5,7 @@
   background-color: $color-white;
 
   a {
+    color: $color-rc-dive;
     font-weight: $font-weight-bold;
   }
 }
@@ -73,6 +74,7 @@
 }
 
 .footer-brand-subtitle {
+  font-family: $font-family-rc-lunchbox;
   font-size: $font-size-xs;
   font-weight: $font-weight-bold;
 
@@ -81,7 +83,7 @@
   }
 
   @include media-breakpoint-up(md) {
-    font-size: $font-size-md;
+    font-size: $font-size-base;
   }
 }
 
@@ -109,7 +111,7 @@
   position: relative;
 
   svg {
-    color: $color-rc-aubergine;
+    color: $color-rc-dive;
     fill: currentColor;
     left: 0;
     position: absolute;
