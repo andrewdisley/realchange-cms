@@ -40,7 +40,8 @@ collections:
             ]}
           - {label: "Partners", name: "partners", widget: "object", fields: [
               {label: "Heading", name: "heading", widget: "string"},
-              {label: "Image", name: "image", widget: "image"},
+              {label: "YouTube (embed URL)", name: "youtube", widget: "string"},
+              {label: "Image (only set if no YouTube)", name: "image", widget: "image"},
               {label: "Body", name: "body", widget: "markdown"},
               {label: "List", name: "list", widget: "markdown"}
             ]}

@@ -46,6 +46,7 @@ partners:
     Real Change Wigan & Leigh currently works in partnership with the following
     organisations:
   heading: Help from our Partners
+  youtube:
   image: assets/uploads/home-partners-media.jpg
   list: |
     * [Barnabus](#Barnabus)
