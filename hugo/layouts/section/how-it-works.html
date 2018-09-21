@@ -8,7 +8,7 @@
       <div class="content text-center">
         {{ $introBodyMarkdown := .Params.intro.body | markdownify }}
         {{ if not ( strings.Contains $introBodyMarkdown "<p>" ) }}<p class="body-lg">{{ $introBodyMarkdown }}</p>{{ else }}{{ $introBodyMarkdown }}{{ end }}
-        {{ if .Params.intro.button.url }}<a class="button button-primary d-block d-sm-inline-block mb-sm" href="{{ .Params.intro.button.url }}">{{ .Params.intro.button.text }}</a>{{ end }}
+        {{ if .Params.intro.button.url }}<a class="button button-primary d-block d-sm-inline-block mb-sm mt-md" href="{{ .Params.intro.button.url }}">{{ .Params.intro.button.text }}</a>{{ end }}
       </div>
     </div>
   </div>
@@ -16,34 +16,43 @@
   <div class="section bg-rc-sunny edge edge-top edge-rc-sunny-top">
     <div class="container">
       <div class="content">
-        <h2>{{ .Params.where.heading }}</h2>
-        {{ $whereBodyMarkdown := .Params.where.body | markdownify }}
-        {{ if not ( strings.Contains $whereBodyMarkdown "<p>" ) }}<p>{{ $whereBodyMarkdown }}</p>{{ else }}{{ $whereBodyMarkdown }}{{ end }}
-        <div class="stats">
-          <div class="stat">
-            <div class="stat-pie">
-              <img alt="{{ .Params.where.stat1.count }}" src="{{ .Params.where.stat1.image }}">
-            </div>
-            <div class="stat-body">
-              <p><strong class="stat-count">{{ .Params.where.stat1.count }}</strong> {{ .Params.where.stat1.text }}</p>
+        <div class="howitworks-stats">
+          <div class="howitworks-stats-body">
+            <h2>{{ .Params.where.heading }}</h2>
+            {{ $whereBodyMarkdown := .Params.where.body | markdownify }}
+            {{ if not ( strings.Contains $whereBodyMarkdown "<p>" ) }}<p>{{ $whereBodyMarkdown }}</p>{{ else }}{{ $whereBodyMarkdown }}{{ end }}
+            <div class="stats">
+              <div class="stat">
+                <div class="stat-img">
+                  <img alt="{{ .Params.where.stat1.count }}" src="{{ .Params.where.stat1.image }}">
+                </div>
+                <div class="stat-body">
+                  <p><strong class="stat-count">{{ .Params.where.stat1.count }}</strong> {{ .Params.where.stat1.text }}</p>
+                </div>
+              </div>
+              <div class="stat">
+                <div class="stat-img">
+                  <img alt="{{ .Params.where.stat2.count }}" src="{{ .Params.where.stat2.image }}">
+                </div>
+                <div class="stat-body">
+                  <p><strong class="stat-count">{{ .Params.where.stat2.count }}</strong> {{ .Params.where.stat2.text }}</p>
+                </div>
+              </div>
+              <div class="stat">
+                <div class="stat-img">
+                  <img alt="{{ .Params.where.stat2.count }}" src="{{ .Params.where.stat2.image }}">
+                </div>
+                <div class="stat-body">
+                  <p><strong class="stat-count">{{ .Params.where.stat3.count }}</strong> {{ .Params.where.stat3.text }}</p>
+                </div>
+              </div>
             </div>
           </div>
-          <div class="stat">
-            <div class="stat-pie">
-              <img alt="{{ .Params.where.stat2.count }}" src="{{ .Params.where.stat2.image }}">
-            </div>
-            <div class="stat-body">
-              <p><strong class="stat-count">{{ .Params.where.stat2.count }}</strong> {{ .Params.where.stat2.text }}</p>
-            </div>
+          {{ if .Params.where.image }}
+          <div class="howitworks-stats-media aspect aspect-4by3">
+            <img alt="" src="{{ .Params.where.image }}">
           </div>
-          <div class="stat">
-            <div class="stat-pie">
-              <img alt="{{ .Params.where.stat2.count }}" src="{{ .Params.where.stat2.image }}">
-            </div>
-            <div class="stat-body">
-              <p><strong class="stat-count">{{ .Params.where.stat3.count }}</strong> {{ .Params.where.stat3.text }}</p>
-            </div>
-          </div>
+          {{ end }}
         </div>
       </div>
     </div>

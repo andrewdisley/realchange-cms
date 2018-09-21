@@ -1,7 +1,7 @@
-// Get Involved
+// How it Works
 //
 
-.getinvolved-section {
+.howitworks-stats {
   align-items: flex-start;
   
   @include media-breakpoint-up(sm) {
@@ -9,16 +9,24 @@
   }
 }
 
-.getinvolved-section-body {
+.howitworks-stats-body {
   flex: 1;
 }
 
-.getinvolved-section-media {
+.howitworks-stats-media {
+  align-self: flex-end;
   margin-top: 1rem;
 
   @include media-breakpoint-up(sm) {
     margin-left: 1em;
     margin-top: 0;
     max-width: 320px;
+    width: 320px;
+  }
+
+  @include media-breakpoint-up(lg) {
+    margin-right: -100px;
+    max-width: 420px;
+    width: 420px;
   }
 }

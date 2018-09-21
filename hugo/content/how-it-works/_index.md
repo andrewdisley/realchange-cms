@@ -15,17 +15,18 @@ where:
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
     tempor incididunt ut labore et dolore magna aliqua.
   heading: Where does the money go?
+  image: /assets/uploads/howitworks-stats.png
   stat1:
     count: 85%
-    image: /assets/uploads/stat-pie-85.png
+    image: /assets/uploads/howitworks-stat-85.png
     text: Goes to the individual
   stat2:
     count: 10%
-    image: /assets/uploads/stat-pie-10.png
+    image: /assets/uploads/howitworks-stat-10.png
     text: Goes to the running of Real Change
   stat3:
     count: 5%
-    image: /assets/uploads/stat-pie-5.png
+    image: /assets/uploads/howitworks-stat-5.png
     text: Goes to Just Giving
 how:
   body: >
