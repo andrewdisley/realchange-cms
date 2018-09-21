@@ -639,9 +639,9 @@ p + .button { margin-top: 1rem; }
 
 .howitworks-stats-media { -ms-flex-item-align: end; align-self: flex-end; margin-top: 1rem; }
 
-@media (min-width: 576px) { .howitworks-stats-media { margin-left: 1em; margin-top: 0; max-width: 320px; width: 320px; } }
+@media (min-width: 576px) { .howitworks-stats-media { height: 320px; margin-left: 1em; margin-top: 0; max-width: 320px; width: 320px; } }
 
-@media (min-width: 992px) { .howitworks-stats-media { margin-right: -100px; max-width: 420px; width: 420px; } }
+@media (min-width: 992px) { .howitworks-stats-media { height: 420px; margin-right: -100px; max-width: 420px; width: 420px; } }
 
 .getinvolved-section { -webkit-box-align: start; -ms-flex-align: start; align-items: flex-start; }
 
