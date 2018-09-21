@@ -1,0 +1,24 @@
+// Getinvolved
+//
+
+.getinvolved-section {
+  align-items: flex-start;
+  
+  @include media-breakpoint-up(sm) {
+    display: flex;
+  }
+}
+
+.getinvolved-section-body {
+  flex: 1;
+}
+
+.getinvolved-section-media {
+  margin-top: 1rem;
+
+  @include media-breakpoint-up(sm) {
+    margin-left: 1em;
+    margin-top: 0;
+    max-width: 320px;
+  }
+}

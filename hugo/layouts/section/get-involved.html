@@ -1,0 +1,35 @@
+{{ define "main" }}
+{{ partial "header.html" .Params.header }}
+
+<div class="section">
+  <div class="container">
+    <div class="content">
+      {{ $contentMarkdown := .Params.content | markdownify }}
+      {{ if not ( strings.Contains $contentMarkdown "<p>" ) }}<p>{{ $contentMarkdown }}</p>{{ else }}{{ $contentMarkdown }}{{ end }}
+    </div>
+  </div>
+</div>
+
+{{ if .Params.section }}
+<section class="section bg-rc-sunny pre-footer-withcityscape edge edge-top edge-rc-sunny-top">
+  <div class="container">
+    <div class="content">
+      <h2>{{ .Params.section.heading }}</h2>
+      <div class="getinvolved-section">
+        <div class="getinvolved-section-body">
+        {{ $sectionBodyMarkdown := .Params.section.body | markdownify }}
+        {{ if not ( strings.Contains $sectionBodyMarkdown "<p>" ) }}<p>{{ $sectionBodyMarkdown }}</p>{{ else }}{{ $sectionBodyMarkdown }}{{ end }}
+        </div>
+        {{ if .Params.section.image }}
+        <div class="getinvolved-section-media aspect aspect-4by3">
+          <img alt="" src="{{ .Params.partners.image }}">
+        </div>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+
+{{ partial "footer.html" .Params.footer }}
+{{ end }}
