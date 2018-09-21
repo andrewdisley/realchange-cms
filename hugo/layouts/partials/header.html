@@ -1,27 +1,29 @@
 <header class="header decor decor-bottom decor-rc-sunny{{ if .classes }} {{ .classes }}{{ end }}" role="banner"{{ if .background }} style="background-image: url({{ .background }});" {{ end }}>
   <a class="header-skip" href="#main">Skip to main content</a>
-  <div class="header-inner">
-    <div class="header-brand">
-      <a href="/">
-        <div class="header-brand-inner bg-rc-dive">
-          <img alt="Real Change" class="header-brand-logo" height="63" src="/assets/real-change-logo-x2.png" width="55">
-        </div>
-        <div class="header-brand-subtitle">Wigan & Leigh</div>
-      </a>
+  <div class="header-wrap">
+    <div class="header-inner">
+      <div class="header-brand">
+        <a href="/">
+          <div class="header-brand-inner bg-rc-dive">
+            <img alt="Real Change" class="header-brand-logo" height="63" src="/assets/real-change-logo-x2.png" width="55">
+          </div>
+          <div class="header-brand-subtitle">Wigan & Leigh</div>
+        </a>
+      </div>
+      <nav class="header-body" role="navigation" aria-labelledby="nav-site">
+        <h2 class="sr-only" id="nav-site">Site navigation</h2>
+        <ul class="header-nav">
+          <li><a href="/how-it-works/">How it works</a></li>
+          <li><a href="/how-to-apply/">How to apply</a></li>
+          <li><a href="/get-involved/">Get involved</a></li>
+          <li class="header-nav-donate"><a class="button" href="#" target="_blank">Donate</a></li>
+        </ul>
+      </nav>
+      {{ if .hero }}
+      <div class="header-hero">
+        <h1 class="header-hero-title">{{ .hero | markdownify | safeHTML }}</h1>
+      </div>
+      {{ end }}
     </div>
-    <nav class="header-body" role="navigation" aria-labelledby="nav-site">
-      <h2 class="sr-only" id="nav-site">Site navigation</h2>
-      <ul class="header-nav">
-        <li><a href="/how-it-works/">How it works</a></li>
-        <li><a href="/how-to-apply/">How to apply</a></li>
-        <li><a href="/get-involved/">Get involved</a></li>
-        <li class="header-nav-donate"><a class="button" href="#" target="_blank">Donate</a></li>
-      </ul>
-    </nav>
-    {{ if .hero }}
-    <div class="header-hero">
-      <h1 class="header-hero-title">{{ .hero | markdownify | safeHTML }}</h1>
-    </div>
-    {{ end }}
   </div>
 </header>
