@@ -1,41 +1,45 @@
 {{ define "main" }}
 {{ partial "header.html" .Params.header }}
 
-{{ with .Site.GetPage "Section" "stories" }}
-{{ if .Params.intro }}
-<div class="section">
-  <div class="container">
-    <div class="content body-lg">
-      {{ .Params.intro | markdownify }}
-    </div>
-  </div>
-</div>
-{{ end }}
-{{ end }}
+<div id="main">
 
-<section class="section home-stories bg-rc-aubergine edge edge-top edge-rc-aubergine-top">
-  <div class="container">
-    <div class="home-stories-header">
-      <h2 class="h1 home-stories-title bg-rc-sunny">
-        {{ with .Site.GetPage "section" "stories" }}{{ .Params.heading }}{{ end }}
-      </h2>
+  {{ with .Site.GetPage "Section" "stories" }}
+  {{ if .Params.intro }}
+  <div class="section">
+    <div class="container">
+      <div class="content body-lg">
+        {{ .Params.intro | markdownify }}
+      </div>
     </div>
-    <div class="home-stories-body">
-{{ range (where .Site.RegularPages.ByDate.Reverse "Section" "stories") }}
-<div class="card-story card-stroy-witharrow">
-  <h3 class="card-story-title">{{ .Params.summary.heading }}</h3>
-  <div class="card-story-image aspect aspect-5by2 bg-rc-dream">
-    <img alt="" src="{{ .Params.summary.image }}">
   </div>
-  <a class="card-story-cta" href="{{ .Permalink }}">{{ .Params.summary.text }}</a>
+  {{ end }}
+  {{ end }}
+
+  <section class="section home-stories bg-rc-aubergine edge edge-top edge-rc-aubergine-top">
+    <div class="container">
+      <div class="home-stories-header">
+        <h2 class="h1 home-stories-title bg-rc-sunny">
+          {{ with .Site.GetPage "section" "stories" }}{{ .Params.heading }}{{ end }}
+        </h2>
+      </div>
+      <div class="home-stories-body">
+  {{ range (where .Site.RegularPages.ByDate.Reverse "Section" "stories") }}
+  <div class="card-story card-stroy-witharrow">
+    <h3 class="card-story-title">{{ .Params.summary.heading }}</h3>
+    <div class="card-story-image aspect aspect-5by2 bg-rc-dream">
+      <img alt="" src="{{ .Params.summary.image }}">
+    </div>
+    <a class="card-story-cta" href="{{ .Permalink }}">{{ .Params.summary.text }}</a>
+  </div>
+  {{ end }}
+      </div>
+      <div class="home-stories-footer text-center">
+        {{ with .Site.GetPage "section" "stories" }}<a class="button button-primary" href="{{ .Params.button.url }}">{{ .Params.button.text }}</a>{{ end }}
+      </div>
+    </div>
+  </section>
+
 </div>
-{{ end }}
-    </div>
-    <div class="home-stories-footer text-center">
-      {{ with .Site.GetPage "section" "stories" }}<a class="button button-primary" href="{{ .Params.button.url }}">{{ .Params.button.text }}</a>{{ end }}
-    </div>
-  </div>
-</section>
 
 {{ partial "footer.html" .Params.footer }}
 {{ end }}
