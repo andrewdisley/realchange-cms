@@ -176,7 +176,7 @@ mark, .mark { padding: 0.2em; background-color: #FFC300; }
 
 @media (min-width: 768px) { .list-flex > li { margin-right: 1.5rem; } }
 
-blockquote { color: #E96187; font-size: 1.625rem; font-weight: 300; line-height: 1.3076923077; margin: 2rem 0; }
+blockquote { color: #EE7C19; font-size: 1.625rem; font-weight: 300; line-height: 1.3076923077; margin: 2rem 0; }
 
 .container { max-width: 840px; margin-left: auto; margin-right: auto; width: 100%; }
 
