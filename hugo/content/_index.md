@@ -13,7 +13,7 @@ whatis:
     can make a Real Change!
   button:
     text: Donate and make a real change
-    url: '#DONATEwhatTODO'
+    url: 'https://www.justgiving.com/campaign/realchangewiganandleigh'
   heading: What is Real Change?
   image: assets/uploads/home-intro-whatis.png
 who:
@@ -30,7 +30,7 @@ how:
   body: >-
     If your organisation provides a service to support people who are homeless
     in Wigan & Leigh and you would like to discuss how to become an approved
-    Real Change partner please contact the Real Change Secretary on [0000 000
+    Real Change partner please contact the Action Group Chair on [0000 000
     000](#URL) or <mailto:xxxxxx@realchange.co.uk> or [find out more
     here](/how-to-apply/).
   heading: How can you apply?
