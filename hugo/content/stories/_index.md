@@ -11,6 +11,6 @@ intro: >
 heading: 56 people helped so far in Wigan & Leigh
 button:
   text: Donate and make a real change
-  url: '#URL'
+  url: 'https://www.justgiving.com/campaign/realchangewiganandleigh'
 ---
 

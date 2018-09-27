@@ -17,7 +17,7 @@ realchange:
   body: body
   button:
     text: Donate
-    url: '#donate'
+    url: 'https://www.justgiving.com/campaign/realchangewiganandleigh'
   heading: test
 ---
 

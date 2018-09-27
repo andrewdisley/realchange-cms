@@ -9,7 +9,7 @@ intro:
     people need to get off and stay off the street.**
   button:
     text: Donate and make a real change
-    url: '#DONATE'
+    url: 'https://www.justgiving.com/campaign/realchangewiganandleigh'
 where:
   body: >
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
@@ -36,7 +36,7 @@ how:
     amount needed, there are two levels of fund requests:
   button:
     text: Donate and make a real change
-    url: '#DONATE'
+    url: 'https://www.justgiving.com/campaign/realchangewiganandleigh'
   card1:
     body: >
       If the request is for under £100, Real Change partner agencies can submit
