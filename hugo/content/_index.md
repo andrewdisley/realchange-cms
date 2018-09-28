@@ -39,7 +39,9 @@ how:
     Email: [info@realchangewiganandleigh.co.uk](mailto:xxxxxx@realchange.co.uk)
 
 
-    [Or Click here to find out more here](/how-to-apply/).
+
+
+    [Click here to find out more here](/how-to-apply/)
   heading: How can you apply?
 partners:
   body: >-
