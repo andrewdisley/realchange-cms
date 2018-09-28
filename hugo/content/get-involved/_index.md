@@ -3,33 +3,43 @@ title: Get Involved |
 header:
   hero: Real Change in Wigan & Leigh **Get Involved**
 content: >-
-  ## Sub head goes here
+  ## Do you want to help make a Real Change in Wigan & Leigh?
 
 
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet,
-  consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-  dolore magna aliqua.
+  Whether your interested in getting involved personally, on behalf of your
+  community group, workplace or college, or as a business, there are many ways
+  you can help. 
 
 
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua.
+  As well as donating directly to the fund, you might want to:
 
 
-  <a class="button button-primary d-block d-sm-inline-block" href="#">Button</a>
+  * Do a "fundraising challenge"
+
+  * Invite us to speak at an event you are having
+
+  * Play a role in organising Campaign activities
+
+  * Share your skills or knowledge
+
+  * Donate space, items, or equipment
+
+
+  Every bit helps, so if you want to help people in your area who are homeless,
+  please get in touch.
+
+
+  <a class="Get in touch" href="#">Button</a>
 section:
   body: >-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua.
+    To end homelessness in our area we will need to work together.
 
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua.
-
-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua.
-  heading: Section title
-  image: /assets/uploads/blank-4by3.png
+    The Street Support Network is an online resource dedicated to connecting
+    people and organisations locally. To discover how else you can Find Help or
+    Give Help please got to
+    [www.streetsupport.net/wigan-and-leigh.](www.streetsupport.net/wigan-and-leigh)
+  heading: Street Support Wigan And Leigh
+  image: /assets/uploads/streetsupport.png
 ---
 
