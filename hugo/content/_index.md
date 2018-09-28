@@ -41,7 +41,7 @@ how:
 
 
 
-    [Click here to find out more here](/how-to-apply/)
+    [Click here to find out more](/how-to-apply/)
   heading: How can you apply?
 partners:
   body: >-
