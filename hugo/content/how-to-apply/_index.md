@@ -17,11 +17,19 @@ list: |-
   * Wigan Council
   * Your Housing Group/The Foyer
 partners:
-  body: >
-    If your organisation provides a service to support people who are homeless
-    in Wigan & Leigh and you would like to discuss how to become an approved
-    Real Change partner please contact the Real Change Secretary on **[0000 000
-    000](#todo)** or email **[realchange@realchange.com](#todo)**
+  body: >-
+    If your organisation provides support to people who are homeless in Wigan &
+    Leigh and you would like to discuss how to become an approved Real Change
+    partner, please contact us at:
+
+
+    Tel: 07788 105 078
+
+
+    Email: [info@realchangewiganandleigh.co.uk](mailto:xxxxxx@realchange.co.uk)
+
+
+    [Click here to find out more](/how-to-apply/)
   heading: Want to become a Partner?
 ---
 
