@@ -40,7 +40,7 @@ section:
     Give Help please got to 
 
 
-    [www.streetsupport.net/wigan-and-leigh](www.streetsupport.net/wigan-and-leigh)
+    [streetsupport.net/wigan-and-leigh](www.streetsupport.net/wigan-and-leigh)
   heading: Street Support Wigan And Leigh
   image: /assets/uploads/streetsupport.png
 ---
