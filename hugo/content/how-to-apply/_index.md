@@ -1,30 +1,21 @@
 ---
-title: 'How to Apply |'
+title: How to Apply |
 header:
-  hero: >-
-    Real Change in Wigan & Leigh **How to Apply**
-content: >
-  **If you are sleeping rough and want to apply for funds to help you get off the street, get in touch with one of our partner organisations who will work with you to apply for funds on your behalf:**
-list: |
-    * [Barnabus](#Barnabus)
-    * [Big Issue North](#BigIssueNorth)
-    * [Boaz Trust](#BoazTrust)
-    * [Booth Centre](#BoothCentre)
-    * [Centrepoint North](#CentrepointNorth)
-    * [Change4Good](#Change4Good)
-    * [Coffee4Craig](#Coffee4Craig)
-    * [Cornerstone](#Cornerstone)
-    * [Just Life](#JustLife)
-    * [Lifeshare](#Lifeshare)
-    * [Manchester City of Sanctuary](#ManchesterCityofSanctuary)
-    * [MASH](#MASH)
-    * [MCC Rough Sleeper Team](#MCCRoughSleeperTeam)
-    * [Mens Room](#MensRoom)
-    * [Mustard Tree](#MustardTree)
-    * [On The Out](#OnTheOut)
-    * [Reach Out to the Community](#ReachOuttotheCommunity)
-    * [Riverside](#Riverside)
-    * [Shelter](#Shelter)
+  hero: Real Change in Wigan & Leigh **How to Apply**
+content: >-
+  **If you are sleeping rough, homeless or at risk of homelessness and want to
+  apply for funds to help you, get in touch with one of our partner
+  organisations who will work with you to apply:**
+list: |-
+  * Addaction
+  * EDs Homes
+  * Helping The Homeless
+  * Jigsaw Homes
+  * Riverside
+  * The Brick
+  * Wigan Wellbeing & Resiliance
+  * Wigan Council
+  * Your Housing Group/The Foyer
 partners:
   body: >
     If your organisation provides a service to support people who are homeless
@@ -33,3 +24,4 @@ partners:
     000](#todo)** or email **[realchange@realchange.com](#todo)**
   heading: Want to become a Partner?
 ---
+
