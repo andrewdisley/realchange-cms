@@ -29,7 +29,7 @@ content: >-
   please get in touch.
 
 
-  <a class="???" href="#">Get In Touch</a>
+  [Get In Touch](info@realchangewiganandleigh.co.uk)
 section:
   body: >-
     To end homelessness in our area we will need to work together.

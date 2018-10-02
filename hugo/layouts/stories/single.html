@@ -40,5 +40,6 @@
 
 </div>
 
-{{ partial "footer.html" .Params.footer }}
+{{ $footer := .Site.GetPage "_footer.md" }}
+{{ partial "footer.html" (dict "footer" $footer) }}
 {{ end }}
