@@ -419,7 +419,7 @@ p + .button { margin-top: 1rem; }
 
 @media (min-width: 768px) { .header { font-size: 1.125rem; line-height: 1.5; } }
 
-.header::after { z-index: 100; }
+.header::after { z-index: 50; }
 
 .header-wrap { overflow: hidden; padding-bottom: 1rem; position: relative; }
 
@@ -435,7 +435,7 @@ p + .button { margin-top: 1rem; }
 
 @media (min-width: 1200px) { .header-wrap::before { right: 0; } }
 
-.header-inner { max-width: 840px; margin-left: auto; margin-right: auto; width: 100%; display: -webkit-box; display: -ms-flexbox; display: flex; -ms-flex-wrap: wrap; flex-wrap: wrap; max-width: 1024px; overflow: hidden; position: relative; z-index: 100; }
+.header-inner { max-width: 840px; margin-left: auto; margin-right: auto; width: 100%; display: -webkit-box; display: -ms-flexbox; display: flex; -ms-flex-wrap: wrap; flex-wrap: wrap; max-width: 1024px; overflow: hidden; position: relative; z-index: 50; }
 
 .header-brand a { color: #000000; text-decoration: none; }
 
@@ -567,7 +567,7 @@ p + .button { margin-top: 1rem; }
 
 @media (min-width: 576px) { .home-intro-whatis { -webkit-box-align: center; -ms-flex-align: center; align-items: center; display: -webkit-box; display: -ms-flexbox; display: flex; } }
 
-.home-intro-whatis .boxed-inner { position: relative; z-index: 100; }
+.home-intro-whatis .boxed-inner { position: relative; z-index: 50; }
 
 @media (min-width: 576px) { .home-intro-whatis .boxed-inner { -webkit-box-flex: 1; -ms-flex: 1; flex: 1; max-width: 300px; min-width: 300px; } }
 
