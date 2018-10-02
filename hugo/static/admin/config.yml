@@ -194,3 +194,17 @@ collections:
             {label: "Text", name: "text", widget: "string"}
           ]}
         ]}
+  - name: "global"
+    label: "Global"
+    editor:
+      preview: false
+    files:
+      - file: "hugo/global/_footer.md"
+        label: "Footer"
+        name: "footer"
+        fields:
+          - {label: "Footer Title", name: "title", widget: "string"}
+          - {label: "Row 1 (Share)", name: "row1", widget: "markdown"}
+          - {label: "Row 2 (Link out)", name: "row2", widget: "markdown"}
+          - {label: "Row 3 (Internal link)", name: "row3", widget: "markdown"}
+          - {label: "Links", name: "links", widget: "markdown"}
