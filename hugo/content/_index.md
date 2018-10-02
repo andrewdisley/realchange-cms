@@ -28,20 +28,7 @@ who:
   heading: Who does Real Change help?
 how:
   body: >-
-    If your organisation provides a service to support people who are homeless
-    in Wigan & Leigh and you would like to discuss how to become an approved
-    Real Change partner, please contact us:
-
-
-    Tel: 07788 105 078
-
-
-    Email: [info@realchangewiganandleigh.co.uk](mailto:info@realchangewiganandleigh.co.uk)
-
-
-
-
-    [Click here to find out more](/how-to-apply/)
+    If your organisation provides a service to support people who are homeless in Wigan & Leigh and you would like to discuss how to become an approved Real Change partner, please contact us on [07788 105 078](tel:+447788105078) or email [info@realchangewiganandleigh.co.uk](mailto:info@realchangewiganandleigh.co.uk) or  [find out more here](/how-to-apply/).
   heading: How can you apply?
 partners:
   body: >-
