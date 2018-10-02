@@ -36,12 +36,12 @@ section:
 
 
     The Street Support Network is an online resource dedicated to connecting
-    people and organisations locally. To discover how else you can Find Help or
-    Give Help please got to 
+    people and organisations locally. To discover how else you can **Find Help**
+    or **Give Help** please got to 
 
 
-    [streetsupport.net/wigan-and-leigh](https://streetsupport.net/wigan-and-leigh)
-  heading: Street Support Wigan and Leigh
+    [streetsupport.net/wigan-and-leigh](http://www.streetsupport.net/wigan-and-leigh)
+  heading: Street Support Wigan And Leigh
   image: /assets/uploads/streetsupport.png
 ---
 
