@@ -36,7 +36,7 @@ how:
     Tel: 07788 105 078
 
 
-    Email: [info@realchangewiganandleigh.co.uk](mailto:xxxxxx@realchange.co.uk)
+    Email: [info@realchangewiganandleigh.co.uk](mailto:info@realchangewiganandleigh.co.uk)
 
 
 
