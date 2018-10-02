@@ -30,8 +30,7 @@ how:
   body: >-
     If your organisation provides a service to support people who are homeless
     in Wigan & Leigh and you would like to discuss how to become an approved
-    Real Change partner please contact the Action Group Chair on [0000 000
-    000](#URL) or <mailto:xxxxxx@realchange.co.uk> or [find out more
+    Real Change partner please contact the Action Group Chair on [07788 105 078](tel:07788 105 078) or <mailto:info@realchangewiganandleigh.co.uk>, or [find out more
     here](/how-to-apply/).
   heading: How can you apply?
 partners:
