@@ -26,10 +26,7 @@ content: >-
 
 
   Every bit helps, so if you want to help people in your area who are homeless,
-  please get in touch.
-
-
-  [Get In Touch](mailto:info@realchangewiganandleigh.co.uk)
+  please [get in touch](mailto:info@realchangewiganandleigh.co.uk).
 section:
   body: >-
     To end homelessness in our area we will need to work together.
