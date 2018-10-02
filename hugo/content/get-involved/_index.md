@@ -29,7 +29,7 @@ content: >-
   please get in touch.
 
 
-  [Get In Touch](info@realchangewiganandleigh.co.uk)
+  [Get In Touch](mailto:info@realchangewiganandleigh.co.uk)
 section:
   body: >-
     To end homelessness in our area we will need to work together.
