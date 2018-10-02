@@ -8,9 +8,7 @@ content: >-
   still matters to us. 
 
 
-  **
-
-  Data Processing and Security**
+  **Data Processing and Security**
 
 
   All communication between your browser and our website is hosted in a secure
@@ -26,9 +24,7 @@ content: >-
   any website that collects personally identifiable information.
 
 
-  **
-
-  Cookies**
+  **Cookies**
 
 
   Lke all websites, this site uses cookies. These track use of the site and give
