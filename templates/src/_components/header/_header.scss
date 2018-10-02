@@ -32,7 +32,7 @@
 
   // decor-bottom
   &::after {
-    z-index: 100;
+    z-index: 50;
   }
 }
 
@@ -89,7 +89,7 @@
   max-width: 1024px;
   overflow: hidden;
   position: relative;
-  z-index: 100;
+  z-index: 50;
 }
 
 .header-brand {
