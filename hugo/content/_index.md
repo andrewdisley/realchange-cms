@@ -17,26 +17,36 @@ whatis:
   heading: What is Real Change?
   image: assets/uploads/home-intro-whatis.png
 who:
-  body: >
+  body: >-
     **The Real Change fund supports individuals who are homeless by paying for
-    items they need** - a deposit for a home, a training course, clothes for a
-    job interview, furnishing for a new flat, or travel costs.
+    items they need** - a deposit for a home, a training course, or clothes for
+    a job interview.
 
 
-    [Find out more about how Real Change works and how the money is
+    [Find out more about how Real Change works and how your money is
     spent.](/how-it-works/)
   heading: Who does Real Change help?
 how:
   body: >-
     If your organisation provides a service to support people who are homeless
     in Wigan & Leigh and you would like to discuss how to become an approved
-    Real Change partner please contact the Action Group Chair on [07788 105 078](tel:07788 105 078) or <mailto:info@realchangewiganandleigh.co.uk>, or [find out more
-    here](/how-to-apply/).
+    Real Change partner, please contact us:
+
+
+    Tel: 07788 105 078
+
+
+    Email: [info@realchangewiganandleigh.co.uk](mailto:xxxxxx@realchange.co.uk)
+
+
+
+
+    [Click here to find out more](/how-to-apply/)
   heading: How can you apply?
 partners:
-  body: >
-    **If you are sleeping rough in Wigan & Leigh and want to apply for funds to
-    help you get off the street, get in touch with one of our partner
+  body: >-
+    **If you are sleeping rough, homeless or at risk of homelessness in Wigan &
+    Leigh and want to apply for funds, get in touch with one of our partner
     organisations who will work with you to apply for funds on your behalf.**
 
 
@@ -44,26 +54,15 @@ partners:
     organisations:
   heading: Help from our Partners
   image: ''
-  list: |
-    * [Barnabus](#Barnabus)
-    * [Big Issue North](#BigIssueNorth)
-    * [Boaz Trust](#BoazTrust)
-    * [Booth Centre](#BoothCentre)
-    * [Centrepoint North](#CentrepointNorth)
-    * [Change4Good](#Change4Good)
-    * [Coffee4Craig](#Coffee4Craig)
-    * [Cornerstone](#Cornerstone)
-    * [Just Life](#JustLife)
-    * [Lifeshare](#Lifeshare)
-    * [Manchester City of Sanctuary](#ManchesterCityofSanctuary)
-    * [MASH](#MASH)
-    * [MCC Rough Sleeper Team](#MCCRoughSleeperTeam)
-    * [Mens Room](#MensRoom)
-    * [Mustard Tree](#MustardTree)
-    * [On The Out](#OnTheOut)
-    * [Reach Out to the Community](#ReachOuttotheCommunity)
-    * [Riverside](#Riverside)
-    * [Shelter](#Shelter)
+  list: |-
+    * Addaction
+    * EDs Homes
+    * Helping The Homeless
+    * Jigsaw Homes
+    * Riverside
+    * The Brick
+    * Wigan Wellbeing & Resiliance
+    * Your Housing Group/The Foyer
   youtube: 'https://www.youtube.com/embed/pjxX5ndMCDo?rel=0'
 ---
 

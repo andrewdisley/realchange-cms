@@ -1,20 +1,21 @@
 ---
-title: 'How it Works |'
+title: How it Works |
 header:
-  hero: >-
-    Real Change in Wigan & Leigh **How it Works**
+  hero: Real Change in Wigan & Leigh **How it Works**
 intro:
-  body: >
+  body: >-
     **Real change is a fund for Wigan & Leigh that pays for items that local
-    people need to get off and stay off the street.**
+    people need to end and prevent homelessness.**
   button:
     text: Donate and make a real change
     url: 'https://www.justgiving.com/campaign/realchangewiganandleigh'
 where:
-  body: >
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua.
-  heading: Where does the money go?
+  body: >-
+    For every £1 you give, 85p goes directly to helping someone in need, and not
+    a penny on salaries for Campaign.  This is because Real Change partners have
+    committed the time and energy of their staff to help run the campaign for
+    free.
+  heading: Where does your money go?
   image: /assets/uploads/howitworks-stats.png
   stat1:
     count: 85%
@@ -23,41 +24,48 @@ where:
   stat2:
     count: 10%
     image: /assets/uploads/howitworks-stat-10.png
-    text: Goes to the running of Real Change
+    text: Goes to local charity Forever Manchester to manage the fund safely
   stat3:
     count: 5%
     image: /assets/uploads/howitworks-stat-5.png
-    text: Goes to Just Giving
+    text: Goes to Just Giving for administering donations
 how:
-  body: >
-    Your donation joins the central Real Change funding pot. **[Local
-    charities](#todo)** and organisations work directly with individuals who are
-    homeless, and apply for funds to pay for items they need. Depending on the
-    amount needed, there are two levels of fund requests:
+  body: >-
+    Your donation is combined with other donations in one central pot. **[Local
+    charities](#todo)** and organisations then work directly with individuals
+    who are homeless, and apply for funds to pay for items they need. Money is
+    transferred to the partner organisations to get where it is needed as
+    quickly as possible. 
+
+
+    There are two types of application:
   button:
     text: Donate and make a real change
     url: 'https://www.justgiving.com/campaign/realchangewiganandleigh'
   card1:
-    body: >
-      If the request is for under £100, Real Change partner agencies can submit
-      an online application.
+    body: >-
+      If the request is for under £100, applications which meet the criteria are
+      approved almost immediately.
 
 
       This excludes cash, emergency accommodation, food or other items which are
       available for free elsewhere.
     heading: Under £100
     subheading: >-
-      (e.g. Education or training courses, furniture or househould items,
-      clothes for interviews)
+      (e.g. Education or training courses, essential household items, clothes
+      for interviews)
   card2:
-    body: >
-      If the request is for over £100, the application must be agreed by the
-      Real Change panel.
+    body: >-
+      If the request is for over £100, the application must be agreed by an
+      independent panel.
 
 
-      The Real Change panel includes: Lorem ipsum dolor sit amet, lorem ipsum
-      dolor sit amet, lorem ipsum dolor sti amet.
+      The Panel includes people with lived experience of homelessness alongside
+      representatives of support groups and accomodation providers.
     heading: Over £100
-    subheading: '(e.g. Deposit or rent, furnishings for a flat, white goods over £100)'
+    subheading: >-
+      (e.g. Deposit or rent, furnishings for a flat, or larger white goods such
+      as a fridge or washing machine)
   heading: How will my donation be spent?
 ---
+
