@@ -27,9 +27,6 @@ partners:
 
 
     Email: [info@realchangewiganandleigh.co.uk](mailto:xxxxxx@realchange.co.uk)
-
-
-    [Click here to find out more](/how-to-apply/)
   heading: Want to become a Partner?
 ---
 
