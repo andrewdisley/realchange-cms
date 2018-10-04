@@ -32,10 +32,10 @@ where:
 how:
   body: >-
     Your donation is combined with other donations in one central pot. [Local
-    charities](https://realchange-cms.staging.io/how-to-apply/) and
-    organisations then work directly with individuals who are homeless, and
-    apply for funds to pay for items they need. Money is transferred to the
-    partner organisations to get where it is needed as quickly as possible. 
+    charities](/how-to-apply/) and organisations then work directly with
+    individuals who are homeless, and apply for funds to pay for items they
+    need. Money is transferred to the partner organisations to get where it is
+    needed as quickly as possible. 
 
 
     There are two types of application:
