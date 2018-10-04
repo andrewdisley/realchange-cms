@@ -26,7 +26,7 @@ partners:
     Tel: 07788 105 078
 
 
-    Email: [info@realchangewiganandleigh.co.uk](mailto:xxxxxx@realchange.co.uk)
+    Email: <mailto:info@realchangewiganandleigh.co.uk>
   heading: Want to become a Partner?
 ---
 
