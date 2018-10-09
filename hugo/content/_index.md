@@ -55,6 +55,9 @@ partners:
 
     * [Wigan Wellbeing & Resilience](https://www.facebook.com/WiganWellbeing/)
 
+    * [Wigan
+    Council](https://www.wigan.gov.uk/Resident/Housing/Council-homes/Find-a-home/Homelessness/index.aspx)
+
     * [Your Housing
     Group](https://www.yourhousinggroup.co.uk/find-a-home/young-peoples-housing/foyers/)
   youtube: 'https://www.youtube.com/embed/h5THJZgLznM'
