@@ -49,6 +49,6 @@ partners:
     * The Brick
     * Wigan Wellbeing & Resiliance
     * Your Housing Group/The Foyer
-  youtube: 'https://www.youtube.com/embed/pjxX5ndMCDo?rel=0'
+  youtube: 'https://www.youtube.com/embed/h5THJZgLznM'
 ---
 
