@@ -4,7 +4,7 @@ header:
   hero: Real Change in Wigan & Leigh **How it Works**
 intro:
   body: >-
-    **Real change is a fund for Wigan & Leigh that pays for items that local
+    **Real Change is a fund for Wigan & Leigh that pays for items that local
     people need to end and prevent homelessness.**
   button:
     text: Donate and make a real change
