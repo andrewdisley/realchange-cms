@@ -31,24 +31,33 @@ how:
   heading: How can you apply?
 partners:
   body: >-
-    **If you are sleeping rough, homeless or at risk of homelessness in Wigan &
-    Leigh and want to apply for funds, get in touch with one of our partner
-    organisations who will work with you to apply for funds on your behalf.**
+    <https://www.jigsawhomes.org.uk/>**If you are sleeping rough, homeless or at
+    risk of homelessness in Wigan & Leigh and want to apply for funds, get in
+    touch with one of our partner organisations who will work with you to apply
+    for funds on your behalf.**
 
 
     Real Change Wigan & Leigh currently works in partnership with the following
     organisations:
   heading: Help from our Partners
   image: ''
-  list: |-
-    * Addaction
-    * EDs Homes
-    * Helping The Homeless
-    * Jigsaw Homes
-    * Riverside
-    * The Brick
-    * Wigan Wellbeing & Resiliance
-    * Your Housing Group/The Foyer
+  list: >-
+    * [Addaction](https://www.addaction.org.uk/services/addaction-wigan-leigh)
+
+    * [EDs Homes](https://www.edshomes.org.uk/housing)
+
+    * [Helping The Homeless](https://www.helpingthehomelesscharity.co.uk/)
+
+    * [Jigsaw Homes](https://www.jigsawhomes.org.uk/)
+
+    * [Riverside](https://www.riverside.org.uk/care-and-support/)
+
+    * [The Brick](http://www.thebrick.org.uk/)
+
+    * [Wigan Wellbeing & Resilience](https://www.facebook.com/WiganWellbeing/)
+
+    * [Your Housing
+    Group](https://www.yourhousinggroup.co.uk/find-a-home/young-peoples-housing/foyers/)
   youtube: 'https://www.youtube.com/embed/h5THJZgLznM'
 ---
 
