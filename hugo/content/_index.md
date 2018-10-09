@@ -10,7 +10,7 @@ whatis:
 
 
     If everyone who lives, works or visits Wigan & Leigh donates, together we
-    can make a Real Change!
+    can make a Real Change to homelessness!
   button:
     text: Donate and make a real change
     url: 'https://www.justgiving.com/campaign/realchangewiganandleigh'
@@ -18,9 +18,9 @@ whatis:
   image: assets/uploads/home-intro-whatis.png
 who:
   body: >-
-    **The Real Change fund supports individuals who are homeless by paying for
-    items they need** - a deposit for a home, a training course, or clothes for
-    a job interview.
+    **The Real Change fund supports people who are homeless by paying for items
+    they need** - a deposit for a home, a training course, or clothes for a job
+    interview.
 
 
     [Find out more about how Real Change works and how your money is
