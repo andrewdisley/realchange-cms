@@ -31,7 +31,7 @@ how:
   heading: How can you apply?
 partners:
   body: >-
-    <https://www.jigsawhomes.org.uk/>**If you are sleeping rough, homeless or at
+    **If you are sleeping rough, homeless or at
     risk of homelessness in Wigan & Leigh and want to apply for funds, get in
     touch with one of our partner organisations who will work with you to apply
     for funds on your behalf.**
