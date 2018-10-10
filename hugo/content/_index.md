@@ -10,7 +10,7 @@ whatis:
 
 
     If everyone who lives, works or visits Wigan & Leigh donates, together we
-    can make a Real Change on homelessness!
+    can make a Real Change to homelessness!
   button:
     text: Donate and make a real change
     url: 'https://www.justgiving.com/campaign/realchangewiganandleigh'
