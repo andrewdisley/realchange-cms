@@ -6,8 +6,3 @@ command = "hugo -s hugo --minify"
 HUGO_VERSION = "0.49"
 HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "true"
-
-# A basic redirects rule
-[[redirects]]
-  from = "https://realchange-cms.staging.io/admin/*"
-  to = "https://realchangewiganandleigh.co.uk/admin/:splat"
