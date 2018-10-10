@@ -1,7 +1,0 @@
-# Redirect admin to live site
-https://realchange-cms.staging.io/admin/* https://realchangewiganandleigh.co.uk/admin/:splat 301
-https://realchange-cms.staging.io/admin/ https://realchangewiganandleigh.co.uk/admin/ 301
-https://realchange-cms.staging.io/admin https://realchangewiganandleigh.co.uk/admin 301
-https://realchange-cms.netlify.io/admin/* https://realchangewiganandleigh.co.uk/admin/:splat 301
-https://realchange-cms.netlify.com/admin/ https://realchangewiganandleigh.co.uk/admin 301
-https://realchange-cms.netlify.com/admin https://realchangewiganandleigh.co.uk/admin 301
