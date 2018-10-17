@@ -13,7 +13,7 @@ list: |-
   * [Doncaster Mind](http://doncastermind.org.uk/)
   * [Riverside](https://www.riverside.org.uk/care-and-support/)
   * St Ledger
-  * More partners
+  * Big Issue North
 partners:
   body: >-
     If your organisation provides support to people who are homeless or at risk
