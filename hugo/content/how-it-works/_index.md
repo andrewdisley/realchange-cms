@@ -4,9 +4,10 @@ header:
   hero: Real Help Doncaster **How it Works**
 intro:
   body: >-
-    **The Real Help campaign is designed  to bring together people experiencing
-    homelessness, charities, grassroots groups, the council, businesses and
-    individuals to End Homelessness in Doncaster.**
+    **The Real Help Doncaster campaign is designed to bring together people
+    experiencing homelessness, our community, support providers, charities,
+    grassroots groups, our council, local businesses and individuals to end
+    Homelessness in Doncaster.**
   button:
     text: 'Changing the way you DONATE changes lives '
     url: 'https://www.justgiving.com/realhelpdoncaster'
