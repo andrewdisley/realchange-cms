@@ -32,13 +32,12 @@ section:
     To end homelessness in our area we will need to work together.
 
 
-    The Street Support Network is an online resource dedicated to connecting
-    people and organisations locally. To discover how else you can **Find Help**
-    or **Give Help** please go to 
+    for more information on support available please visit:
 
 
-    **[streetsupport.net/wigan-and-leigh](http://www.streetsupport.net/wigan-and-leigh)**
-  heading: Street Support Wigan And Leigh
-  image: /assets/uploads/streetsupport.png
+    [Your Life Doncaster
+    ](https://www.yourlifedoncaster.co.uk/s4s/WhereILive/Council?pageId=7&lockLA=True)
+  heading: 'Real Help Doncaster r '
+  image: ''
 ---
 
