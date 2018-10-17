@@ -9,7 +9,7 @@ intro:
     grassroots groups, our council, local businesses and individuals to end
     Homelessness in Doncaster.**
   button:
-    text: 'Changing the way you DONATE changes lives '
+    text: 'Changing the way you - DONATE - here '
     url: 'https://www.justgiving.com/realhelpdoncaster'
 where:
   body: >-
