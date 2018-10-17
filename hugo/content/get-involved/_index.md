@@ -1,9 +1,9 @@
 ---
 title: Get Involved |
 header:
-  hero: Real Change in Wigan & Leigh **Get Involved**
+  hero: Real Help Doncaster **Get Involved**
 content: >-
-  ## Do you want to help make a Real Change in Wigan & Leigh?
+  ## Do you want to help make a Real Change in Doncaster?
 
 
   Whether your interested in getting involved personally, on behalf of your
@@ -25,8 +25,8 @@ content: >-
   * Donate space, items, or equipment
 
 
-  Every bit helps, so if you want to help people in your area who are homeless,
-  please [get in touch](mailto:info@realchangewiganandleigh.co.uk).
+  Every bit helps, so if you want to help people in Doncaster, please [get in
+  touch](mailto:info@realchangewiganandleigh.co.uk).
 section:
   body: >-
     To end homelessness in our area we will need to work together.
