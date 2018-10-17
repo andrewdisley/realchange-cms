@@ -9,34 +9,34 @@ whatis:
     lives away from the streets.**
 
 
-    If everyone who lives, works or visits Wigan & Leigh donates, together we
-    can make a Real Change to homelessness!
+    If everyone who lives, works or visits Doncaster donates, together we can
+    make a Real Help to ending homelessness!
   button:
-    text: Donate and make a real change
-    url: 'https://www.justgiving.com/campaign/realchangewiganandleigh'
+    text: Donate and make a real help to people in Doncaster
+    url: 'https://www.justgiving.com/campaign/realhelpdoncaster'
   heading: What is Real Change?
   image: assets/uploads/home-intro-whatis.png
 who:
   body: >-
     **The Real Change fund supports people who are homeless by paying for items
-    they need** - a deposit for a home, a training course, or clothes for a job
+    they need** -  a training course, setting up home or clothes for a job
     interview.
-
-
-    [Find out more about how Real Change works and how your money is
-    spent.](/how-it-works/)
   heading: Who does Real Change help?
 how:
-  body: "If your organisation provides a service to support people who are homeless in Wigan & Leigh and you would like to discuss how to become an approved Real Change partner, please contact us on [07788 105 078](tel:07788105078) or email <mailto:info@realchangewiganandleigh.co.uk> or \L[find out more here](/how-to-apply/)."
+  body: >-
+    If your organisation provides a service to support people who are homeless
+    and vulnerable in Doncaster and you would like to discuss how to become an
+    approved Real Help partner, please contact us at: email
+    info@realhelpdoncaster.org
   heading: How can you apply?
 partners:
   body: >-
-    **If you are sleeping rough, homeless or at risk of homelessness in Wigan &
-    Leigh and want to apply for funds, get in touch with one of our partner
+    **If you are sleeping rough, homeless or at risk of homelessness in
+    Doncaster and want to apply for funds, get in touch with one of our partner
     organisations who will work with you to apply for funds on your behalf.**
 
 
-    Real Change Wigan & Leigh currently works in partnership with the following
+    Real Help Doncaster currently works in partnership with the following
     organisations:
   heading: Help from our Partners
   image: ''
