@@ -1,11 +1,11 @@
 ---
 title: How to Apply |
 header:
-  hero: Real Change in Wigan & Leigh **How to Apply**
+  hero: Real Help Doncaster   **How to Apply**
 content: >-
-  **If you are sleeping rough, homeless or at risk of homelessness and want to
-  apply for funds to help you, get in touch with one of our partner
-  organisations who will work with you to apply:**
+  **If you are homeless or at risk of losing your housing and want to apply for
+  funds, get in touch with one of our partner organisations who will work with
+  you to apply:**
 list: >-
   * [Addaction](https://www.addaction.org.uk/services/addaction-wigan-leigh)
 
