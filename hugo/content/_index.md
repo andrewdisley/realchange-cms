@@ -2,7 +2,7 @@
 title: Welcome to
 header:
   classes: home-header
-  hero: <span>Help make</span> a Real Change in **Wigan & Leigh**
+  hero: Provide Real Help in **Doncaster**
 whatis:
   body: >-
     **Real Change pays for practical items individuals need to build independent
@@ -31,10 +31,9 @@ how:
   heading: How can you apply?
 partners:
   body: >-
-    **If you are sleeping rough, homeless or at
-    risk of homelessness in Wigan & Leigh and want to apply for funds, get in
-    touch with one of our partner organisations who will work with you to apply
-    for funds on your behalf.**
+    **If you are sleeping rough, homeless or at risk of homelessness in Wigan &
+    Leigh and want to apply for funds, get in touch with one of our partner
+    organisations who will work with you to apply for funds on your behalf.**
 
 
     Real Change Wigan & Leigh currently works in partnership with the following
