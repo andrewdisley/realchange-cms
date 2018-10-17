@@ -14,9 +14,9 @@ intro:
 where:
   body: >-
     For every £1 donated, 95p goes directly to helping someone looking for
-    support, and not a penny on salaries for Campaign.  This is because the Real
-    Help partners have committed the time and energy of their staff to help
-    support the campaign for free.
+    support, and not a penny on the Campaign.  This is because the Real Help
+    partners have committed the time and energy of their staff to help support
+    the campaign for free.
   heading: Where do your donations go?
   image: ''
   stat1:
