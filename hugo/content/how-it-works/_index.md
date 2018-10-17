@@ -38,7 +38,7 @@ how:
 
     There are two types of application:
   button:
-    text: Donate and make a real change
+    text: Donate and make a real change in Doncaster
     url: 'https://www.justgiving.com/campaign/realhelpdoncaster'
   card1:
     body: >-
@@ -64,6 +64,6 @@ how:
     subheading: >-
       (e.g.Skills training, furnishings for a flat, or larger white goods such
       as a fridge or washing machine)
-  heading: How will my donation be spent?
+  heading: How will my donation be used?
 ---
 
