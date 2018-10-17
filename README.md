@@ -40,3 +40,8 @@ Any changes to CSS / JS / Image assets here must be manually copied to the hugo 
 
 * `assemble`
 * Visit: http://localhost:3000/
+
+### Deploying new sites
+
+* create branch
+* update hugo/static/admin/config.yml to point at new branch
