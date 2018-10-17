@@ -5,7 +5,7 @@ header:
 intro:
   body: >-
     **The Real Help Doncaster campaign is designed to bring together people
-    experiencing homelessness, our community, support providers, charities,
+    experiencing homelessness, our community, service providers, charities,
     grassroots groups, our council, local businesses and individuals to end
     Homelessness in Doncaster.**
   button:
