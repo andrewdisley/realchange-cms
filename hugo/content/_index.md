@@ -5,7 +5,7 @@ header:
   hero: Provide Real Help in **Doncaster**
 whatis:
   body: >-
-    **Real Change pays for practical items individuals need to build independent
+    **Real Help pays for practical items individuals need to build independent
     lives away from the streets.**
 
 
@@ -14,7 +14,7 @@ whatis:
   button:
     text: Donate and make a real help to people in Doncaster
     url: 'https://www.justgiving.com/campaign/realhelpdoncaster'
-  heading: What is Real Change?
+  heading: What is Real Help Doncaster?
   image: assets/uploads/home-intro-whatis.png
 who:
   body: >-
