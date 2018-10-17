@@ -41,22 +41,20 @@ partners:
   heading: Help from our Partners
   image: ''
   list: >-
-    * [Addaction](https://www.addaction.org.uk/services/addaction-wigan-leigh)
+    * Amber 
 
-    * [EDs Homes](https://www.edshomes.org.uk/housing)
+    * Healthwatch
 
-    * [Helping The Homeless](https://www.helpingthehomelesscharity.co.uk/)
+    * Doncaster Mind 
 
-    * [Jigsaw Homes](https://www.jigsawhomes.org.uk/)
+    * St Ledger Homes 
 
-    * [Riverside](https://www.riverside.org.uk/care-and-support/)
+    * Changing Lives 
 
-    * [The Brick](http://www.thebrick.org.uk/)
+    * Aspire 
 
-    * [Wigan Wellbeing & Resilience](https://www.facebook.com/WiganWellbeing/)
-
-    * [Your Housing
-    Group](https://www.yourhousinggroup.co.uk/find-a-home/young-peoples-housing/foyers/)
+    * [Riverside
+    ](https://www.riverside.org.uk/in-your-neighbourhood/south-yorkshire/care-and-support/doncaster-homeless-floating-support-service/)
   youtube: 'https://www.youtube.com/embed/h5THJZgLznM'
 ---
 
