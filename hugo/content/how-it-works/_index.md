@@ -1,21 +1,21 @@
 ---
 title: How it Works |
 header:
-  hero: Real Change in Wigan & Leigh **How it Works**
+  hero: Real Help Doncaster **How it Works**
 intro:
   body: >-
-    **Real Change is a fund for Wigan & Leigh that pays for items that local
+    **The Real Help campaign is a for Doncaster that pays for items that local
     people need to end and prevent homelessness.**
   button:
-    text: Donate and make a real change
-    url: 'https://www.justgiving.com/campaign/realchangewiganandleigh'
+    text: 'Changing the way you DONATE changes lives '
+    url: 'https://www.justgiving.com/realhelpdoncaster.com'
 where:
   body: >-
-    For every £1 you give, 85p goes directly to helping someone in need, and not
-    a penny on salaries for Campaign.  This is because Real Change partners have
-    committed the time and energy of their staff to help run the campaign for
-    free.
-  heading: Where does your money go?
+    For every £1 you give, 95p goes directly to helping someone looking for
+    support, and not a penny on salaries for Campaign.  This is because the Real
+    Help partners have committed the time and energy of their staff to help
+    support the campaign for free.
+  heading: Where do your donations go?
   image: /assets/uploads/howitworks-stats.png
   stat1:
     count: 85%
