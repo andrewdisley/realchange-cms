@@ -3,9 +3,9 @@ title: How to Apply |
 header:
   hero: Real Help Doncaster   **How to Apply**
 content: >-
-  **If you are homeless or at risk of becoming homeless and want to apply for
-  funds, get in touch with one of our partner organisations who will work with
-  you to apply:**
+  **If you think this support can help you and you want to apply for funds, get
+  in touch with one of our partner organisations who will work with you to
+  apply:**
 list: |-
   * Partners
   * Aspire
