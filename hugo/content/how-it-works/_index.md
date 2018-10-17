@@ -8,7 +8,7 @@ intro:
     people need to end and prevent homelessness.**
   button:
     text: 'Changing the way you DONATE changes lives '
-    url: 'https://www.justgiving.com/realhelpdoncaster.com'
+    url: 'https://www.justgiving.com/realhelpdoncaster'
 where:
   body: >-
     For every £1 you give, 95p goes directly to helping someone looking for
@@ -41,30 +41,30 @@ how:
     There are two types of application:
   button:
     text: Donate and make a real change
-    url: 'https://www.justgiving.com/campaign/realchangewiganandleigh'
+    url: 'https://www.justgiving.com/campaign/realhelpdoncaster'
   card1:
     body: >-
       If the request is for under £100, applications which meet the criteria are
       approved almost immediately.
 
 
-      This excludes cash, emergency accommodation, food or other items which are
-      available for free elsewhere.
+      This excludes cash, emergency accommodation, food or other items which is
+      provided and can be already accessed elsewhere.
     heading: Under £100
     subheading: >-
       (e.g. Education or training courses, essential household items, clothes
       for interviews)
   card2:
     body: >-
-      If the request is for over £100, the application must be agreed by an
-      independent panel.
+      If the request is for over £100, the application must be agreed by the
+      Real Help Doncaster  independent panel.
 
 
       The Panel includes people with lived experience of homelessness alongside
-      representatives of support groups and accomodation providers.
+      representatives of support groups and accommodation providers.
     heading: Over £100
     subheading: >-
-      (e.g. Deposit or rent, furnishings for a flat, or larger white goods such
+      (e.g.Skills training, furnishings for a flat, or larger white goods such
       as a fridge or washing machine)
   heading: How will my donation be spent?
 ---
