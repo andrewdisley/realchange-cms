@@ -11,19 +11,19 @@ intro:
     url: 'https://www.justgiving.com/realhelpdoncaster'
 where:
   body: >-
-    For every £1 you give, 95p goes directly to helping someone looking for
+    For every £1 donated, 95p goes directly to helping someone looking for
     support, and not a penny on salaries for Campaign.  This is because the Real
     Help partners have committed the time and energy of their staff to help
     support the campaign for free.
   heading: Where do your donations go?
-  image: /assets/uploads/howitworks-stats.png
+  image: ''
   stat1:
     count: 95%
-    image: /assets/uploads/howitworks-stat-85.png
+    image: ''
     text: Goes to the individual via the personal application process
   stat2:
     count: 5%
-    image: /assets/uploads/howitworks-stat-10.png
+    image: ''
     text: Goes to Just Giving for administering donations
   stat3:
     count: ''
@@ -31,11 +31,9 @@ where:
     text: ''
 how:
   body: >-
-    Your donation is combined with other donations in one central pot. [Local
-    charities](/how-to-apply/) and organisations then work directly with
-    individuals who are homeless, and apply for funds to pay for items they
-    need. Money is transferred to the partner organisations to get where it is
-    needed as quickly as possible. 
+    Real Help Doncaster is a local campaign to help homeless and vulnerable
+    people off the streets and into a healthier and safer lifestyle. The funds
+    donated and raised can be distributed in two ways.
 
 
     There are two types of application:
