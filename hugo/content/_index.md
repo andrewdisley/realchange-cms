@@ -41,7 +41,7 @@ partners:
   heading: Help from our Partners
   image: ''
   list: >-
-    * Amber 
+    * DMBC
 
     * Healthwatch
 
@@ -55,6 +55,8 @@ partners:
 
     * [Riverside
     ](https://www.riverside.org.uk/in-your-neighbourhood/south-yorkshire/care-and-support/doncaster-homeless-floating-support-service/)
+
+    * Big Issue North
   youtube: 'https://www.youtube.com/embed/h5THJZgLznM'
 ---
 
