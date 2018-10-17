@@ -7,7 +7,7 @@ content: >-
   in touch with one of our partner organisations who will work with you to
   apply:**
 list: |-
-  * Partners
+  * DMBC 
   * Aspire
   * Changing Lives
   * [Doncaster Mind](http://doncastermind.org.uk/)
