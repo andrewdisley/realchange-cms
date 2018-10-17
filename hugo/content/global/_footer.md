@@ -9,8 +9,8 @@ row2: >-
   Visit [Street Support](https://streetsupport.net/wigan-and-leigh/) to see what
   else you can give
 row3: >-
-  Find out how your business or workplace can become a [Corporate
-  Partner](mailto:robbie.cowbury@riverside.org.uk)
+  Find out how your business or workplace can become a [Real Help
+  Partner](info@realhelpdoncaster.org)
 links: '[Privacy Policy](/privacy/)'
 ---
 
