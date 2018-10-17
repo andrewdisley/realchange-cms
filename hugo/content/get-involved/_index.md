@@ -26,7 +26,7 @@ content: >-
 
 
   Every bit helps, so if you want to help people in Doncaster, please [get in
-  touch](mailto:info@realchangewiganandleigh.co.uk).
+  touch](info@realhelpdoncaster.org)
 section:
   body: >-
     To end homelessness in our area we will need to work together.
