@@ -18,17 +18,17 @@ where:
   heading: Where do your donations go?
   image: /assets/uploads/howitworks-stats.png
   stat1:
-    count: 85%
+    count: 95%
     image: /assets/uploads/howitworks-stat-85.png
-    text: Goes to the individual
+    text: Goes to the individual via the personal application process
   stat2:
-    count: 10%
-    image: /assets/uploads/howitworks-stat-10.png
-    text: Goes to local charity Forever Manchester to manage the fund safely
-  stat3:
     count: 5%
-    image: /assets/uploads/howitworks-stat-5.png
+    image: /assets/uploads/howitworks-stat-10.png
     text: Goes to Just Giving for administering donations
+  stat3:
+    count: ''
+    image: ''
+    text: ''
 how:
   body: >-
     Your donation is combined with other donations in one central pot. [Local
