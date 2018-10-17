@@ -37,7 +37,7 @@ section:
 
     [Your Life Doncaster
     ](https://www.yourlifedoncaster.co.uk/s4s/WhereILive/Council?pageId=7&lockLA=True)
-  heading: 'Real Help Doncaster r '
+  heading: 'Real Help Doncaster '
   image: ''
 ---
 
