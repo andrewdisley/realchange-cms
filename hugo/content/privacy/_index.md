@@ -39,7 +39,7 @@ content: >-
 
   You are entitled to see any information held about you and may request any
   necessary changes to ensure that it is accurate and kept up-to-date. Please
-  contact robbie.cowbury@riverside.org.uk to do so.
+  contact info@realhelpdoncaster.org to do so.
 
 
   **Breach of Privacy**
@@ -47,8 +47,8 @@ content: >-
 
   If for any reason you believe that your privacy has been breached through the
   use of this site, please let us know immediately by emailing
-  robbie.cowbury@riverside.org.uk, and we will promptly determine and correct
-  the problem.
+  info@realhelpdoncaster.org, and we will promptly determine and correct the
+  problem.
 
 
   **Policy updates**
