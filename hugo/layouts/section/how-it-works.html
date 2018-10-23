@@ -38,14 +38,16 @@
                   <p><strong class="stat-count">{{ .Params.where.stat2.count }}</strong> {{ .Params.where.stat2.text }}</p>
                 </div>
               </div>
+              {{ if .Params.where.stat3.count }}
               <div class="stat">
                 <div class="stat-img">
-                  <img alt="{{ .Params.where.stat2.count }}" src="{{ .Params.where.stat2.image }}">
+                  <img alt="{{ .Params.where.stat3.count }}" src="{{ .Params.where.stat3.image }}">
                 </div>
                 <div class="stat-body">
                   <p><strong class="stat-count">{{ .Params.where.stat3.count }}</strong> {{ .Params.where.stat3.text }}</p>
                 </div>
               </div>
+              {{ end }}
             </div>
           </div>
           {{ if .Params.where.image }}
