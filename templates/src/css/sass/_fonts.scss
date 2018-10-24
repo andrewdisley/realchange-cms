@@ -1,63 +1,62 @@
 // Fonts
 //
 
-// @import must be at top of file, otherwise CSS will not work
-// Uncomment for live site to ensure meet webfont license
-@import url("//hello.myfonts.net/count/373e2d");
-
+// Colaborate Bold
 @font-face {
-  font-family: 'Barlow Semi Condensed';
+  font-family: 'Colaborate';
   font-style: normal;
   font-weight: 700;
-  src: local('Barlow Semi Condensed Bold'),
-       local('BarlowSemiCondensed-Bold'),
-       url('assets/barlowsemicondensed-bold.woff2') format('woff2'),
-       url('assets/barlowsemicondensed-bold.woff') format('woff');
+  src: local('Colaborate Bold'),
+       local('Colaborate-Bold'),
+       url('assets/colaborate-bold.woff') format('woff');
 }
 
+// Colaborate Medium
 @font-face {
-  font-family: 'Barlow Semi Condensed';
+  font-family: 'Colaborate';
+  font-style: normal;
+  font-weight: 500;
+  src: local('Colaborate Medium'),
+       local('Colaborate-Medium'),
+       url('assets/colaborate-medium.woff') format('woff');
+}
+
+// Open Sans Light
+@font-face {
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: 300;
-  src: local('Barlow Semi Condensed Light'),
-       local('BarlowSemiCondensed-Light'),
-       url('assets/barlowsemicondensed-light.woff2') format('woff2'),
-       url('assets/barlowsemicondensed-light.woff') format('woff');
+  src: local('Open Sans Light'), local('OpenSans-Light'),
+       url('assets/open-sans-v15-latin-300.woff2') format('woff2'),
+       url('assets/open-sans-v15-latin-300.woff') format('woff');
 }
 
+// Open Sans Regular
 @font-face {
-  font-family: 'Barlow Semi Condensed';
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: 400;
-  src: local('Barlow Semi Condensed Regular'),
-       local('BarlowSemiCondensed-Regular'),
-       url('assets/barlowsemicondensed-regular.woff2') format('woff2'),
-       url('assets/barlowsemicondensed-regular.woff') format('woff');
+  src: local('Open Sans Regular'), local('OpenSans-Regular'),
+       url('assets/open-sans-v15-latin-regular.woff2') format('woff2'),
+       url('assets/open-sans-v15-latin-regular.woff') format('woff');
 }
 
+// Open Sans SemiBold
 @font-face {
-  font-family: 'LunchBox';
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Open Sans SemiBold'), local('OpenSans-SemiBold'),
+       url('assets/open-sans-v15-latin-600.woff2') format('woff2'),
+       url('assets/open-sans-v15-latin-600.woff') format('woff');
+}
+
+// Open Sans Bold
+@font-face {
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: 700;
-  src: local('LunchBox-Bold'),
-       url('assets/373e2d-bold.woff2') format('woff2'),
-       url('assets/373e2d-bold.woff') format('woff');
-}
-
-@font-face {
-  font-family: 'LunchBox';
-  font-style: normal;
-  font-weight: 300;
-  src: local('LunchBox-Light'),
-       url('assets/373e2d-light.woff2') format('woff2'),
-       url('assets/373e2d-light.woff') format('woff');
-}
-
-@font-face {
-  font-family: 'LunchBox';
-  font-style: normal;
-  font-weight: 400;
-  src: local('LunchBox'),
-       url('assets/373e2d-regular.woff2') format('woff2'),
-       url('assets/373e2d-regular.woff') format('woff');
+  src: local('Open Sans Bold'), local('OpenSans-Bold'),
+       url('assets/open-sans-v15-latin-700.woff2') format('woff2'),
+       url('assets/open-sans-v15-latin-700.woff') format('woff');
 }
