@@ -10,7 +10,7 @@
   cursor: pointer;
   display: inline-block;
   font-family: $button-font-family;
-  font-size: ($font-size-base * 1.2222222222); // 22px
+  font-size: $font-size-base; // 22px
   font-weight: $button-font-weight;
   line-height: $button-line-height;
   position: relative;

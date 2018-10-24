@@ -19,7 +19,7 @@ app.use( watch() );
 //
 var config = {
   "project" : {
-    "shortname" : "realchange" // Used to name generated css and javascript
+    "shortname" : "realhelp" // Used to name generated css and javascript
   },
   "paths" : {
     "src" : {
