@@ -1,6 +1,6 @@
-# Real Change Hugo + Netlify CMS and Styleguide
+# Real Help Hugo + Netlify CMS and Styleguide
 
-This is the repository for Real Change live websites and styleguide.
+This is the repository for Real Help Doncaster live websites and styleguide.
 
 
 ## Live site: Hugo + Netlify CMS

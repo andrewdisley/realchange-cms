@@ -1,4 +1,4 @@
-# Real Change Styleguide and Templates
+# Real Help Styleguide and Templates
 
 ## Install
 * Install assemble globally `npm i -g assemble`

@@ -5,7 +5,7 @@ header:
   hero: '# Privacy Policy'
 content: >-
   No personal information is collected through this website, but your privacy
-  still matters to us. 
+  still matters to us.
 
 
   **Data Processing and Security**
@@ -61,7 +61,7 @@ content: >-
   **Usage tracking**
 
 
-  Like millions of other websites, Real Change uses Google Analytics to help us
+  Like millions of other websites, Real Help uses Google Analytics to help us
   see which areas of the site our visitors are using. From this information, we
   can make informed choices on how to improve the site.
 
