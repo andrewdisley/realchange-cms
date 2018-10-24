@@ -244,24 +244,6 @@
 }
 
 .home-partners-title {
-  svg {
-    display: block;
-    color: $color-black;
-    fill: currentColor;
-    height: 44px;
-    margin-bottom: 0.5rem;
-    margin-left: auto;
-    margin-right: auto;
-    width: 44px;
-
-    @include media-breakpoint-up(sm) {
-      display: inline-block;
-      margin-bottom: 0;
-      margin-right: 1rem;
-      position: relative;
-      top: 4px;
-    }
-  }
 }
 
 .home-partners-media {
