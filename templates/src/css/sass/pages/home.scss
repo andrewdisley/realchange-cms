@@ -155,10 +155,6 @@
 // }
 
 .home-stories-header {
-  background-image: url(assets/home-stories-header.png), url(assets/home-stories-header.png);
-  background-repeat: no-repeat;
-  background-position: 50% 0%, 50% 100%;
-  background-size: 100% 10px, 100% 10px;
   margin-bottom: 1.25rem;
   margin-left: (0.75rem + 1.625rem);
   margin-right: (0.75rem + 1.625rem);
@@ -179,29 +175,6 @@
   @include media-breakpoint-up(lg) {
     margin-left: 0;
     margin-right: 0;
-  }
-
-  &::before,
-  &::after {
-    background-image: url(assets/home-stories-header-ba.png);
-    background-position: 0 50%;
-    background-repeat: no-repeat;
-    bottom: 0;
-    content: "";
-    display: block;
-    height: 100%;
-    position: absolute;
-    top: 0;
-    width: 26px;
-  }
-
-  &::before {
-    left: -1.625rem;
-  }
-
-  &::after {
-    background-position: 100% 50%;
-    right: -1.625rem;
   }
 }
 

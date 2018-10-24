@@ -9,12 +9,4 @@
     padding-bottom: 4.5rem;
     padding-top: 4.5rem;
   }
-
-  &.edge-top {
-    padding-top: 2rem;
-
-    @include media-breakpoint-up(lg) {
-      padding-top: 3.5rem;
-    }
-  }
 }
