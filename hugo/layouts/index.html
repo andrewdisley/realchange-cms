@@ -1,6 +1,12 @@
 {{ define "main" }}
 {{ partial "header.html" .Params.header }}
 
+{{ if .Params.header.hero }}
+<div class="header-hero">
+  <h1 class="header-hero-title">{{ .Params.header.hero | markdownify | safeHTML }}</h1>
+</div>
+{{ end }}
+
 <div id="main">
 
   <section class="section home-intro">

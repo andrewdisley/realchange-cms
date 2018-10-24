@@ -11,6 +11,12 @@ header_nav_home: true
   header__hero__text='<span>Help make</span> a Real Change in <strong>Wigan &amp; Leigh</strong>'
 }}
 
+{{#if header__hero}}
+<div class="header-hero">
+  <h1 class="header-hero-title">{{{ header__hero__text }}}</h1>
+</div>
+{{/if}}
+
 <div id="main">
   <section class="section home-intro">
     <div class="container">
@@ -19,7 +25,7 @@ header_nav_home: true
           <h2>What is Real Change?</h2>
           <p><strong>Real Change pays for practical items individuals need to build independent lives away from the streets.</strong></p>
           <p>If everyone who lives, works or visits Wigan &amp; Leigh donates, together we can make a Real Change!</p>
-          <a class="button d-block" href="#">Donate and make a real change</a>
+          <a class="button d-block" href="#">Donate and make a change</a>
         </div>
         <div class="boxed-media aspect aspect-6by5">
           <img alt="" class="aspect-item" src="assets/uploads/home-intro-whatis.png">

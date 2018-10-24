@@ -1,7 +1,6 @@
 ---
 title: Welcome to
 header:
-  classes: home-header
   hero: Provide Real Help in **Doncaster**
 whatis:
   body: >-
@@ -45,13 +44,13 @@ partners:
 
     * Healthwatch
 
-    * Doncaster Mind 
+    * Doncaster Mind
 
-    * St Ledger Homes 
+    * St Ledger Homes
 
-    * Changing Lives 
+    * Changing Lives
 
-    * Aspire 
+    * Aspire
 
     * [Riverside
     ](https://www.riverside.org.uk/in-your-neighbourhood/south-yorkshire/care-and-support/doncaster-homeless-floating-support-service/)
