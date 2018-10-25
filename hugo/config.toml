@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://realhelpdoncaster.org/"
 languageCode = "en-gb"
 title = "Real Help Doncaster"
 disableKinds = ["RSS", "taxonomyTerm"]
