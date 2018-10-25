@@ -19,14 +19,14 @@ where:
     partners have committed the time and energy of their teams to help support
     the campaign.
   heading: Where do your donations go?
-  image: ''
+  image: /assets/uploads/howitworks-stats.png
   stat1:
     count: 95%
-    image: ''
+    image: /assets/uploads/howitworks-stat-95.png
     text: Goes to the individual via the personal application process
   stat2:
     count: 5%
-    image: ''
+    image: /assets/uploads/howitworks-stat-5.png
     text: Goes to Just Giving for administering donations
   stat3:
     count: ''
