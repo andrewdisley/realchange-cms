@@ -14,7 +14,7 @@ whatis:
     text: Donate and make a real help to people in Doncaster
     url: 'https://www.justgiving.com/campaign/realhelpdoncaster'
   heading: What is Real Help Doncaster?
-  image: assets/uploads/home-intro-whatis.png
+  image: ''
 who:
   body: >-
     **The Real Change fund supports people who are homeless by paying for items
@@ -38,11 +38,11 @@ partners:
     Real Help Doncaster currently works in partnership with the following
     organisations:
   heading: Help from our Partners
-  image: ''
+  image: assets/uploads/home-partners-banner-2.jpg
   list: >-
     * [Aspire](http://www.aspire.community/)
 
-    * Changing Lives 
+    * Changing Lives
 
     * [Doncaster Mind ](http://doncastermind.org.uk/)
 
@@ -50,7 +50,7 @@ partners:
     ](https://urcyorkshire.org.uk/churchfinder/churches/hall-gate-urc/)
 
     * [St Ledger
-    Homes](http://www.stlegerhomes.co.uk/looking-for-a-home/housing-options-and-homelessness/) 
+    Homes](http://www.stlegerhomes.co.uk/looking-for-a-home/housing-options-and-homelessness/)
 
     * [Riverside
     ](https://www.riverside.org.uk/in-your-neighbourhood/south-yorkshire/care-and-support/doncaster-homeless-floating-support-service/)

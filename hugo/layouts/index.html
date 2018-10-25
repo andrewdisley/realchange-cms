@@ -18,9 +18,11 @@
           {{ if not ( strings.Contains $whatisBodyMarkdown "<p>" ) }}<p>{{ $whatisBodyMarkdown }}</p>{{ else }}{{ $whatisBodyMarkdown }}{{ end }}
           {{ if .Params.whatis.button.url }}<a class="button d-block" href="{{ .Params.whatis.button.url }}">{{ .Params.whatis.button.text }}</a>{{ end }}
         </div>
-        <div class="boxed-media aspect aspect-6by5 sr-only">
+        {{ if .Params.whatis.image }}
+        <div class="boxed-media aspect aspect-6by5">
           <img alt="" class="aspect-item" src="{{ .Params.whatis.image }}">
         </div>
+        {{ end }}
       </div>
       <div class="home-intro-split">
         <div class="boxed home-intro-who">
