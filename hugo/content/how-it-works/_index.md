@@ -62,9 +62,9 @@ how:
     heading: Over £100
     subheading: >-
       If the request is for over £100, the application must be agreed by the
-      Real Help Doncaster independent panel.The Panel includes people with lived
-      experience of homelessness alongside representatives of support groups and
-      accommodation providers.
+      Real Help Doncaster independent panel. The Panel includes people with
+      lived experience of homelessness alongside representatives of support
+      groups and accommodation providers.
   heading: How will my donation be used?
 ---
 
