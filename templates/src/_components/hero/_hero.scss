@@ -70,15 +70,23 @@
 }
 
 .hero-pretitle {
-  color: $color-white;
+  color: $color-rh-yellow;
   display: block;
   font-size: 30px;
+
+  .hero-alt & {
+    color: $color-white;
+  }
 }
 
 .hero-title {
-  color: $color-rh-yellow;
+  color: $color-white;
   display: block;
   font-size: 60px;
+
+  .hero-alt & {
+    color: $color-rh-yellow;
+  }
 }
 
 .hero-subtitle {
