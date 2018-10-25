@@ -6,6 +6,9 @@ content: >-
   **If you think this support can help you and you want to apply for funds, get
   in touch with one of our partner organisations who will work with you to
   apply:**
+
+
+  **\    APPLICATIONS WILL BE OPEN FOR SUBMISSION IN EARLY DECEMBER **
 list: >-
   * [Aspire](http://www.aspire.community/)
 
