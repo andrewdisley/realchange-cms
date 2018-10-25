@@ -25,7 +25,7 @@ content: >-
 
 
   Together we can make a change, so if you want to support Real Help in
-  Doncaster, please [get in touch](info@realhelpdoncaster.org)
+  Doncaster, please [get in touch](mailto:info@realhelpdoncaster.org)
 section:
   body: >-
     To end homelessness in our area we will need to work together.
@@ -35,8 +35,8 @@ section:
     visit:
 
 
-    [Your Life Doncaster
-    ](https://www.yourlifedoncaster.co.uk/s4s/WhereILive/Council?pageId=7&lockLA=True)
+    [Your Life
+    Doncaster](https://www.yourlifedoncaster.co.uk/s4s/WhereILive/Council?pageId=7&lockLA=True)
   heading: 'Real Help Doncaster '
   image: ''
 ---
