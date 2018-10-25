@@ -2,12 +2,12 @@
 title: Welcome to
 hero:
   pretitle:
-  title: Provide Real Help in **Doncaster**
+  title: Real Help Doncaster
   subtitle:
-  body:
+  body: A local fund that helps homeless and vulnerable people off the street and into a healthier and safer lifestyle.
   button:
-    text:
-    url:
+    text: 'Donate'
+    url: 'https://www.justgiving.com/campaign/realhelpdoncaster'
 whatis:
   body: >-
     **Real Help Doncaster is a campaign to raise awareness and funds to support
