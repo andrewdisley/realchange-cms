@@ -1,17 +1,6 @@
 {{ define "main" }}
 {{ partial "header.html" .Params.header }}
-
-<div class="hero">
-  <div class="hero-inner">
-    <h1>
-      <span class="hero-pretitle">Hero Pretitle</span>
-      <span class="hero-title">Hero Title</span>
-      <span class="hero-subtitle">Hero Subtitle</span>
-    </h1>
-    <p>Hero supporting content - not yet editable via CMS</p>
-    <a class="button button-primary" href="#">Button</a>
-  </div>
-</div>
+{{ partial "hero.html" .Params.hero }}
 
 <div id="main">
 

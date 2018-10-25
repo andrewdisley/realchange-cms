@@ -1,0 +1,16 @@
+<div class="hero hero-alt">
+  <div class="hero-inner">
+    {{ if or (.hero.Params.pretitle) (.hero.Params.title) (.hero.Params.subtitle) }}
+    <h1>
+      {{ if .hero.Params.pretitle }}<span class="hero-pretitle">{{ .hero.Params.pretitle | safeHTML }} </span>{{ end }}
+      {{ if .hero.Params.title }}<span class="hero-title">{{ .hero.Params.title | safeHTML }} </span>{{ end }}
+      {{ if .hero.Params.subtitle }}<span class="hero-subtitle">{{ .hero.Params.subtitle | safeHTML }} </span>{{ end }}
+    </h1>
+    {{ end }}
+    {{ if .hero.Params.body }}
+      {{ $heroBodyMarkdown := .hero.Params.body | markdownify }}
+      {{ if not ( strings.Contains $heroBodyMarkdown "<p>" ) }}<p>{{ $heroBodyMarkdown }}</p>{{ else }}{{ $heroBodyMarkdown }}{{ end }}
+    {{ end }}
+    {{ if .hero.Params.button.url }}<a class="button button-primary" href="{{ .hero.Params.button.url }}">{{ .hero.Params.button.text }}</a>{{ end }}
+  </div>
+</div>

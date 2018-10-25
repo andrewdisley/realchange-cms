@@ -1,7 +1,13 @@
 ---
 title: Welcome to
-header:
-  hero: Provide Real Help in **Doncaster**
+hero:
+  pretitle:
+  title: Provide Real Help in **Doncaster**
+  subtitle:
+  body:
+  button:
+    text:
+    url:
 whatis:
   body: >-
     **Real Help Doncaster is a campaign to raise awareness and funds to support
@@ -9,7 +15,7 @@ whatis:
 
 
     If everyone who lives, works or visits Doncaster donates, together we can
-    make a Real Help in supporting people into healthier and safer lifestyles. 
+    make a Real Help in supporting people into healthier and safer lifestyles.
 
 
     - - -
