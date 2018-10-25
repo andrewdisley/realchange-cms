@@ -422,9 +422,13 @@ p + .button { margin-top: 1rem; }
 
 @media (min-width: 992px) { .hero-inner { padding-top: 6rem; } }
 
-.hero-pretitle { color: #FFFFFF; display: block; font-size: 30px; }
+.hero-pretitle { color: #FFE500; display: block; font-size: 30px; }
 
-.hero-title { color: #FFE500; display: block; font-size: 60px; }
+.hero-alt .hero-pretitle { color: #FFFFFF; }
+
+.hero-title { color: #FFFFFF; display: block; font-size: 60px; }
+
+.hero-alt .hero-title { color: #FFE500; }
 
 .hero-subtitle { display: block; font-size: 30px; }
 
