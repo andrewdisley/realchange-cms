@@ -6,11 +6,11 @@
       </div>
       <div class="footer-body">
         <h3 class="footer-body-title">{{ .footer.Params.title }}</h3>
-        <p>{{ .footer.Params.row1 | markdownify | safeHTML }}</p>
-        <p>{{ .footer.Params.row2 | markdownify | safeHTML }}</p>
-        <p>{{ .footer.Params.row3 | markdownify | safeHTML }}</p>
+        {{ if .footer.Params.row1 }}<p>{{ .footer.Params.row1 | markdownify | safeHTML }}</p>{{ end }}
+        {{ if .footer.Params.row2 }}<p>{{ .footer.Params.row2 | markdownify | safeHTML }}</p>{{ end }}
+        {{ if .footer.Params.row3 }}<p>{{ .footer.Params.row3 | markdownify | safeHTML }}</p>{{ end }}
         <div class="footer-info" role="contentinfo">
-          <p>&copy; {{ dateFormat "2006" now }} Real Change {{ .footer.Params.links | markdownify | safeHTML }}</p>
+          <p>&copy; {{ dateFormat "2006" now }} Real Help {{ .footer.Params.links | markdownify | safeHTML }}</p>
         </div>
       </div>
     </div>

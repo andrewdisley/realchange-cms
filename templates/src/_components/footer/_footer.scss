@@ -13,6 +13,11 @@
   a {
     color: $color-rh-yellow;
     font-weight: $font-weight-bold;
+
+    @include hover {
+      color: $color-rh-yellow;
+      text-decoration: none;
+    }
   }
 }
 
@@ -37,13 +42,13 @@
 
 .footer-split {
   @include media-breakpoint-up(sm) {
+    align-items: flex-end;
     display: flex;
     justify-content: space-between;
   }
 }
 
 .footer-brand {
-  align-self: flex-end;
   padding: 0.625rem 0;
 }
 
