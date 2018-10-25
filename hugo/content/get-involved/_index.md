@@ -22,17 +22,16 @@ content: >-
 
   * Share your skills or knowledge
 
-  * Donate space, items, or equipment
 
-
-  Every bit helps, so if you want to help people in Doncaster, please [get in
+  All support helps, so if you want to help people in Doncaster, please [get in
   touch](info@realhelpdoncaster.org)
 section:
   body: >-
     To end homelessness in our area we will need to work together.
 
 
-    for more information on support available please visit:
+    For a more comprehensive list of support available in Doncaster please
+    visit:
 
 
     [Your Life Doncaster
