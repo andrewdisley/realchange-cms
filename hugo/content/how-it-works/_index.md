@@ -10,12 +10,12 @@ intro:
     grassroots groups, our council, local businesses and individuals with the
     ambition to end Homelessness in Doncaster.**
   button:
-    text: 'Change the way you GIVE here '
+    text: Change the way you GIVE here
     url: 'https://www.justgiving.com/realhelpdoncaster'
 where:
   body: >-
     For every £1 donated, 95p goes directly to helping someone looking for
-    support, and not a penny on the Campaign.  This is because the Real Help
+    support, and not a penny on the Campaign. This is because the Real Help
     partners have committed the time and energy of their teams to help support
     the campaign.
   heading: Where do your donations go?
@@ -41,32 +41,27 @@ how:
 
     There are two types of application:
   button:
-    text: 'Change the way you GIVE here '
+    text: Change the way you GIVE here
     url: 'https://www.justgiving.com/campaign/realhelpdoncaster'
   card1:
     body: >-
-
-
-      (e.g. Education or training courses, essential household items, clothes
-      for interviews)
-    heading: Under £100
-    subheading: >-
       If the request is for under £100, applications which meet the criteria are
       approved almost immediately via the organisation who are supporting with
-      the
-      application.
+      the application.
+    heading: Under £100
+    subheading: >-
+      (e.g. Education or training courses, essential household items, clothes
+      for interviews)
   card2:
     body: >-
-
-
-      (e.g.Skills training, furnishings for a flat, or larger white goods such
-      as a fridge or washing machine)
-    heading: Over £100
-    subheading: >-
       If the request is for over £100, the application must be agreed by the
       Real Help Doncaster independent panel. The Panel includes people with
       lived experience of homelessness alongside representatives of support
       groups and accommodation providers.
+    heading: Over £100
+    subheading: >-
+      (e.g.Skills training, furnishings for a flat, or larger white goods such
+      as a fridge or washing machine)
   heading: How will my donation be distributed?
 ---
 
