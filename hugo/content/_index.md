@@ -4,7 +4,9 @@ header:
   hero: Provide Real Help in **Doncaster**
 whatis:
   body: >-
-    **raise**
+    **Real Help Doncaster is a campaign to raise awareness around begging, rough
+    sleeping and homelessness as well as distributing the donated funds to
+    support people on their road to making healthier and safer life choices.** 
 
 
     If everyone who lives, works or visits Doncaster donates, together we can
