@@ -1,14 +1,15 @@
 ---
 title: Get Involved |
-header:
-  hero: Real Help Doncaster **Get Involved**
+hero:
+  pretitle: Real Help Doncaster
+  title: Get Involved
 content: >-
   ## Do you want to get involved in Real Help Doncaster?
 
 
   Whether your interested in getting involved personally, on behalf of your
   community group, workplace or college, or as a business, there are many ways
-  you can help. 
+  you can help.
 
 
   As well as donating directly to the fund, you might want to:
