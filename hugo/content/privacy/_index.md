@@ -26,8 +26,8 @@ content: >-
   **Cookies**
 
 
-  Lke all websites, this site uses cookies. These track use of the site and give
-  you the best user experience. A cookie is a small file, which asks for
+  Like all websites, this site uses cookies. These track use of the site and
+  give you the best user experience. A cookie is a small file, which asks for
   permission to be placed on your computer hard drive. You can turn off cookies
   and any website tracking within your web browser by going to internet options
   – privacy.
@@ -72,10 +72,10 @@ content: >-
 
   * How long you stay for.
 
-  * What kind of computer you're using**.**
+  * What kind of computer you're using.
 
 
-  And quite a bit more**.**
+  And quite a bit more.
 
 
   - - -
@@ -111,9 +111,7 @@ partners:
     partner, please contact us at:
 
 
-
-
-    Email: info@realhelpdoncaster.org
+    Email: **[info@realhelpdoncaster.org](mailto:info@realhelpdoncaster.org)**
   heading: Want to become a Partner?
 ---
 
