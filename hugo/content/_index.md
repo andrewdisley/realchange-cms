@@ -8,22 +8,22 @@ whatis:
 
 
     If everyone who lives, works or visits Doncaster donates, together we can
-    make a Real Help in supporting people into healthier and safer lifestyles. 
+    make a Real Help in supporting people into healthier and safer lifestyles.
 
 
     - - -
   button:
-    text: 'Change the way you GIVE here '
+    text: 'Change the way you GIVE here'
     url: 'https://www.justgiving.com/campaign/realhelpdoncaster'
   heading: What is Real Help Doncaster?
-  image: ''
+  image: assets/uploads/home-intro-whatis.jpg
 who:
   body: >-
     **People who are homeless or at risk of homelessness often face practical
     barriers which need to be overcome for them to become active, independent
     members of their community. The Real Help fund supports people by paying for
     items that will help support sustainable changes for a healthier and safer
-    lifestyle.  ** 
+    lifestyle.**
 
 
     Real Help applications can be submitted to help set up a home(including
