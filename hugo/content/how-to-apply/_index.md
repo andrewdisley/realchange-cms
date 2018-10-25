@@ -6,6 +6,12 @@ content: >-
   **If you think this support can help you and you want to apply for funds, get
   in touch with one of our partner organisations who will work with you to
   apply:**
+
+
+  **APPLICATIONS WILL BE OPEN IN EARLY DECEMBER **
+
+
+  ****
 list: >-
   * [Aspire](http://www.aspire.community/)
 
@@ -28,7 +34,7 @@ partners:
     access the application process, please contact us at:
 
 
-    Email: info@realhelpdoncaster.org
+    Email: [info@realhelpdoncaster.org](info@realhelpdoncaster.org)
   heading: Become a Partner?
 ---
 
