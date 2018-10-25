@@ -44,28 +44,27 @@ how:
     url: 'https://www.justgiving.com/campaign/realhelpdoncaster'
   card1:
     body: >-
-      If the request is for under £100, applications which meet the criteria are
-      approved almost immediately.
 
 
-      This excludes cash, emergency accommodation, food or other items which is
-      provided and can be already accessed elsewhere.
-    heading: Under £100
-    subheading: >-
       (e.g. Education or training courses, essential household items, clothes
       for interviews)
+    heading: Under £100
+    subheading: >-
+      If the request is for under £100, applications which meet the criteria are
+      approved almost immediately.via the organisation who are supporting you
+      with the application.
   card2:
     body: >-
-      If the request is for over £100, the application must be agreed by the
-      Real Help Doncaster  independent panel.
 
 
-      The Panel includes people with lived experience of homelessness alongside
-      representatives of support groups and accommodation providers.
-    heading: Over £100
-    subheading: >-
       (e.g.Skills training, furnishings for a flat, or larger white goods such
       as a fridge or washing machine)
+    heading: Over £100
+    subheading: >-
+      If the request is for over £100, the application must be agreed by the
+      Real Help Doncaster independent panel.The Panel includes people with lived
+      experience of homelessness alongside representatives of support groups and
+      accommodation providers.
   heading: How will my donation be used?
 ---
 
