@@ -40,7 +40,7 @@ $grid-breakpoints: (
 
 $breakpoint-mobile-nav: 600px;
 $breakpoint-mobile-small: 340px;
-$container-max-width: 840px;
+$container-max-width: 832px;
 
 //
 // Spacing
@@ -73,7 +73,6 @@ $link-hover-decoration: none;
 //
 // Fonts
 //
-// TODO: Base fallback font
 $font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Verdana, Geneva, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 $font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 $font-family-rh-colaborate: "Colaborate";
@@ -92,7 +91,7 @@ $font-size-xl: ($font-size-base * 1.5555555556); // 28px
 $font-weight-base: 400;
 $font-weight-light: 300;
 $font-weight-normal: 400;
-$font-weight-semibold: 500;
+$font-weight-semibold: 600;
 $font-weight-bold: 700;
 
 $line-height-base: 1.5;
@@ -166,7 +165,7 @@ $form-vertical-spacer: 1.5rem;
 $button-font-family: $font-family-rh-colaborate, $font-family-base;
 $button-font-weight: $font-weight-bold;
 $button-padding: 0.5rem 1.625rem;
-$button-padding-md: 0.5rem 2rem;
+$button-padding-md: 0.75rem 2rem;
 $button-line-height: 1.5;
 
 //
