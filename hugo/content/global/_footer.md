@@ -2,9 +2,9 @@
 title: Other ways you can help
 row1: >-
   Share us on
-  [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Frealchangewiganandleigh.co.uk)
+  [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//realhelpdoncaster.org/)
   and
-  [Twitter](https://twitter.com/home?status=I%E2%80%99m%20making%20a%20Real%20Change%20in%20Wigan%20%26%20Leigh%20%23RealChangeWL%20%40RealChangeGM)
+  [Twitter](https://twitter.com/home?status=Real%20Help%20Doncaster%20-%20Change%20the%20way%20you%20GIVE%20https%3A//realhelpdoncaster.org/%20%23realhelpDN)
   #realhelpDN
 row2: >-
   Arrange a fundraising event and link to our [justgiving
