@@ -15,7 +15,7 @@ layout: styleguide
   <section class="styleguide-section">
     <div class="styleguide-intro">
       <h1>Header</h1>
-      <p>The header can be displayed with or without a Background, Navigation and Hero Text.</p>
+      <p>The header can be displayed with or without Navigation</p>
     </div>
   </section>
 
@@ -23,104 +23,50 @@ layout: styleguide
 
   <section class="styleguide-section">
 
-    <h3 class="styleguide-h3">Header with hero text</h3>
+    <h3 class="styleguide-h3">Header</h3>
     <div class="styleguide-example">
-{{> header
-  header__classes=false
-  header__style=false
-  header__nav=false
-  header__hero=true
-  header__hero__text='Text White <strong>Strong Text</strong>'
-}}
+      {{> header }}
     </div>
     <div class="styleguide-code">
-      <pre><code>&#x3C;header class=&#x22;header&#x22;&#x3E;
+      <pre><code>&#x3C;header class=&#x22;header&#x22; role=&#x22;banner&#x22;&#x3E;
   &#x3C;a class=&#x22;header-skip&#x22; href=&#x22;#main&#x22;&#x3E;Skip to main content&#x3C;/a&#x3E;
   &#x3C;div class=&#x22;header-inner&#x22;&#x3E;
     &#x3C;div class=&#x22;header-brand&#x22;&#x3E;
-      &#x3C;a href=&#x22;#&#x22;&#x3E;
-        &#x3C;div class=&#x22;header-brand-inner&#x22;&#x3E;
-          &#x3C;img alt=&#x22;Real Change&#x22; class=&#x22;header-brand-logo&#x22; height=&#x22;63&#x22; src=&#x22;assets/real-change-logo-x2.png&#x22; width=&#x22;55&#x22;&#x3E;
-        &#x3C;/div&#x3E;
-      &#x3C;/a&#x3E;
-    &#x3C;/div&#x3E;
-    &#x3C;div class=&#x22;header-hero&#x22;&#x3E;
-      &#x3C;h1 class=&#x22;header-hero-title&#x22;&#x3E;Text White &#x3C;strong&#x3E;Strong Text&#x3C;/strong&#x3E;&#x3C;/h1&#x3E;
-    &#x3C;/div&#x3E;
-  &#x3C;/div&#x3E;
-&#x3C;/header&#x3E;</code></pre>
-    </div>
-
-    <h3 class="styleguide-h3">Header with background image, decor, navigation and hero text</h3>
-    <div class="styleguide-example">
-{{> header
-  header__classes=""
-  header__style="background-image: url(assets/uploads/header-worldcap.jpg);"
-  header__nav=true
-  header__hero=true
-  header__hero__text='Text White <strong>Strong Text</strong>'
-}}
-    </div>
-    <div class="styleguide-code">
-      <pre><code>&#x3C;header class=&#x22;header&#x22; role=&#x22;banner&#x22; style=&#x22;background-image: url(assets/uploads/header-worldcap.jpg);&#x22;&#x3E;
-  &#x3C;a class=&#x22;header-skip&#x22; href=&#x22;#main&#x22;&#x3E;Skip to main content&#x3C;/a&#x3E;
-  &#x3C;div class=&#x22;header-inner&#x22;&#x3E;
-    &#x3C;div class=&#x22;header-brand&#x22;&#x3E;
-      &#x3C;a href=&#x22;#&#x22;&#x3E;
-        &#x3C;div class=&#x22;header-brand-inner&#x22;&#x3E;
-          &#x3C;img alt=&#x22;Real Change&#x22; class=&#x22;header-brand-logo&#x22; height=&#x22;63&#x22; src=&#x22;assets/real-change-logo-x2.png&#x22; width=&#x22;55&#x22;&#x3E;
-        &#x3C;/div&#x3E;
-      &#x3C;/a&#x3E;
+      &#x3C;a href=&#x22;index.html&#x22;&#x3E;&#x3C;img alt=&#x22;Real Help&#x22; class=&#x22;header-brand-logo&#x22; height=&#x22;38&#x22; src=&#x22;assets/doncaster-proud-to-care-logo.png&#x22; width=&#x22;171&#x22;&#x3E;&#x3C;/a&#x3E;
     &#x3C;/div&#x3E;
     &#x3C;nav class=&#x22;header-body&#x22; role=&#x22;navigation&#x22; aria-labelledby=&#x22;nav-site&#x22;&#x3E;
       &#x3C;h2 class=&#x22;sr-only&#x22; id=&#x22;nav-site&#x22;&#x3E;Site navigation&#x3C;/h2&#x3E;
       &#x3C;ul class=&#x22;header-nav&#x22;&#x3E;
-        &#x3C;li&#x3E;&#x3C;a href=&#x22;#&#x22;&#x3E;Home&#x3C;/a&#x3E;&#x3C;/li&#x3E;
-        &#x3C;li&#x3E;&#x3C;a href=&#x22;#&#x22;&#x3E;How&#x3C;/a&#x3E;&#x3C;/li&#x3E;
-        &#x3C;li&#x3E;&#x3C;a href=&#x22;#&#x22;&#x3E;Apply&#x3C;/a&#x3E;&#x3C;/li&#x3E;
-        &#x3C;li&#x3E;&#x3C;a href=&#x22;#&#x22;&#x3E;Stories&#x3C;/a&#x3E;&#x3C;/li&#x3E;
+        &#x3C;li&#x3E;&#x3C;a href=&#x22;page-howitworks.html&#x22;&#x3E;How it works&#x3C;/a&#x3E;&#x3C;/li&#x3E;
+        &#x3C;li&#x3E;&#x3C;a href=&#x22;page-howtoapply.html&#x22;&#x3E;How to apply&#x3C;/a&#x3E;&#x3C;/li&#x3E;
+        &#x3C;li&#x3E;&#x3C;a href=&#x22;page-getinvolved.html&#x22;&#x3E;Get involved&#x3C;/a&#x3E;&#x3C;/li&#x3E;
+        &#x3C;li class=&#x22;header-nav-donate&#x22;&#x3E;&#x3C;a class=&#x22;button button-primary&#x22; href=&#x22;#&#x22; target=&#x22;_blank&#x22;&#x3E;Donate&#x3C;/a&#x3E;&#x3C;/li&#x3E;
       &#x3C;/ul&#x3E;
     &#x3C;/nav&#x3E;
-    &#x3C;div class=&#x22;header-hero&#x22;&#x3E;
-      &#x3C;h1 class=&#x22;header-hero-title&#x22;&#x3E;Text White &#x3C;strong&#x3E;Strong Text&#x3C;/strong&#x3E;&#x3C;/h1&#x3E;
-    &#x3C;/div&#x3E;
   &#x3C;/div&#x3E;
 &#x3C;/header&#x3E;</code></pre>
     </div>
 
-    <h3 class="styleguide-h3">Header on Home with background image, decor, navigation and hero text</h3>
+    <h3 class="styleguide-h3">Header with navigation</h3>
     <div class="styleguide-example">
-{{> header
-  header__classes="home-header"
-  header__style="background-image: url(assets/home-header.jpg);"
-  header__nav=true
-  header__hero=true
-  header__hero__text='Text White <strong>Strong Text</strong>'
-}}
+      {{> header header__nav=true }}
     </div>
     <div class="styleguide-code">
-      <pre><code>&#x3C;header class=&#x22;header home-header&#x22; role=&#x22;banner&#x22; style=&#x22;background-image: url(assets/uploads/header-worldcap.jpg);&#x22;&#x3E;
+      <pre><code>&#x3C;header class=&#x22;header&#x22; role=&#x22;banner&#x22;&#x3E;
   &#x3C;a class=&#x22;header-skip&#x22; href=&#x22;#main&#x22;&#x3E;Skip to main content&#x3C;/a&#x3E;
   &#x3C;div class=&#x22;header-inner&#x22;&#x3E;
     &#x3C;div class=&#x22;header-brand&#x22;&#x3E;
-      &#x3C;a href=&#x22;#&#x22;&#x3E;
-        &#x3C;div class=&#x22;header-brand-inner&#x22;&#x3E;
-          &#x3C;img alt=&#x22;Real Change&#x22; class=&#x22;header-brand-logo&#x22; height=&#x22;63&#x22; src=&#x22;assets/real-change-logo-x2.png&#x22; width=&#x22;55&#x22;&#x3E;
-        &#x3C;/div&#x3E;
-      &#x3C;/a&#x3E;
+      &#x3C;a href=&#x22;index.html&#x22;&#x3E;&#x3C;img alt=&#x22;Real Help&#x22; class=&#x22;header-brand-logo&#x22; height=&#x22;38&#x22; src=&#x22;assets/doncaster-proud-to-care-logo.png&#x22; width=&#x22;171&#x22;&#x3E;&#x3C;/a&#x3E;
     &#x3C;/div&#x3E;
     &#x3C;nav class=&#x22;header-body&#x22; role=&#x22;navigation&#x22; aria-labelledby=&#x22;nav-site&#x22;&#x3E;
       &#x3C;h2 class=&#x22;sr-only&#x22; id=&#x22;nav-site&#x22;&#x3E;Site navigation&#x3C;/h2&#x3E;
       &#x3C;ul class=&#x22;header-nav&#x22;&#x3E;
-        &#x3C;li&#x3E;&#x3C;a href=&#x22;#&#x22;&#x3E;Home&#x3C;/a&#x3E;&#x3C;/li&#x3E;
-        &#x3C;li&#x3E;&#x3C;a href=&#x22;#&#x22;&#x3E;How&#x3C;/a&#x3E;&#x3C;/li&#x3E;
-        &#x3C;li&#x3E;&#x3C;a href=&#x22;#&#x22;&#x3E;Apply&#x3C;/a&#x3E;&#x3C;/li&#x3E;
-        &#x3C;li&#x3E;&#x3C;a href=&#x22;#&#x22;&#x3E;Stories&#x3C;/a&#x3E;&#x3C;/li&#x3E;
+        &#x3C;li&#x3E;&#x3C;a href=&#x22;page-howitworks.html&#x22;&#x3E;How it works&#x3C;/a&#x3E;&#x3C;/li&#x3E;
+        &#x3C;li&#x3E;&#x3C;a href=&#x22;page-howtoapply.html&#x22;&#x3E;How to apply&#x3C;/a&#x3E;&#x3C;/li&#x3E;
+        &#x3C;li&#x3E;&#x3C;a href=&#x22;page-getinvolved.html&#x22;&#x3E;Get involved&#x3C;/a&#x3E;&#x3C;/li&#x3E;
+        &#x3C;li class=&#x22;header-nav-donate&#x22;&#x3E;&#x3C;a class=&#x22;button button-primary&#x22; href=&#x22;#&#x22; target=&#x22;_blank&#x22;&#x3E;Donate&#x3C;/a&#x3E;&#x3C;/li&#x3E;
       &#x3C;/ul&#x3E;
     &#x3C;/nav&#x3E;
-    &#x3C;div class=&#x22;header-hero&#x22;&#x3E;
-      &#x3C;h1 class=&#x22;header-hero-title&#x22;&#x3E;Text White &#x3C;strong&#x3E;Strong Text&#x3C;/strong&#x3E;&#x3C;/h1&#x3E;
-    &#x3C;/div&#x3E;
   &#x3C;/div&#x3E;
 &#x3C;/header&#x3E;</code></pre>
     </div>

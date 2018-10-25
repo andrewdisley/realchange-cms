@@ -3,13 +3,9 @@ title: "Home"
 layout: default
 header_nav_home: true
 ---
-{{> header
-  header__classes="home-header"
-  header__style=false
-  header__nav=true
-  header__hero=true
-  header__hero__text='<span>Help make</span> a Real Change in <strong>Wigan &amp; Leigh</strong>'
-}}
+{{> header header__nav=true }}
+
+<span>Help make</span> a Real Change in <strong>Wigan &amp; Leigh</strong>
 
 {{#if header__hero}}
 <div class="header-hero">
