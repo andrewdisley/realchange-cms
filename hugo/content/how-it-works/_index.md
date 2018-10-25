@@ -6,17 +6,17 @@ intro:
   body: >-
     **The Real Help Doncaster campaign is designed to bring together people
     experiencing homelessness, our community, service providers, charities,
-    grassroots groups, our council, local businesses and individuals to end
-    Homelessness in Doncaster.**
+    grassroots groups, our council, local businesses and individuals with the
+    ambition to end Homelessness in Doncaster.**
   button:
-    text: 'Changing the way you - DONATE - here '
+    text: 'Changing the way you GIVE here '
     url: 'https://www.justgiving.com/realhelpdoncaster'
 where:
   body: >-
     For every £1 donated, 95p goes directly to helping someone looking for
     support, and not a penny on the Campaign.  This is because the Real Help
-    partners have committed the time and energy of their staff to help support
-    the campaign for free.
+    partners have committed the time and energy of their teams to help support
+    the campaign.
   heading: Where do your donations go?
   image: ''
   stat1:
@@ -40,7 +40,7 @@ how:
 
     There are two types of application:
   button:
-    text: Donate and make a real change in Doncaster
+    text: 'Changing the way you GIVE here '
     url: 'https://www.justgiving.com/campaign/realhelpdoncaster'
   card1:
     body: >-
@@ -65,6 +65,6 @@ how:
       Real Help Doncaster independent panel. The Panel includes people with
       lived experience of homelessness alongside representatives of support
       groups and accommodation providers.
-  heading: How will my donation be used?
+  heading: How will my donation be distributed?
 ---
 
