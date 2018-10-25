@@ -9,12 +9,10 @@ whatis:
 
 
     If everyone who lives, works or visits Doncaster donates, together we can
-    make a Real Help to ending homelessness!
+    make a Real Help in supporting people into healthier and safer lifestyles. 
 
 
-
-
-    ****
+    - - -
   button:
     text: 'Changing the way you GIVE here '
     url: 'https://www.justgiving.com/campaign/realhelpdoncaster'
