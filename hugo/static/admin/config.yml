@@ -54,9 +54,9 @@ collections:
         label: "How it Works"
         name: "how-it-works"
         fields:
-          - {label: "Title", name: "title", widget: "string"}
           - {label: "Header", name: "header", widget: "object", fields: [
               {label: "Header Text (optional)", name: "hero", widget: "markdown"}
+          - {label: "Title (Real Help Doncaster prepended)", name: "title", widget: "string"}
             ]}
           - {label: "Intro", name: "intro", widget: "object", fields: [
               {label: "Body", name: "body", widget: "markdown"},
@@ -107,7 +107,7 @@ collections:
         label: "How to Apply"
         name: "how-to-apply"
         fields:
-          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Title (Real Help Doncaster prepended)", name: "title", widget: "string"}
           - {label: "Header", name: "header", widget: "object", fields: [
               {label: "Header Text (optional)", name: "hero", widget: "markdown"}
             ]}
@@ -121,7 +121,7 @@ collections:
         label: "Get Involved"
         name: "get-involved"
         fields:
-          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Title (Real Help Doncaster prepended)", name: "title", widget: "string"}
           - {label: "Header", name: "header", widget: "object", fields: [
               {label: "Header Text (optional)", name: "hero", widget: "markdown"}
             ]}
@@ -135,7 +135,7 @@ collections:
         label: "Privacy Policy"
         name: "privacy"
         fields:
-          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Title (Real Help Doncaster prepended)", name: "title", widget: "string"}
           - {label: "Header", name: "header", widget: "object", fields: [
               {label: "Header Text (optional)", name: "hero", widget: "markdown"}
             ]}
@@ -148,7 +148,7 @@ collections:
         label: "Stories"
         name: "stories"
         fields:
-          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Title (Real Help Doncaster prepended)", name: "title", widget: "string"}
           - {label: "Show on Home", name: "showonhome", widget: "boolean", default: false}
           - {label: "Header", name: "header", widget: "object", fields: [
               {label: "Header Text (optional)", name: "hero", widget: "markdown"}
