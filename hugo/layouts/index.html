@@ -1,12 +1,6 @@
 {{ define "main" }}
 {{ partial "header.html" .Params.header }}
 
-{{ if .Params.header.hero }}
-<div class="header-hero">
-  <h1 class="header-hero-title">{{ .Params.header.hero | markdownify | safeHTML }}</h1>
-</div>
-{{ end }}
-
 <div id="main">
 
   <section class="section home-intro">
@@ -16,10 +10,10 @@
           <h2>{{ .Params.whatis.heading }}</h2>
           {{ $whatisBodyMarkdown := .Params.whatis.body | markdownify }}
           {{ if not ( strings.Contains $whatisBodyMarkdown "<p>" ) }}<p>{{ $whatisBodyMarkdown }}</p>{{ else }}{{ $whatisBodyMarkdown }}{{ end }}
-          {{ if .Params.whatis.button.url }}<a class="button d-block" href="{{ .Params.whatis.button.url }}">{{ .Params.whatis.button.text }}</a>{{ end }}
+          {{ if .Params.whatis.button.url }}<a class="button button-primary d-block" href="{{ .Params.whatis.button.url }}">{{ .Params.whatis.button.text }}</a>{{ end }}
         </div>
         {{ if .Params.whatis.image }}
-        <div class="boxed-media aspect aspect-6by5">
+        <div class="boxed-media aspect aspect-1by1">
           <img alt="" class="aspect-item" src="{{ .Params.whatis.image }}">
         </div>
         {{ end }}
