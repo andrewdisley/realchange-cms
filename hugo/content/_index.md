@@ -11,7 +11,7 @@ whatis:
     If everyone who lives, works or visits Doncaster donates, together we can
     make a Real Help to ending homelessness!
   button:
-    text: Donate and make a real help to people in Doncaster
+    text: 'Changing the way you GIVE here '
     url: 'https://www.justgiving.com/campaign/realhelpdoncaster'
   heading: What is Real Help Doncaster?
   image: ''
