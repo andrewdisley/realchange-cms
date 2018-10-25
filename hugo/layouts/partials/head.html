@@ -7,7 +7,7 @@
 <meta property="og:url" content="{{ .Permalink }}" />
 <meta property="og:title" content="{{.Title}} {{.Site.Title}}" />
 <meta property="og:description" content="A local fund that helps homeless and vulnerable people off the street and into a healthier and safer lifestyle" />
-<meta property="og:image" content="{{.Site.BaseURL}}/assets/uploads/opengraph-20181025-1.jpg" />
+<meta property="og:image" content="{{.Site.BaseURL}}assets/uploads/opengraph-20181025-1.jpg" />
 <title>{{.Title}} {{.Site.Title}}</title>
 {{ $styleMain := resources.Get "realhelp.css" | resources.Minify | resources.Fingerprint }}<link rel="stylesheet" href="{{ $styleMain.Permalink }}">
 <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
