@@ -175,7 +175,6 @@ collections:
       - file: "hugo/content/stories/_index.md"
         label: "Stories"
         name: "stories"
-        disabled: true
         fields:
           - {label: "Title (Real Help Doncaster prepended)", name: "title", widget: "string"}
           - {label: "Show on Home", name: "showonhome", widget: "boolean", default: false}
@@ -196,7 +195,6 @@ collections:
               {label: "Text", name: "text", widget: "string"}
             ]}
   - name: "stories"
-    disabled: true
     label: "Story"
     editor:
       preview: false
