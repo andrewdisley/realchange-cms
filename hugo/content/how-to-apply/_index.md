@@ -8,7 +8,10 @@ content: >-
   apply:**
 
 
-  **\    APPLICATIONS WILL BE OPEN FOR SUBMISSION IN EARLY DECEMBER **
+  **APPLICATIONS WILL BE OPEN IN EARLY DECEMBER **
+
+
+  ****
 list: >-
   * [Aspire](http://www.aspire.community/)
 
