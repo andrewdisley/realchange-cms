@@ -2,7 +2,7 @@
 title: Get Involved |
 hero:
   pretitle: Real Help Doncaster
-  title: Get Involved
+  title: Get involved
 content: >-
   ## Do you want to get involved in Real Help Doncaster?
 

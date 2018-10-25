@@ -2,7 +2,7 @@
 title: How it Works |
 hero:
   pretitle: Real Help Doncaster
-  title: How it Works
+  title: How it works
 intro:
   body: >-
     **The Real Help Doncaster campaign is designed to bring together people
