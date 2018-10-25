@@ -28,10 +28,10 @@ who:
   heading: Who does Real Help support?
 how:
   body: >-
-    If your organisation provides a service to support people who are sleeping
+    **If your organisation provides a service to support people who are sleeping
     rough, homeless or at risk of homelessness in Doncaster and you would like
     to discuss how to become an approved Real Help partner, please contact us
-    at: email info@realhelpdoncaster.org
+    at: email info@realhelpdoncaster.org**
   heading: How can you apply?
 partners:
   body: >-
