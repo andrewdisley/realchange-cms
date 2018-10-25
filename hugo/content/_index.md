@@ -42,7 +42,7 @@ partners:
   list: >-
     * [Aspire](http://www.aspire.community/)
 
-    * Changing Lives
+    * [Changing Lives](https://www.changing-lives.org.uk/services/)
 
     * [Doncaster Mind ](http://doncastermind.org.uk/)
 
