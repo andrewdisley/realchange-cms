@@ -42,7 +42,7 @@ partners:
   list: >-
 
 
-    * St Ledger Homes
+
 
     * Aspire
 
