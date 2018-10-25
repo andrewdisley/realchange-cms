@@ -4,28 +4,27 @@ header:
   hero: Provide Real Help in **Doncaster**
 whatis:
   body: >-
-    **Real Help Doncaster is a campaign to raise awareness around begging, rough
-    sleeping and homelessness as well as distributing the donated funds to
-    support people on their road to making healthier and safer life choices.** 
+    **Real Help Doncaster is a campaign to raise awareness and funds to support
+    individuals who are homeless or at risk of homelessness.**
 
 
     If everyone who lives, works or visits Doncaster donates, together we can
-    make a Real Help in supporting people into healthier and safer lifestyles.
+    make a Real Help in supporting people into healthier and safer lifestyles. 
 
 
     - - -
   button:
-    text: 'Change the way you GIVE here'
+    text: 'Change the way you GIVE here '
     url: 'https://www.justgiving.com/campaign/realhelpdoncaster'
   heading: What is Real Help Doncaster?
-  image: assets/uploads/home-intro-whatis.jpg
+  image: ''
 who:
   body: >-
     **People who are homeless or at risk of homelessness often face practical
     barriers which need to be overcome for them to become active, independent
     members of their community. The Real Help fund supports people by paying for
     items that will help support sustainable changes for a healthier and safer
-    lifestyle.**
+    lifestyle.  ** 
 
 
     Real Help applications can be submitted to help set up a home(including
