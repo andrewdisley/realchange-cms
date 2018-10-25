@@ -20,9 +20,10 @@ whatis:
   image: ''
 who:
   body: >-
-    People who are homeless or at risk of homelessness often face practical
-    barriers. The Real Help fund supports people by paying for items that will
-    help support sustainable changes for a healthier and safer lifestyle.
+    **People who are homeless or at risk of homelessness often face practical
+    barriers. The Real Help fund application process supports people by funding
+    items that will help support sustainable changes for a healthier and safer
+    lifestyle.  **
   heading: Who does Real Help support?
 how:
   body: >-
