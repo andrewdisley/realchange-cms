@@ -15,7 +15,7 @@ collections:
         label: "Home"
         name: "home"
         fields:
-          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Title (Real Help Doncaster prepended)", name: "title", widget: "string"}
           - {label: "Hero", name: "hero", widget: "object", fields: [
               {label: "Pretitle (optional - white text above title)", name: "pretitle", widget: "string"},
               {label: "Title (optional - yellow)", name: "title", widget: "string"},
@@ -45,7 +45,7 @@ collections:
             ]}
           - {label: "Partners", name: "partners", widget: "object", fields: [
               {label: "Heading", name: "heading", widget: "string"},
-              {label: "YouTube (embed URL)", name: "youtube", widget: "string"},
+              {label: "YouTube (embed URL - if set will hide image)", name: "youtube", widget: "string"},
               {label: "Image (only set if no YouTube)", name: "image", widget: "image"},
               {label: "Body", name: "body", widget: "markdown"},
               {label: "List", name: "list", widget: "markdown"}
