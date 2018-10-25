@@ -2,11 +2,11 @@
 //
 
 .section {
-  padding-bottom: 2.5rem;
-  padding-top: 2.5rem;
+  padding-bottom: 2rem;
+  padding-top: 2rem;
 
   @include media-breakpoint-up(lg) {
-    padding-bottom: 4.5rem;
-    padding-top: 4.5rem;
+    padding-bottom: 4rem;
+    padding-top: 4rem;
   }
 }
