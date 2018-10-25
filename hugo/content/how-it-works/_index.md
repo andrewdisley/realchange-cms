@@ -1,7 +1,8 @@
 ---
 title: How it Works |
-header:
-  hero: Real Help Doncaster **How it Works**
+hero:
+  pretitle: Real Help Doncaster
+  title: How it Works
 intro:
   body: >-
     **The Real Help Doncaster campaign is designed to bring together people
@@ -53,7 +54,7 @@ how:
       If the request is for under £100, applications which meet the criteria are
       approved almost immediately via the organisation who are supporting with
       the
-      application.                                                                                    
+      application.
   card2:
     body: >-
 
