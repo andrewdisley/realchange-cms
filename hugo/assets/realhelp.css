@@ -538,6 +538,8 @@ p + .button { margin-top: 1rem; }
 
 .howitworks-how .content { max-width: 46rem; }
 
+.howitworks-how .card { -webkit-box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.3); box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.3); }
+
 .getinvolved-section { -webkit-box-align: start; -ms-flex-align: start; align-items: flex-start; }
 
 @media (min-width: 576px) { .getinvolved-section { display: -webkit-box; display: -ms-flexbox; display: flex; } }
