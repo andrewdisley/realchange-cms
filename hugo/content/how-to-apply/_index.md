@@ -6,14 +6,20 @@ content: >-
   **If you think this support can help you and you want to apply for funds, get
   in touch with one of our partner organisations who will work with you to
   apply:**
-list: |-
-  * DMBC 
-  * Aspire
+list: >-
+  * [Aspire](http://www.aspire.community/)
+
   * Changing Lives
-  * [Doncaster Mind](http://doncastermind.org.uk/)
+
+  * [Doncaster Mind ](http://doncastermind.org.uk/)
+
+  * [Hall Gate United Reform
+  Church](https://urcyorkshire.org.uk/churchfinder/churches/hall-gate-urc/)
+
   * [Riverside](https://www.riverside.org.uk/care-and-support/)
-  * St Ledger
-  * Big Issue North
+
+  * [St
+  Ledger](https://www.stlegerhomes.co.uk/looking-for-a-home/housing-options-and-homelessness/)
 partners:
   body: >-
     If your organisation provides support to people who are homeless or at risk

@@ -40,22 +40,20 @@ partners:
   heading: Help from our Partners
   image: ''
   list: >-
-    * DMBC
+    * [Aspire](http://www.aspire.community/)
 
-    * Healthwatch
+    * Changing Lives 
 
-    * Doncaster Mind
+    * [Doncaster Mind ](http://doncastermind.org.uk/)
 
-    * St Ledger Homes
+    * [Hall Gate United Reformed Church
+    ](https://urcyorkshire.org.uk/churchfinder/churches/hall-gate-urc/)
 
-    * Changing Lives
-
-    * Aspire
+    * [St Ledger
+    Homes](http://www.stlegerhomes.co.uk/looking-for-a-home/housing-options-and-homelessness/) 
 
     * [Riverside
     ](https://www.riverside.org.uk/in-your-neighbourhood/south-yorkshire/care-and-support/doncaster-homeless-floating-support-service/)
-
-    * Big Issue North
   youtube: ''
 ---
 
