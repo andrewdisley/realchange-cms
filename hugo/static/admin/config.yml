@@ -16,8 +16,15 @@ collections:
         name: "home"
         fields:
           - {label: "Title", name: "title", widget: "string"}
-          - {label: "Header", name: "header", widget: "object", fields: [
-              {label: "Header Text (optional)", name: "hero", widget: "markdown"}
+          - {label: "Hero", name: "hero", widget: "object", fields: [
+              {label: "Pretitle (optional - white text above title)", name: "pretitle", widget: "string"},
+              {label: "Title (optional - yellow)", name: "title", widget: "string"},
+              {label: "Subtitle (optional - white text below title)", name: "subtitle", widget: "string"},
+              {label: "Body (optional)", name: "body", widget: "markdown"},
+              {label: "Button", name: "button", widget: "object", fields: [
+                {label: "URL (inc. http://)", name: "url", widget: "string"},
+                {label: "Text", name: "text", widget: "string"}
+              ]}
             ]}
           - {label: "What Is", name: "whatis", widget: "object", fields: [
               {label: "Heading", name: "heading", widget: "string"},
