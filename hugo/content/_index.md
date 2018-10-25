@@ -23,7 +23,7 @@ whatis:
     text: Change the way you GIVE here
     url: 'https://www.justgiving.com/campaign/realhelpdoncaster'
   heading: What is Real Help Doncaster?
-  image: ''
+  image: /assets/uploads/home-intro-whatis.jpg
 who:
   body: >-
     **People who are homeless or at risk of homelessness often face practical
