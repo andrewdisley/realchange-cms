@@ -1,13 +1,13 @@
 ---
 title: Welcome to
 hero:
-  pretitle:
-  title: Real Help Doncaster
-  subtitle:
-  body: A local fund that helps homeless and vulnerable people off the street and into a healthier and safer lifestyle.
+  body: >-
+    A local fund that helps homeless and vulnerable people off the street and
+    into a healthier and safer lifestyle.
   button:
-    text: 'Donate'
+    text: Donate
     url: 'https://www.justgiving.com/campaign/realhelpdoncaster'
+  title: Real Help Doncaster
 whatis:
   body: >-
     **Real Help Doncaster is a campaign to raise awareness and funds to support
@@ -20,7 +20,7 @@ whatis:
 
     - - -
   button:
-    text: 'Change the way you GIVE here '
+    text: Change the way you GIVE here
     url: 'https://www.justgiving.com/campaign/realhelpdoncaster'
   heading: What is Real Help Doncaster?
   image: ''
@@ -29,14 +29,15 @@ who:
     **People who are homeless or at risk of homelessness often face practical
     barriers. The Real Help fund application process supports people by funding
     items that will help support sustainable changes for a healthier and safer
-    lifestyle.  **
+    lifestyle.**
   heading: Who does Real Help support?
 how:
   body: >-
     **If your organisation provides a service to support people who are sleeping
     rough, homeless or at risk of homelessness in Doncaster and you would like
     to discuss how to become an approved Real Help partner, please contact us
-    at: email info@realhelpdoncaster.org**
+    at: email
+    **[**info@realhelpdoncaster.org**](mailto:info@realhelpdoncaster.org)****
   heading: How can you apply?
 partners:
   body: >-
