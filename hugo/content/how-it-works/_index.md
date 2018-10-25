@@ -9,7 +9,7 @@ intro:
     grassroots groups, our council, local businesses and individuals with the
     ambition to end Homelessness in Doncaster.**
   button:
-    text: 'Changing the way you GIVE here '
+    text: 'Change the way you GIVE here '
     url: 'https://www.justgiving.com/realhelpdoncaster'
 where:
   body: >-
@@ -40,7 +40,7 @@ how:
 
     There are two types of application:
   button:
-    text: 'Changing the way you GIVE here '
+    text: 'Change the way you GIVE here '
     url: 'https://www.justgiving.com/campaign/realhelpdoncaster'
   card1:
     body: >-
