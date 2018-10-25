@@ -17,16 +17,16 @@ whatis:
   image: ''
 who:
   body: >-
-    **The Real Change fund supports people who are homeless by paying for items
-    they need** -  a training course, setting up home or clothes for a job
-    interview.
+    **The Real Change fund supports people by paying for items that will help in
+    the ** -  help set up a home, a training course, setting up home or clothes
+    for a job interview.
   heading: Who does Real Change help?
 how:
   body: >-
-    If your organisation provides a service to support people who are homeless
-    and vulnerable in Doncaster and you would like to discuss how to become an
-    approved Real Help partner, please contact us at: email
-    info@realhelpdoncaster.org
+    If your organisation provides a service to support people who are sleeping
+    rough, homeless or at risk of homelessness in Doncaster and you would like
+    to discuss how to become an approved Real Help partner, please contact us
+    at: email info@realhelpdoncaster.org
   heading: How can you apply?
 partners:
   body: >-
