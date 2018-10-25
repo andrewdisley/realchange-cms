@@ -3,8 +3,9 @@ draft: true
 story: yes
 title: Danny’s Story |
 date: 2018-08-25T20:24:10.347Z
-header:
-  hero: "Real Change in Wigan & Leigh **\LDanny’s Story**"
+hero:
+  pretitle: Real Help Doncaster
+  title: Danny’s Story
 summary:
   heading: “Real change helped me when I needed it most”
   image: /assets/uploads/story-danny-5by2.jpg

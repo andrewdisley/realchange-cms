@@ -3,8 +3,9 @@ draft: true
 story: 'yes'
 title: Jack’s Story |
 date: 2018-08-26T01:00:00.000Z
-header:
-  hero: "Real Change in Wigan & Leigh **\LJack’s Story**"
+hero:
+  pretitle: Real Help Doncaster
+  title: Jack’s Story
 summary:
   heading: “Real change helped me make a real difference”
   image: /assets/uploads/story-jack-5by2.jpg
