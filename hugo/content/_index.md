@@ -40,19 +40,17 @@ partners:
   heading: Help from our Partners
   image: ''
   list: >-
-
-
-
-
-    * Aspire
+    * [Aspire](http://www.aspire.community/)
 
     * Changing Lives 
 
-    * Doncaster Mind 
+    * [Doncaster Mind ](http://doncastermind.org.uk/)
 
-    * Hall Gate United Reformed Church 
+    * [Hall Gate United Reformed Church
+    ](https://urcyorkshire.org.uk/churchfinder/churches/hall-gate-urc/)
 
-    * St Ledger Homes 
+    * [St Ledger
+    Homes](http://www.stlegerhomes.co.uk/looking-for-a-home/housing-options-and-homelessness/) 
 
     * [Riverside
     ](https://www.riverside.org.uk/in-your-neighbourhood/south-yorkshire/care-and-support/doncaster-homeless-floating-support-service/)
