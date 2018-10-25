@@ -518,15 +518,19 @@ p + .button { margin-top: 1rem; }
 
 @media (min-width: 768px) { .casestudy-header-media { margin-right: 1.5rem; max-width: 360px; } }
 
+.howitworks-intro { padding-bottom: 2rem; }
+
+.howitworks-where { margin-left: 0.625rem; margin-right: 0.625rem; padding-top: 0; }
+
 .howitworks-stats { -webkit-box-align: start; -ms-flex-align: start; align-items: flex-start; }
 
-@media (min-width: 576px) { .howitworks-stats { display: -webkit-box; display: -ms-flexbox; display: flex; } }
+@media (min-width: 768px) { .howitworks-stats { display: -webkit-box; display: -ms-flexbox; display: flex; } }
 
 .howitworks-stats-body { -webkit-box-flex: 1; -ms-flex: 1; flex: 1; }
 
-.howitworks-stats-media { -ms-flex-item-align: end; align-self: flex-end; margin-top: 1rem; }
+.howitworks-stats-media { -ms-flex-item-align: end; align-self: flex-end; margin-top: 1rem; margin-left: auto; margin-right: auto; max-width: 280px; }
 
-@media (min-width: 576px) { .howitworks-stats-media { height: 320px; margin-left: 1em; margin-top: 0; max-width: 320px; width: 320px; } }
+@media (min-width: 768px) { .howitworks-stats-media { height: 320px; margin-left: 1em; margin-top: 0; max-width: 320px; width: 320px; } }
 
 @media (min-width: 992px) { .howitworks-stats-media { height: 420px; margin-right: -100px; max-width: 420px; width: 420px; } }
 

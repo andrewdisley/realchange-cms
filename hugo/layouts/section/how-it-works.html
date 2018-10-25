@@ -4,7 +4,7 @@
 
 <div id="main">
 
-  <div class="section">
+  <div class="section howitworks-intro">
     <div class="container">
       <div class="content text-center">
         {{ $introBodyMarkdown := .Params.intro.body | markdownify }}
@@ -14,54 +14,52 @@
     </div>
   </div>
 
-  <div class="section">
+  <div class="section howitworks-where">
     <div class="container">
-      <div class="content">
-        <div class="howitworks-stats">
-          <div class="howitworks-stats-body">
-            <h2>{{ .Params.where.heading }}</h2>
-            {{ $whereBodyMarkdown := .Params.where.body | markdownify }}
-            {{ if not ( strings.Contains $whereBodyMarkdown "<p>" ) }}<p>{{ $whereBodyMarkdown }}</p>{{ else }}{{ $whereBodyMarkdown }}{{ end }}
-            <div class="stats">
-              <div class="stat">
-                <div class="stat-img">
-                  <img alt="{{ .Params.where.stat1.count }}" src="{{ .Params.where.stat1.image }}">
-                </div>
-                <div class="stat-body">
-                  <p><strong class="stat-count">{{ .Params.where.stat1.count }}</strong> {{ .Params.where.stat1.text }}</p>
-                </div>
+      <div class="howitworks-stats">
+        <div class="howitworks-stats-body">
+          <h2>{{ .Params.where.heading }}</h2>
+          {{ $whereBodyMarkdown := .Params.where.body | markdownify }}
+          {{ if not ( strings.Contains $whereBodyMarkdown "<p>" ) }}<p>{{ $whereBodyMarkdown }}</p>{{ else }}{{ $whereBodyMarkdown }}{{ end }}
+          <div class="stats">
+            <div class="stat">
+              <div class="stat-img">
+                <img alt="{{ .Params.where.stat1.count }}" src="{{ .Params.where.stat1.image }}">
               </div>
-              <div class="stat">
-                <div class="stat-img">
-                  <img alt="{{ .Params.where.stat2.count }}" src="{{ .Params.where.stat2.image }}">
-                </div>
-                <div class="stat-body">
-                  <p><strong class="stat-count">{{ .Params.where.stat2.count }}</strong> {{ .Params.where.stat2.text }}</p>
-                </div>
+              <div class="stat-body">
+                <p><strong class="stat-count">{{ .Params.where.stat1.count }}</strong> {{ .Params.where.stat1.text }}</p>
               </div>
-              {{ if .Params.where.stat3.count }}
-              <div class="stat">
-                <div class="stat-img">
-                  <img alt="{{ .Params.where.stat3.count }}" src="{{ .Params.where.stat3.image }}">
-                </div>
-                <div class="stat-body">
-                  <p><strong class="stat-count">{{ .Params.where.stat3.count }}</strong> {{ .Params.where.stat3.text }}</p>
-                </div>
-              </div>
-              {{ end }}
             </div>
+            <div class="stat">
+              <div class="stat-img">
+                <img alt="{{ .Params.where.stat2.count }}" src="{{ .Params.where.stat2.image }}">
+              </div>
+              <div class="stat-body">
+                <p><strong class="stat-count">{{ .Params.where.stat2.count }}</strong> {{ .Params.where.stat2.text }}</p>
+              </div>
+            </div>
+            {{ if .Params.where.stat3.count }}
+            <div class="stat">
+              <div class="stat-img">
+                <img alt="{{ .Params.where.stat3.count }}" src="{{ .Params.where.stat3.image }}">
+              </div>
+              <div class="stat-body">
+                <p><strong class="stat-count">{{ .Params.where.stat3.count }}</strong> {{ .Params.where.stat3.text }}</p>
+              </div>
+            </div>
+            {{ end }}
           </div>
-          {{ if .Params.where.image }}
-          <div class="howitworks-stats-media aspect aspect-4by3">
-            <img alt="" src="{{ .Params.where.image }}">
-          </div>
-          {{ end }}
         </div>
+        {{ if .Params.where.image }}
+        <div class="howitworks-stats-media aspect aspect-4by3">
+          <img alt="" src="{{ .Params.where.image }}">
+        </div>
+        {{ end }}
       </div>
     </div>
   </div>
 
-  <section class="section">
+  <section class="section bg-rh-grey-light">
     <div class="container">
       <div class="content">
         <h3>{{ .Params.how.heading }}</h3>
