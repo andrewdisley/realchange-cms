@@ -9,7 +9,7 @@ content: >-
   apply:**
 
 
-  **APPLICATIONS WILL BE OPEN IN EARLY DECEMBER **
+  **APPLICATIONS WILL BE OPEN IN EARLY DECEMBER**
 
 
   ****
@@ -35,7 +35,7 @@ partners:
     access the application process, please contact us at:
 
 
-    Email: [info@realhelpdoncaster.org](info@realhelpdoncaster.org)
+    Email: **[info@realhelpdoncaster.org](info@realhelpdoncaster.org)**
   heading: Become a Partner?
 ---
 
