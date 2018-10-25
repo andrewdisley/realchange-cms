@@ -1,4 +1,4 @@
-<div class="hero hero-alt">
+<div class="hero {{ if .classes }}{{ .classes }}{{end}}">
   <div class="hero-inner">
     {{ if or (.pretitle) (.title) (.subtitle) }}
     <h1>

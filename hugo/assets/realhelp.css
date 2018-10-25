@@ -424,11 +424,11 @@ p + .button { margin-top: 1rem; }
 
 .hero-pretitle { color: #FFE500; display: block; font-size: 30px; }
 
-.hero-alt .hero-pretitle { color: #FFFFFF; }
+.home-hero .hero-pretitle { color: #FFFFFF; }
 
 .hero-title { color: #FFFFFF; display: block; font-size: 60px; }
 
-.hero-alt .hero-title { color: #FFE500; }
+.home-hero .hero-title { color: #FFE500; }
 
 .hero-subtitle { display: block; font-size: 30px; }
 
