@@ -14,7 +14,7 @@ whatis:
 
     - - -
   button:
-    text: 'Changing the way you GIVE here '
+    text: 'Change the way you GIVE here '
     url: 'https://www.justgiving.com/campaign/realhelpdoncaster'
   heading: What is Real Help Doncaster?
   image: ''
