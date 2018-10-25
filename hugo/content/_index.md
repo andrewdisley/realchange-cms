@@ -24,12 +24,7 @@ who:
     barriers which need to be overcome for them to become active, independent
     members of their community. The Real Help fund supports people by paying for
     items that will help support sustainable changes for a healthier and safer
-    lifestyle.  ** 
-
-
-    Real Help applications can be submitted to help set up a home(including
-    purchasing crockery, pots, pans and bed linen), support access to training
-    and education, help with travel, or clothes for a job interview.
+    lifestyle.  **
   heading: Who does Real Help support?
 how:
   body: >-
