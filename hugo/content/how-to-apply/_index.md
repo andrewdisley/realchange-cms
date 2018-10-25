@@ -1,7 +1,8 @@
 ---
 title: How to Apply |
-header:
-  hero: Real Help Doncaster   **How to Apply**
+hero:
+  pretitle: Real Help Doncaster
+  title: How it Apply
 content: >-
   **If you think this support can help you and you want to apply for funds, get
   in touch with one of our partner organisations who will work with you to
