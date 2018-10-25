@@ -51,7 +51,7 @@ how:
     heading: Under £100
     subheading: >-
       If the request is for under £100, applications which meet the criteria are
-      approved almost immediately.via the organisation who are supporting you
+      approved almost immediately via the organisation who are supporting you
       with the application.
   card2:
     body: >-
