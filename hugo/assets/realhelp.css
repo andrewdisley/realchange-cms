@@ -306,7 +306,7 @@ p + .button { margin-top: 1rem; }
 
 .footer a:hover { color: #FFE500; text-decoration: none; }
 
-.footer-inner { background-color: #3B3B3B; background-image: url(assets/highstreet.jpg); background-position: 50% 80%; background-size: cover; background-repeat: no-repeat; color: #FFFFFF; max-width: 832px; margin-left: auto; margin-right: auto; width: 100%; max-width: 1004px; padding: 1rem; }
+.footer-inner { background-color: #858281; background-image: url(assets/doncaster-town-centre.jpg); background-position: 50% 80%; background-size: cover; background-repeat: no-repeat; color: #FFFFFF; max-width: 832px; margin-left: auto; margin-right: auto; width: 100%; max-width: 1004px; padding: 1rem; }
 
 @media (min-width: 768px) { .footer-inner { background-position: 50% 70%; background-size: 1304px 500px; padding: 1.5rem; } }
 
@@ -400,7 +400,11 @@ p + .button { margin-top: 1rem; }
 
 @media (min-width: 768px) { .header-nav .header-nav-donate a { padding-left: 1rem; padding-right: 1rem; min-width: 140px; } }
 
-.hero { background-color: #3B3B3B; color: #FFFFFF; }
+.hero { background-color: #3B3B3B; color: #FFFFFF; font-family: "Colaborate"; }
+
+.hero h1 { line-height: 1; }
+
+.hero p { font-size: 1.25rem; font-weight: 400; line-height: 1.4; }
 
 .hero-inner { max-width: 832px; margin-left: auto; margin-right: auto; width: 100%; padding: 1rem; }
 
@@ -408,7 +412,11 @@ p + .button { margin-top: 1rem; }
 
 @media (min-width: 992px) { .hero-inner { padding: 1.5rem 0; } }
 
-.hero-title { color: #FFE500; }
+.hero-pretitle { color: #FFFFFF; display: block; font-size: 30px; }
+
+.hero-title { color: #FFE500; display: block; font-size: 60px; }
+
+.hero-subtitle { display: block; font-size: 30px; }
 
 .stat { margin-bottom: 1rem; display: -webkit-box; display: -ms-flexbox; display: flex; }
 
