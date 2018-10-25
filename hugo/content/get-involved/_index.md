@@ -3,7 +3,7 @@ title: Get Involved |
 header:
   hero: Real Help Doncaster **Get Involved**
 content: >-
-  ## Do you want to help make a Real Change in Doncaster?
+  ## Do you want to get involved in Real Help Doncaster?
 
 
   Whether your interested in getting involved personally, on behalf of your
@@ -14,17 +14,17 @@ content: >-
   As well as donating directly to the fund, you might want to:
 
 
-  * Do a "fundraising challenge"
+  * Do a fundraising challenge
 
-  * Invite us to speak at an event you are having
+  * Invite our partners to speak at an event you are having
 
-  * Play a role in organising Campaign activities
+  * Play a role in organising Real Help Campaign activities
 
   * Share your skills or knowledge
 
 
-  All support helps, so if you want to help people in Doncaster, please [get in
-  touch](info@realhelpdoncaster.org)
+  Together we can make a change, so if you want to support Real Help in
+  Doncaster, please [get in touch](info@realhelpdoncaster.org)
 section:
   body: >-
     To end homelessness in our area we will need to work together.

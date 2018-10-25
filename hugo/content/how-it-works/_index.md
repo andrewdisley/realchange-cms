@@ -9,7 +9,7 @@ intro:
     grassroots groups, our council, local businesses and individuals with the
     ambition to end Homelessness in Doncaster.**
   button:
-    text: 'Changing the way you GIVE here '
+    text: 'Change the way you GIVE here '
     url: 'https://www.justgiving.com/realhelpdoncaster'
 where:
   body: >-
@@ -40,7 +40,7 @@ how:
 
     There are two types of application:
   button:
-    text: 'Changing the way you GIVE here '
+    text: 'Change the way you GIVE here '
     url: 'https://www.justgiving.com/campaign/realhelpdoncaster'
   card1:
     body: >-
@@ -51,8 +51,9 @@ how:
     heading: Under £100
     subheading: >-
       If the request is for under £100, applications which meet the criteria are
-      approved almost immediately via the organisation who are supporting you
-      with the application.
+      approved almost immediately via the organisation who are supporting with
+      the
+      application.                                                                                    
   card2:
     body: >-
 

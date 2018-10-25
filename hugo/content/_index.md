@@ -4,23 +4,32 @@ header:
   hero: Provide Real Help in **Doncaster**
 whatis:
   body: >-
-    **Real Help pays for practical items individuals need to build independent
-    lives away from the streets.**
+    **raise**
 
 
     If everyone who lives, works or visits Doncaster donates, together we can
-    make a Real Help to ending homelessness!
+    make a Real Help in supporting people into healthier and safer lifestyles. 
+
+
+    - - -
   button:
-    text: 'Changing the way you GIVE here '
+    text: 'Change the way you GIVE here '
     url: 'https://www.justgiving.com/campaign/realhelpdoncaster'
   heading: What is Real Help Doncaster?
   image: ''
 who:
   body: >-
-    **The Real Change fund supports people by paying for items that will help in
-    the ** -  help set up a home, a training course, setting up home or clothes
-    for a job interview.
-  heading: Who does Real Change help?
+    **People who are homeless or at risk of homelessness often face practical
+    barriers which need to be overcome for them to become active, independent
+    members of their community. The Real Help fund supports people by paying for
+    items that will help support sustainable changes for a healthier and safer
+    lifestyle.  ** 
+
+
+    Real Help applications can be submitted to help set up a home(including
+    purchasing crockery, pots, pans and bed linen), support access to training
+    and education, help with travel, or clothes for a job interview.
+  heading: Who does Real Help support?
 how:
   body: >-
     If your organisation provides a service to support people who are sleeping
