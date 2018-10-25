@@ -8,7 +8,7 @@ row1: >-
   #realhelpDN
 row2: >-
   Arrange a fundraising event and link to our [justgiving
-  campaign](http://www.justgiving.com/realhelpdoncaster)
+  campaign](https://www.justgiving.com/campaign/realhelpdoncaster)
 row3: >-
   Find out how your business or workplace can become a [Real Help
   Partner](mailto:info@realhelpdoncaster.org)
