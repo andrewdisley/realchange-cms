@@ -1,0 +1,11 @@
+<div class="hero{{#if hero__classes}} {{hero__classes}}{{/if}}">
+  <div class="hero-inner">
+    <h1>
+      {{#if hero__pretitle }}<span class="hero-pretitle">{{{ hero__pretitle }}} </span>{{/if}}
+      {{#if hero__title }}<span class="hero-title">{{{ hero__title }}} </span>{{/if}}
+      {{#if hero__subtitle }}<span class="hero-subtitle">{{{ hero__subtitle }}} </span>{{/if}}
+    </h1>
+    {{#if hero__body }}<p>{{{ hero__body }}}</p>{{/if}}
+    {{#if hero__button__text }}<a class="button button-primary" href="#">{{{ hero__button__text }}}</a>{{/if}}
+  </div>
+</div>

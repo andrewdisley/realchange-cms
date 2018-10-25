@@ -1,0 +1,87 @@
+// Hero
+//
+
+.hero {
+  background-color: #858281;
+  background-image: url(assets/doncaster-town-centre.jpg); // 1304 x 500
+  background-position: 50% 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: $color-white;
+  font-family: $font-family-rh-colaborate;
+  overflow: hidden;
+  position: relative;
+
+  @include media-breakpoint-up(lg) {
+    background-position: 50% 50%;
+  }
+
+  // SVG diagonal
+  &::after {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon fill='%23FFF' points='100 0, 0 100, 100 100'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    content: '';
+    display: block;
+    height: 2rem;
+    width: 100%;
+
+    @include media-breakpoint-up(sm) {
+      height: 3rem;
+    }
+
+    @include media-breakpoint-up(md) {
+      height: 6rem;
+    }
+  }
+
+  h1 {
+    line-height: 1;
+  }
+
+  p {
+    font-size: 1.25rem; // 20px
+    font-weight: $font-weight-medium;
+    line-height: 1.4; // 28px
+    max-width: 32rem;
+  }
+}
+
+.hero-inner {
+  @include container;
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 12rem;
+  padding: 2rem 1rem 0;
+
+  @include media-breakpoint-up(sm) {
+    padding-top: 3rem;
+  }
+
+  @include media-breakpoint-up(md) {
+    padding: 4rem 1.5rem 0;
+  }
+
+  @include media-breakpoint-up(lg) {
+    padding-top: 6rem;
+  }
+}
+
+.hero-pretitle {
+  color: $color-white;
+  display: block;
+  font-size: 30px;
+}
+
+.hero-title {
+  color: $color-rh-yellow;
+  display: block;
+  font-size: 60px;
+}
+
+.hero-subtitle {
+  display: block;
+  font-size: 30px;
+}

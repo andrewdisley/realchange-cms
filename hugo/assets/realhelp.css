@@ -400,17 +400,27 @@ p + .button { margin-top: 1rem; }
 
 @media (min-width: 768px) { .header-nav .header-nav-donate a { padding-left: 1rem; padding-right: 1rem; min-width: 140px; } }
 
-.hero { background-color: #3B3B3B; color: #FFFFFF; font-family: "Colaborate"; }
+.hero { background-color: #858281; background-image: url(assets/doncaster-town-centre.jpg); background-position: 50% 100%; background-size: cover; background-repeat: no-repeat; color: #FFFFFF; font-family: "Colaborate"; overflow: hidden; position: relative; }
+
+@media (min-width: 992px) { .hero { background-position: 50% 50%; } }
+
+.hero::after { background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon fill='%23FFF' points='100 0, 0 100, 100 100'/%3E%3C/svg%3E"); background-repeat: no-repeat; background-size: 100% 100%; content: ''; display: block; height: 2rem; width: 100%; }
+
+@media (min-width: 576px) { .hero::after { height: 3rem; } }
+
+@media (min-width: 768px) { .hero::after { height: 6rem; } }
 
 .hero h1 { line-height: 1; }
 
-.hero p { font-size: 1.25rem; font-weight: 400; line-height: 1.4; }
+.hero p { font-size: 1.25rem; font-weight: 400; line-height: 1.4; max-width: 32rem; }
 
-.hero-inner { max-width: 832px; margin-left: auto; margin-right: auto; width: 100%; padding: 1rem; }
+.hero-inner { max-width: 832px; margin-left: auto; margin-right: auto; width: 100%; -webkit-box-align: start; -ms-flex-align: start; align-items: flex-start; display: -webkit-box; display: -ms-flexbox; display: flex; -webkit-box-orient: vertical; -webkit-box-direction: normal; -ms-flex-direction: column; flex-direction: column; -webkit-box-pack: center; -ms-flex-pack: center; justify-content: center; min-height: 12rem; padding: 2rem 1rem 0; }
 
-@media (min-width: 768px) { .hero-inner { padding: 1.5rem; } }
+@media (min-width: 576px) { .hero-inner { padding-top: 3rem; } }
 
-@media (min-width: 992px) { .hero-inner { padding: 1.5rem 0; } }
+@media (min-width: 768px) { .hero-inner { padding: 4rem 1.5rem 0; } }
+
+@media (min-width: 992px) { .hero-inner { padding-top: 6rem; } }
 
 .hero-pretitle { color: #FFFFFF; display: block; font-size: 30px; }
 
