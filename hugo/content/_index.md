@@ -4,8 +4,7 @@ header:
   hero: Provide Real Help in **Doncaster**
 whatis:
   body: >-
-    **Real Help pays for practical items individuals need to build independent
-    lives away from the streets.**
+    **raise**
 
 
     If everyone who lives, works or visits Doncaster donates, together we can
