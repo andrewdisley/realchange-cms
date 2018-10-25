@@ -1,7 +1,7 @@
 ---
 title: Privacy Policy |
-header:
-  hero: '# Privacy Policy'
+hero:
+  title: Privacy Policy
 content: >-
   No personal information is collected through this website, but your privacy
   still matters to us.
