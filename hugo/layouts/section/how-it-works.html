@@ -59,7 +59,7 @@
     </div>
   </div>
 
-  <section class="section bg-rh-grey-light">
+  <section class="section bg-rh-grey-light howitworks-how">
     <div class="container">
       <div class="content">
         <h3>{{ .Params.how.heading }}</h3>
@@ -67,21 +67,21 @@
         {{ if not ( strings.Contains $howBodyMarkdown "<p>" ) }}<p>{{ $howBodyMarkdown }}</p>{{ else }}{{ $howBodyMarkdown }}{{ end }}
         <div class="cards cards-2up">
           <div class="card bg-white">
-            <div class="card-header bg-rh-black text-white">
+            <div class="card-header bg-rh-pink text-white">
               <h3 class="card-title">{{ .Params.how.card1.heading }}</h3>
               <p><strong>{{ .Params.how.card1.subheading }}</strong></p>
             </div>
-            <div class="card-body">
+            <div class="card-body bg-white">
               {{ $card1BodyMarkdown := .Params.how.card1.body | markdownify }}
               {{ if not ( strings.Contains $card1BodyMarkdown "<p>" ) }}<p>{{ $card1BodyMarkdown }}</p>{{ else }}{{ $card1BodyMarkdown }}{{ end }}
             </div>
           </div>
           <div class="card bg-white">
-            <div class="card-header bg-rh-black text-white">
+            <div class="card-header bg-rh-pink text-white">
               <h3 class="card-title">{{ .Params.how.card2.heading }}</h3>
               <p><strong>{{ .Params.how.card2.subheading }}</strong></p>
             </div>
-            <div class="card-body">
+            <div class="card-body bg-white">
               {{ $card2BodyMarkdown := .Params.how.card2.body | markdownify }}
               {{ if not ( strings.Contains $card2BodyMarkdown "<p>" ) }}<p>{{ $card2BodyMarkdown }}</p>{{ else }}{{ $card2BodyMarkdown }}{{ end }}
             </div>
