@@ -131,9 +131,9 @@ input, textarea, select { -webkit-font-smoothing: antialiased; -moz-osx-font-smo
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 { color: inherit; font-family: "Colaborate", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Verdana, Geneva, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; font-size: 100%; font-weight: 700; line-height: 1.2; margin-bottom: 0.5rem; }
 
-h1, .h1 { font-size: 3.0rem; line-height: 1.125; }
+h1, .h1 { font-size: 2.5rem; line-height: 1.2; }
 
-@media (min-width: 768px) { h1, .h1 { font-size: 3.0rem; line-height: 1.125; } }
+@media (min-width: 768px) { h1, .h1 { font-size: 2.5rem; line-height: 1.2; } }
 
 h2, .h2 { font-size: 1.875rem; line-height: 1.2; }
 
@@ -416,75 +416,9 @@ p + .button { margin-top: 1rem; }
 
 .stats { margin-bottom: 2rem; margin-top: 2rem; }
 
-.section { padding-bottom: 2.5rem; padding-top: 2.5rem; }
+.section { padding-bottom: 2rem; padding-top: 2rem; }
 
-@media (min-width: 992px) { .section { padding-bottom: 4.5rem; padding-top: 4.5rem; } }
-
-.home-header .header-hero { margin-top: -2rem; padding-bottom: 2rem; }
-
-@media (min-width: 576px) { .home-header .header-hero { margin-top: -4rem; padding-left: 0; padding-right: 0; } }
-
-@media (min-width: 768px) { .home-header .header-hero { margin-top: -6rem; padding-bottom: 3rem; } }
-
-.home-header .header-hero-title, .home-header .header-hero-title strong { font-size: 48px; }
-
-@media (min-width: 576px) { .home-header .header-hero-title, .home-header .header-hero-title strong { font-size: 58px; } }
-
-@media (min-width: 768px) { .home-header .header-hero-title, .home-header .header-hero-title strong { font-size: 90px; } }
-
-.home-intro .boxed { margin-left: 0.75rem; margin-right: 0.75rem; }
-
-@media (min-width: 768px) { .home-intro .boxed { margin-left: 1rem; margin-right: 1rem; } }
-
-@media (min-width: 992px) { .home-intro .boxed { margin-left: 0; margin-right: 0; } }
-
-.home-intro .boxed a { font-weight: 700; }
-
-.home-intro .boxed:last-child { margin-bottom: 0; }
-
-@media (min-width: 576px) { .home-intro-split { display: -webkit-box; display: -ms-flexbox; display: flex; margin-left: 0.25rem; margin-right: 0.25rem; } }
-
-@media (min-width: 992px) { .home-intro-split { margin-left: -0.75rem; margin-right: -0.75rem; } }
-
-@media (min-width: 576px) { .home-intro-split .boxed { -ms-flex-preferred-size: 0; flex-basis: 0; -webkit-box-flex: 1; -ms-flex-positive: 1; flex-grow: 1; -ms-flex-negative: 1; flex-shrink: 1; margin-bottom: 0; margin-left: 0.5rem; margin-right: 0.5rem; } }
-
-@media (min-width: 768px) { .home-intro-split .boxed { margin-left: 0.75rem; margin-right: 0.75rem; } }
-
-@media (min-width: 576px) { .home-intro-whatis { -webkit-box-align: center; -ms-flex-align: center; align-items: center; display: -webkit-box; display: -ms-flexbox; display: flex; } }
-
-.home-intro-whatis .boxed-inner { position: relative; z-index: 50; }
-
-@media (min-width: 576px) { .home-intro-whatis .boxed-inner { -webkit-box-flex: 1; -ms-flex: 1; flex: 1; max-width: 300px; min-width: 300px; } }
-
-@media (min-width: 768px) { .home-intro-whatis .boxed-inner { max-width: 340px; min-width: 340px; } }
-
-@media (min-width: 992px) { .home-intro-whatis .boxed-inner { max-width: 410px; min-width: 410px; } }
-
-.home-intro-whatis .boxed-media { margin: -6rem -0.5rem 0; overflow: visible; position: relative; text-align: center; width: auto; z-index: 1; }
-
-@media (min-width: 420px) { .home-intro-whatis .boxed-media { margin-top: -7rem; } }
-
-@media (min-width: 576px) { .home-intro-whatis .boxed-media { margin: -1rem -0.75rem -1rem 0; width: 100%; } }
-
-@media (min-width: 768px) { .home-intro-whatis .boxed-media { margin: -2rem -1rem -2rem 0; } }
-
-@media (min-width: 992px) { .home-intro-whatis .boxed-media { margin: -2rem -2rem -2rem 0; } }
-
-.home-intro-whatis .boxed-media img { top: 10%; }
-
-@media (min-width: 576px) { .home-intro-whatis .boxed-media img { top: 0; } }
-
-.home-stories-header { margin-bottom: 1.25rem; margin-left: 2.375rem; margin-right: 2.375rem; padding-bottom: 0.25rem; padding-top: 0.25rem; position: relative; text-align: center; }
-
-@media (min-width: 768px) { .home-stories-header { margin-bottom: 3.5rem; } }
-
-@media (min-width: 900px) { .home-stories-header { margin-left: 0.75rem; margin-right: 0.75rem; } }
-
-@media (min-width: 992px) { .home-stories-header { margin-left: 0; margin-right: 0; } }
-
-.home-stories-title { margin-bottom: 0; padding: 0.75rem 1rem; }
-
-@supports (-ms-ime-align: auto) { .home-stories-title { padding-top: 0.5rem; } }
+@media (min-width: 992px) { .section { padding-bottom: 4rem; padding-top: 4rem; } }
 
 .home-stories-body { margin-bottom: 2rem; }
 
@@ -500,17 +434,21 @@ p + .button { margin-top: 1rem; }
 
 .home-stories-body .card-story:last-child { margin-bottom: 0; }
 
-.home-partners-header { margin-bottom: 1rem; margin-left: 0.75rem; margin-right: 0.75rem; text-align: center; }
+.home-partners { padding-left: 0.625rem; padding-right: 0.625rem; }
 
-@media (min-width: 768px) { .home-partners-header { margin-bottom: 3rem; } }
+.home-partners-header { margin-bottom: 1rem; text-align: center; }
 
-.home-partners-media { margin-bottom: 2rem; margin-left: 0.75rem; margin-right: 0.75rem; }
+@media (min-width: 768px) { .home-partners-header { margin-bottom: 2rem; } }
+
+.home-partners-media { margin-bottom: 2rem; }
 
 @media (min-width: 768px) { .home-partners-media { margin-bottom: 3rem; } }
 
-.home-partners-body { margin-left: 0.75rem; margin-right: 0.75rem; }
+@media (min-width: 768px) { .home-partners-body { max-width: 840px; margin-left: auto; margin-right: auto; width: 100%; max-width: 720px; } }
 
-@media (min-width: 768px) { .home-partners-body { max-width: 840px; margin-left: auto; margin-right: auto; width: 100%; max-width: 660px; } }
+.home-partners-body p { margin-bottom: 0.25rem; }
+
+.home-partners-body > :last-child { margin-bottom: 0; }
 
 .casestudy-header { margin-bottom: 2rem; margin-left: 0.75rem; margin-right: 0.75rem; }
 
@@ -555,6 +493,8 @@ p + .button { margin-top: 1rem; }
 .bg-rh-blue { background-color: #2F87C8 !important; }
 
 .bg-rh-yellow { background-color: #FFE500 !important; }
+
+.bg-rh-grey-light { background-color: #F5F5F5 !important; }
 
 .bg-primary { background-color: #FFE500 !important; }
 
@@ -675,6 +615,8 @@ p + .button { margin-top: 1rem; }
 .text-rh-blue { color: #2F87C8 !important; }
 
 .text-rh-yellow { color: #FFE500 !important; }
+
+.text-rh-grey-light { color: #F5F5F5 !important; }
 
 .text-primary { color: #FFE500 !important; }
 
