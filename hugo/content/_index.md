@@ -26,10 +26,9 @@ whatis:
   image: /assets/uploads/home-intro-whatis.jpg
 who:
   body: >-
-    People who are homeless or at risk of homelessness often face practical
-    barriers. The Real Help fund application process supports people by funding
-    items that will help support sustainable changes for a healthier and safer
-    lifestyle.
+    Real Help Doncaster will provide homeless people with practical items they
+    need to build new lives off the streets. This can include help with setting
+    up a new home, furniture, a training course or cloths for an interview.
   heading: Who does Real Help support?
 how:
   body: >-
@@ -59,7 +58,7 @@ partners:
     * [Hall Gate United Reformed Church
     ](https://urcyorkshire.org.uk/churchfinder/churches/hall-gate-urc/)
 
-    * [St Ledger
+    * [St Leger
     Homes](http://www.stlegerhomes.co.uk/looking-for-a-home/housing-options-and-homelessness/)
 
     * [Riverside
