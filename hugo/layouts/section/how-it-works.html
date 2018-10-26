@@ -67,7 +67,7 @@
         {{ if not ( strings.Contains $howBodyMarkdown "<p>" ) }}<p>{{ $howBodyMarkdown }}</p>{{ else }}{{ $howBodyMarkdown }}{{ end }}
         <div class="cards cards-2up">
           <div class="card bg-white">
-            <div class="card-header bg-rh-pink text-white">
+            <div class="card-header bg-primary text-black">
               <h3 class="card-title">{{ .Params.how.card1.heading }}</h3>
               <p><strong>{{ .Params.how.card1.subheading }}</strong></p>
             </div>
@@ -77,7 +77,7 @@
             </div>
           </div>
           <div class="card bg-white">
-            <div class="card-header bg-rh-pink text-white">
+            <div class="card-header bg-primary text-black">
               <h3 class="card-title">{{ .Params.how.card2.heading }}</h3>
               <p><strong>{{ .Params.how.card2.subheading }}</strong></p>
             </div>

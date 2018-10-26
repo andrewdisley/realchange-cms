@@ -346,7 +346,7 @@ p + .button { margin-top: 1rem; }
 
 .header-skip:active, .header-skip:focus { position: absolute; }
 
-.header { background-color: #FFFFFF; color: #666666; font-size: 0.875rem; line-height: 1.28571; }
+.header { background-color: #333333; color: #FFFFFF; font-size: 0.875rem; line-height: 1.28571; }
 
 @media (min-width: 768px) { .header { font-size: 1.0rem; line-height: 1.5; } }
 
@@ -378,11 +378,11 @@ p + .button { margin-top: 1rem; }
 
 @media (min-width: 768px) { .header-nav li { margin-left: 0.5rem; margin-right: 0.5rem; } }
 
-.header-nav a:not(.button) { color: #666666; display: block; font-family: "Colaborate"; font-weight: 600; padding: 0.25rem 0.175rem; text-decoration: none; }
+.header-nav a:not(.button) { color: #FFFFFF; display: block; font-family: "Colaborate"; font-weight: 600; padding: 0.25rem 0.175rem; text-decoration: none; }
 
 @media (min-width: 768px) { .header-nav a:not(.button) { padding-left: 0.5rem; padding-right: 0.5rem; } }
 
-.header-nav a:not(.button):hover { color: #444444; }
+.header-nav a:not(.button):hover { color: #d9d9d9; }
 
 .header-nav .header-nav-active a { text-decoration: underline; }
 

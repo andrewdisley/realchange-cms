@@ -17,8 +17,8 @@
 }
 
 .header {
-  background-color: $color-white;
-  color: #666666;
+  background-color: $color-grey-darker;
+  color: $color-white;
   font-size: $font-size-sm;
   line-height: $line-height-sm;
 
@@ -105,7 +105,7 @@
   }
 
   a:not(.button) {
-    color: #666666;
+    color: $color-white;
     display: block;
     font-family: $font-family-rh-colaborate;
     font-weight: $font-weight-semibold;
@@ -118,7 +118,7 @@
     }
 
     @include hover {
-      color: #444444;
+      color: $color-grey-lighter;
     }
   }
 
