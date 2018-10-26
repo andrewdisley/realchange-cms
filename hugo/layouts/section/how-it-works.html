@@ -65,28 +65,7 @@
         <h3>{{ .Params.how.heading }}</h3>
         {{ $howBodyMarkdown := .Params.how.body | markdownify }}
         {{ if not ( strings.Contains $howBodyMarkdown "<p>" ) }}<p>{{ $howBodyMarkdown }}</p>{{ else }}{{ $howBodyMarkdown }}{{ end }}
-        <div class="cards cards-2up">
-          <div class="card bg-white">
-            <div class="card-header bg-primary text-black">
-              <h3 class="card-title">{{ .Params.how.card1.heading }}</h3>
-              <p><strong>{{ .Params.how.card1.subheading }}</strong></p>
-            </div>
-            <div class="card-body bg-white">
-              {{ $card1BodyMarkdown := .Params.how.card1.body | markdownify }}
-              {{ if not ( strings.Contains $card1BodyMarkdown "<p>" ) }}<p>{{ $card1BodyMarkdown }}</p>{{ else }}{{ $card1BodyMarkdown }}{{ end }}
-            </div>
-          </div>
-          <div class="card bg-white">
-            <div class="card-header bg-primary text-black">
-              <h3 class="card-title">{{ .Params.how.card2.heading }}</h3>
-              <p><strong>{{ .Params.how.card2.subheading }}</strong></p>
-            </div>
-            <div class="card-body bg-white">
-              {{ $card2BodyMarkdown := .Params.how.card2.body | markdownify }}
-              {{ if not ( strings.Contains $card2BodyMarkdown "<p>" ) }}<p>{{ $card2BodyMarkdown }}</p>{{ else }}{{ $card2BodyMarkdown }}{{ end }}
-            </div>
-          </div>
-        </div>
+        
         <div class="text-center mt-sm">
           {{ if .Params.how.button.url }}<a class="button button-primary d-block d-sm-inline-block mb-sm" href="{{ .Params.how.button.url }}">{{ .Params.how.button.text }}</a>{{ end }}
         </div>
