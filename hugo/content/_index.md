@@ -13,8 +13,8 @@ whatis:
     **healthier**
 
 
-    If will all work together, you can make a difference in supporting people
-    who are homeless or at risk of homelessness in Doncaster.
+    If will all work together, you can help make a difference in supporting
+    people who are homeless or at risk of homelessness in the borough.
 
 
     - - -
