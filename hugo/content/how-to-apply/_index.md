@@ -26,7 +26,7 @@ list: >-
   * [Riverside](https://www.riverside.org.uk/care-and-support/)
 
   * [St
-  Ledger](https://www.stlegerhomes.co.uk/looking-for-a-home/housing-options-and-homelessness/)
+  Leger](https://www.stlegerhomes.co.uk/looking-for-a-home/housing-options-and-homelessness/)
 partners:
   body: >-
     If your organisation provides support to people who are homeless or at risk
