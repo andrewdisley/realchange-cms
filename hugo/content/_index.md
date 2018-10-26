@@ -10,12 +10,11 @@ hero:
   title: Real Help Doncaster
 whatis:
   body: >-
-    **Real Help Doncaster is a campaign to raise awareness and funds to support
-    individuals who are homeless or at risk of homelessness.**
+    **healthier**
 
 
-    If everyone who lives, works or visits Doncaster donates, together we can
-    make a Real Help in supporting people into healthier and safer lifestyles.
+    If will all work together, you can make a difference in supporting people
+    who are homeless or at risk of homelessness in Doncaster.
 
 
     - - -
