@@ -55,9 +55,9 @@ sub { bottom: -.25em; }
 
 sup { top: -.5em; }
 
-a { color: #2F87C8; text-decoration: underline; background-color: transparent; -webkit-text-decoration-skip: objects; }
+a { color: #1D75B6; text-decoration: underline; background-color: transparent; -webkit-text-decoration-skip: objects; }
 
-a:hover { color: #205d8a; text-decoration: none; }
+a:hover { color: #124b74; text-decoration: none; }
 
 a:not([href]):not([tabindex]) { color: inherit; text-decoration: none; }
 
@@ -318,7 +318,7 @@ p + .button { margin-top: 1rem; }
 
 @media (min-width: 992px) { .footer-brand-logo { margin-left: 1rem; } }
 
-.footer-body { font-weight: 300; margin-top: 2rem; }
+.footer-body { font-weight: 400; margin-top: 2rem; }
 
 @media (min-width: 576px) { .footer-body { margin-left: 4rem; margin-top: 0; max-width: 28rem; } }
 
@@ -558,7 +558,7 @@ p + .button { margin-top: 1rem; }
 
 .bg-rh-black { background-color: #1D1D1C !important; }
 
-.bg-rh-blue { background-color: #2F87C8 !important; }
+.bg-rh-blue { background-color: #1D75B6 !important; }
 
 .bg-rh-yellow { background-color: #FFE500 !important; }
 
@@ -682,7 +682,7 @@ p + .button { margin-top: 1rem; }
 
 .text-rh-black { color: #1D1D1C !important; }
 
-.text-rh-blue { color: #2F87C8 !important; }
+.text-rh-blue { color: #1D75B6 !important; }
 
 .text-rh-yellow { color: #FFE500 !important; }
 
