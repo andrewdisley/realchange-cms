@@ -26,10 +26,10 @@ whatis:
   image: /assets/uploads/home-intro-whatis.jpg
 who:
   body: >-
-    **People who are homeless or at risk of homelessness often face practical
+    People who are homeless or at risk of homelessness often face practical
     barriers. The Real Help fund application process supports people by funding
     items that will help support sustainable changes for a healthier and safer
-    lifestyle.**
+    lifestyle.
   heading: Who does Real Help support?
 how:
   body: >-
