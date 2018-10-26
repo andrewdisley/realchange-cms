@@ -10,5 +10,5 @@
 <meta property="og:image" content="{{.Site.BaseURL}}assets/uploads/opengraph-20181025-1.jpg" />
 <title>{{.Title}} {{.Site.Title}}</title>
 {{ $styleMain := resources.Get "realhelp.css" | resources.Minify | resources.Fingerprint }}<link rel="stylesheet" href="{{ $styleMain.Permalink }}">
-<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+{{if .IsHome }}<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>{{end}}
 </head>
