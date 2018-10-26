@@ -39,7 +39,7 @@ how:
     and raised can be distributed in two ways.
 
 
-    There are two types of application- up to £100 and over £100.
+    There are two types of application - up to £100 and over £100.
   button:
     text: Change the way you GIVE here
     url: 'https://www.justgiving.com/campaign/realhelpdoncaster'
