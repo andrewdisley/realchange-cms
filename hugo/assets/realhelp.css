@@ -364,7 +364,7 @@ p + .button { margin-top: 1rem; }
 
 @media (min-width: 768px) { .header-brand-logo { height: 44px; width: 200px; } }
 
-.header-body { background-color: #F5F5F5; margin-left: auto; }
+.header-body { background-color: #3d3d3d; margin-left: auto; }
 
 @media (min-width: 600px) { .header-body { background-color: transparent; display: -webkit-box; display: -ms-flexbox; display: flex; } }
 

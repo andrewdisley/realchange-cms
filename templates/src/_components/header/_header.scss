@@ -64,7 +64,7 @@
 }
 
 .header-body {
-  background-color: #F5F5F5;
+  background-color: lighten($color-grey-darker,4%);
   margin-left: auto;
 
   @media (min-width: $breakpoint-mobile-nav) {
