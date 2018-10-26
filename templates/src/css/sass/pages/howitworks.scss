@@ -45,9 +45,13 @@
 
   @include media-breakpoint-up(lg) {
     height: 420px;
-    margin-right: -100px;
+    margin-right: -50px;
     max-width: 420px;
     width: 420px;
+  }
+
+  @include media-breakpoint-up(xl) {
+    margin-right: -100px;
   }
 }
 

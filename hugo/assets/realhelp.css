@@ -390,7 +390,7 @@ p + .button { margin-top: 1rem; }
 
 @media (min-width: 310px) and (max-width: 599px) { .header-nav .header-nav-donate { -webkit-box-flex: 0; -ms-flex: none; flex: none; margin: 0; position: absolute; right: 1rem; top: 1.125rem; width: auto; } }
 
-@media (min-width: 600px) { .header-nav .header-nav-donate { -webkit-box-flex: 0; -ms-flex: 0; flex: 0; margin: -2px 0.5rem 0 0.5rem; width: auto; } }
+@media (min-width: 600px) { .header-nav .header-nav-donate { -webkit-box-flex: 0; -ms-flex: none; flex: none; margin: -2px 0.5rem 0 0.5rem; width: auto; } }
 
 @media (min-width: 768px) { .header-nav .header-nav-donate { margin-top: -4px; } }
 
@@ -534,7 +534,9 @@ p + .button { margin-top: 1rem; }
 
 @media (min-width: 768px) { .howitworks-stats-media { height: 320px; margin-left: 1em; margin-top: 0; max-width: 320px; width: 320px; } }
 
-@media (min-width: 992px) { .howitworks-stats-media { height: 420px; margin-right: -100px; max-width: 420px; width: 420px; } }
+@media (min-width: 992px) { .howitworks-stats-media { height: 420px; margin-right: -50px; max-width: 420px; width: 420px; } }
+
+@media (min-width: 1200px) { .howitworks-stats-media { margin-right: -100px; } }
 
 .howitworks-how .content { max-width: 46rem; }
 
