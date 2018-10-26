@@ -1,4 +1,4 @@
-baseurl = "https://real-help-doncaster.netlify.com/"
+baseurl = "https://realhelpdoncaster.org/"
 languageCode = "en-gb"
 title = "Real Help Doncaster"
 disableKinds = ["RSS", "taxonomyTerm"]
