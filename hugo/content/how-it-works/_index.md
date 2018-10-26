@@ -4,16 +4,20 @@ hero:
   pretitle: Real Help Doncaster
   title: How it works
 intro:
-  body: '**local**'
+  body: >-
+    **Real help Doncaster is a scheme aimed at raising funds from businesses and
+    the public to support people in Doncaster experiencing homelessness. It is a
+    partnership between local agencies, housing providers, charities and
+    voluntary group**
   button:
     text: Change the way you GIVE here
     url: 'https://www.justgiving.com/realhelpdoncaster'
 where:
   body: >-
     For every £1 donated, 95p goes directly to helping someone looking for
-    support, and not a penny on the Campaign. This is because the Real Help
+    support, and not a penny on the scheme. This is because the Real Help
     partners have committed the time and energy of their teams to help support
-    the campaign.
+    the scheme.
   heading: Where do your donations go?
   image: /assets/uploads/howitworks-stats.png
   stat1:
@@ -30,12 +34,12 @@ where:
     text: ''
 how:
   body: >-
-    Real Help Doncaster is a local campaign to help homeless and vulnerable
-    people off the streets and into a healthier and safer lifestyle. The funds
-    donated and raised can be distributed in two ways.
+    Real Help Doncaster is a local scheme to help homeless and vulnerable people
+    off the streets and into a healthier and safer lifestyle. The funds donated
+    and raised can be distributed in two ways.
 
 
-    There are two types of application:
+    There are two types of application- up to £100 and over £100.
   button:
     text: Change the way you GIVE here
     url: 'https://www.justgiving.com/campaign/realhelpdoncaster'
