@@ -8,7 +8,7 @@ intro:
     **Real help Doncaster is a scheme aimed at raising funds from businesses and
     the public to support people in Doncaster experiencing homelessness. It is a
     partnership between local agencies, housing providers, charities and
-    voluntary group**
+    voluntary groups.**
   button:
     text: Change the way you GIVE here
     url: 'https://www.justgiving.com/realhelpdoncaster'
