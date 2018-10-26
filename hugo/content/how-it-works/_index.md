@@ -11,7 +11,7 @@ intro:
     voluntary groups.**
   button:
     text: Change the way you GIVE here
-    url: 'https://www.justgiving.com/realhelpdoncaster'
+    url: 'https://www.justgiving.com/campaign/realhelpdoncaster'
 where:
   body: >-
     For every £1 donated, 95p goes directly to helping someone looking for
