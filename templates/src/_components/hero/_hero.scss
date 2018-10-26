@@ -54,7 +54,7 @@
   flex-direction: column;
   justify-content: center;
   min-height: 12rem;
-  padding: 2rem 1rem 0;
+  padding: 2rem 1rem 1rem;
 
   @include media-breakpoint-up(sm) {
     padding-top: 3rem;
