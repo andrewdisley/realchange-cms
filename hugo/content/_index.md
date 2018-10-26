@@ -10,7 +10,8 @@ hero:
   title: Real Help Doncaster
 whatis:
   body: >-
-    **healthier**
+    **Real help Doncaster is a local fund that helps homeless and vulnerable
+    people off the street and into a healthier and safer lifestyle.**
 
 
     If will all work together, you can help make a difference in supporting
