@@ -15,7 +15,7 @@ whatis:
 
 
     If will all work together, you can help make a difference in supporting
-    people who are homeless or at risk of homelessness in the Doncaster.
+    people who are homeless or at risk of homelessness in Doncaster.
 
 
     - - -
