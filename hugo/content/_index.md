@@ -28,7 +28,7 @@ who:
   body: >-
     Real Help Doncaster will provide homeless people with practical items they
     need to build new lives off the streets. This can include help with setting
-    up a new home, furniture, a training course or cloths for an interview.
+    up a new home, furniture, a training course or clothes for an interview.
   heading: Who does Real Help support?
 how:
   body: >-
