@@ -14,8 +14,8 @@ whatis:
     people off the street and into a healthier and safer lifestyle.**
 
 
-    If will all work together, you can help make a difference in supporting
-    people who are homeless or at risk of homelessness in Doncaster.
+    If we all work together, you can help make a difference in supporting people
+    who are homeless or at risk of homelessness in Doncaster.
 
 
     - - -
