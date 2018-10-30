@@ -12,9 +12,9 @@ intro:
 where:
   body: >-
     For every £1 you give, 85p goes directly to helping someone in need, and not
-    a penny on salaries for Campaign.  This is because Real Change partners have
-    committed the time and energy of their staff to help run the campaign for
-    free.
+    a penny on salaries for running the campaign.  This is because Real Change
+    partners have committed the time and energy of their staff to help run the
+    campaign for free.
   heading: Where does your money go?
   image: /assets/uploads/howitworks-stats.png
   stat1:
