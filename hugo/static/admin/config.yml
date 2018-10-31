@@ -50,6 +50,19 @@ collections:
               {label: "Body", name: "body", widget: "markdown"},
               {label: "List", name: "list", widget: "markdown"}
             ]}
+      - file: "hugo/content/about-us/_index.md"
+        label: "About Us"
+        name: "about-us"
+        fields:
+          - {label: "Title (Real Help Doncaster prepended)", name: "title", widget: "string"}
+          - {label: "Hero", name: "hero", widget: "object", fields: [
+              {label: "Pretitle (optional - yellow text above title)", name: "pretitle", widget: "string"},
+              {label: "Title (optional - white)", name: "title", widget: "string"},
+            ]}
+          - {label: "Intro", name: "intro", widget: "object", fields: [
+              {label: "First Paragraph", name: "firstpara", widget: "markdown"},
+              {label: "Body", name: "body", widget: "markdown"},
+            ]}
       - file: "hugo/content/how-it-works/_index.md"
         label: "How it Works"
         name: "how-it-works"
