@@ -1,0 +1,22 @@
+{{ define "main" }}
+{{ partial "header.html" .Params.header }}
+{{ partial "hero.html" .Params.hero }}
+
+<div id="main">
+
+  <div class="section howitworks-intro">
+    <div class="container">
+      <div class="content">
+        {{ $introFirstparaMarkdown := .Params.intro.firstpara | markdownify }}
+        {{ if not ( strings.Contains $introFirstparaMarkdown "<p>" ) }}<p class="body-lg">{{ $introFirstparaMarkdown }}</p>{{ else }}{{ $introFirstparaMarkdown }}{{ end }}
+        {{ $introBodyMarkdown := .Params.intro.body | markdownify }}
+        <p>{{ $introBodyMarkdown }}</p>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+{{ $footer := .Site.GetPage "_footer.md" }}
+{{ partial "footer.html" (dict "footer" $footer) }}
+{{ end }}
