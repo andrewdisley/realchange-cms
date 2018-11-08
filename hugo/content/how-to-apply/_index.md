@@ -27,6 +27,8 @@ list: >-
 
   * [St Leger
   Homes](https://www.stlegerhomes.co.uk/looking-for-a-home/housing-options-and-homelessness/)
+
+  * [Doncaster Housing for Young People](http://www.dhyp.org.uk/)
 partners:
   body: >-
     If your organisation provides support to people who are homeless or at risk
