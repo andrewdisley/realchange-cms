@@ -63,6 +63,8 @@ partners:
 
     * [Riverside
     ](https://www.riverside.org.uk/in-your-neighbourhood/south-yorkshire/care-and-support/doncaster-homeless-floating-support-service/)
+
+    * [Doncaster Housing for Young People](http://www.dhyp.org.uk/)
   youtube: ''
 ---
 
