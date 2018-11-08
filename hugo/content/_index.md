@@ -53,6 +53,8 @@ partners:
 
     * [Changing Lives](https://www.changing-lives.org.uk/services/)
 
+    * [Doncaster Housing for Young People](http://www.dhyp.org.uk/) 
+
     * [Doncaster Mind ](http://doncastermind.org.uk/)
 
     * [Hall Gate United Reformed Church
@@ -63,8 +65,6 @@ partners:
 
     * [Riverside
     ](https://www.riverside.org.uk/in-your-neighbourhood/south-yorkshire/care-and-support/doncaster-homeless-floating-support-service/)
-
-    * [Doncaster Housing for Young People](http://www.dhyp.org.uk/)
   youtube: ''
 ---
 
