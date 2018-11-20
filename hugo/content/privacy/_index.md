@@ -38,7 +38,8 @@ content: >-
 
   You are entitled to see any information held about you and may request any
   necessary changes to ensure that it is accurate and kept up-to-date. Please
-  contact info@realhelpdoncaster.org to do so.
+  contact [info@realhelpdoncaster.org ](mailto:info@realhelpdoncaster.org)to do
+  so.
 
 
   **Breach of Privacy**
