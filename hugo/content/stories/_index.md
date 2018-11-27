@@ -1,6 +1,6 @@
 ---
 title: Stories |
-showonhome: true
+showonhome: false
 header:
   hero: Real Change in Wigan & Leigh **Stories**
 intro: >
