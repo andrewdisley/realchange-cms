@@ -36,10 +36,10 @@
   </section>
 
   {{ with .Site.GetPage "section" "stories" }}{{ if eq .Params.showonhome true }}
-  <section class="section home-stories bg-rc-aubergine edge edge-top edge-rc-aubergine-top">
+  <section class="section home-stories bg-rc-sunny edge edge-top edge-rc-sunny-top">
     <div class="container">
       <div class="home-stories-header">
-        <h2 class="h1 home-stories-title bg-rc-sunny">
+        <h2 class="h1 home-stories-title">
           {{ with .Site.GetPage "section" "stories" }}{{ .Params.heading }}{{ end }}
         </h2>
       </div>
@@ -55,7 +55,7 @@
         {{ end }}
       </div>
       <div class="home-stories-footer text-center">
-        {{ with .Site.GetPage "section" "stories" }}<a class="button button-primary" href="{{ .Params.button.url }}">{{ .Params.button.text }}</a>{{ end }}
+        {{ with .Site.GetPage "section" "stories" }}<a class="button" href="{{ .Params.button.url }}">{{ .Params.button.text }}</a>{{ end }}
       </div>
     </div>
   </section>
