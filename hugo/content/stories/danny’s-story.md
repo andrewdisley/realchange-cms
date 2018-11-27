@@ -6,7 +6,7 @@ header:
   hero: "Real Change in Wigan & Leigh **\LStuart's Story**"
 summary:
   heading: “Real Change helped me when I needed it most”
-  image: /assets/uploads/stuart.png
+  image: /assets/uploads/squaddie.jpg
   text: Read Stuart's story
 content:
   age: Late 40s
