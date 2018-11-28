@@ -17,13 +17,15 @@ content:
 realchange:
   body: >-
     Real Change matched what Alison had saved to achieve her goal of moving to a
-    tenancy that is affordable, safe and somewhere she can call home. She is now
-    excited to move into her tenancy, and has been able to choose a reliable
-    landlord who is reputable so this makes her feel secure.
+    tenancy that is affordable, safe and somewhere she can call home.
+    Importantly for someone at her point of life, she has been able to choose a
+    reliable landlord who is reputable so this makes her feel secure. Her moving
+    on from the hostel has also created a much-need space for someone else
+    experiencing homelessness whose not ready to live independently yet.
 
 
-    She is also in full time employment which fills her with confidence and her
-    relationships that had broken down are now being rebuilt. Alison is looking
+    Alison is now in full time employment which fills her with confidence, and
+    her relationships that had broken down are being rebuilt. She is looking
     forward to a happy and positive future and would like to send thanks
     everyone from the Real Change for helping to achieve her goals. It’s an
     absolute pleasure to be able to do a small bit for someone who has worked so
