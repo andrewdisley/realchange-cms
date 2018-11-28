@@ -6,13 +6,13 @@ header:
   hero: "Real Change in Wigan & Leigh **\LStuart's Story**"
 summary:
   heading: “Real Change helped me when I needed it most”
-  image: ''
+  image: /assets/uploads/story-stuart-5by2.jpg
   text: Read Stuart's story
 content:
   age: Late 40s
   body: "## \LStuart's Story *\n\nStuart is an ex-serviceman who had been living in a tent for over a year. Local organisation EDs Homes had been in touch with him and building up their trust and relationship.\n\nJust before Real Change was launched, Stuart received a job offer for full time work. This was great news, but very hard to take up without secure, stable accomodation where he could properly sleep, live and go out to work without worrying about his things being safe.\n\nEDs enquired whether this would be suitable for Real Change, and started looking for appropriate places Stuart could live. When one was found an application was put in and Real Change was able to help cover the deposit and first months’ rent. Having been out of work and with no landlord who could provide a reference, the grant was about more than just money. It also unlocked a door into the private sector when landlords might otherwise have been nervous about taking on a new tenant.\n\n**There were tears in Stuart’s eyes when he moved into the flat, and he was immediately offering to pay it back!**"
   help: Received help with deposit and rent up front for a flat
-  image: /assets/uploads/stuart.png
+  image: /assets/uploads/story-stuart-4by3.jpg
   name: Stuart
 realchange:
   body: >-
