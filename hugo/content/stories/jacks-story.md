@@ -11,7 +11,7 @@ summary:
 content:
   age: '24'
   body: "## \LAllison's Story\n\nAlison had been living in supported accommodation with Riverside since April 2018 after a relationship breakdown which left her homeless. While staying at the hostel, she put in a lot of work to successfully manage her anxiety and is in complete recovery. Alison also successfully participated and completed the Princes Trust programme which helped her to develop the skills to find employment.\n\nAlison was offered a job in early October, continuing her fantastic journey. Still living in the hostel, however, and not eligible for the discounted service rates, her rent shot up massively. With all her savings going on past debts, she was only able to save up some of the money for a deposit in her own rented property.\n\n> \"The support I received made a Real Change to my life. It helped me \n> to secure the lovely flat that I am moving too.\n>\n> Without it I would be living in accommodation that I am unable to afford and this may have led to a decline in my mental wellbeing and put me at risk of becoming homeless again.\n> \""
-  help: Match funding for a flat deposit for a home she can rebuild her life in
+  help: Match funded flat deposit for a home she can thrive in
   image: /assets/uploads/allison.png
   name: Alison Meeson
 realchange:
