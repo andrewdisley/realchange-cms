@@ -6,7 +6,7 @@ header:
   hero: "Real Change in Wigan & Leigh **\LAlison's Story**"
 summary:
   heading: “The support I received made a Real Change to my life”
-  image: ''
+  image: /assets/uploads/alison-5by2.jpg.png
   text: Read Alison's story
 content:
   age: '24'
