@@ -37,6 +37,7 @@ content: >-
   too, including Top 10 Tips and ideas for promoting your page.
 
 
+  <br>
 
 
   ## **Invite us to speak at an event**
@@ -52,6 +53,7 @@ content: >-
   sports team's AGM. 
 
 
+  <br>
 
 
   ## **Play a role in organising Campaign activities**
@@ -76,6 +78,7 @@ content: >-
   groups.
 
 
+  <br>
 
 
   ## **Share your skills or knowledge**
@@ -86,6 +89,7 @@ content: >-
   hear yours! 
 
 
+  <br>
 
 
   Every bit helps, so if you want to help people in your area who are homeless,
