@@ -19,6 +19,7 @@ content: >-
   to the fund, you might be interested in:
 
 
+  <br>
 
 
   ## **Take part in a "fundraising challenge"**
