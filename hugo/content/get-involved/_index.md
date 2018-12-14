@@ -5,7 +5,7 @@ header:
 content: >-
 
 
-  ## Do you want to help make a Real Change in Wigan & Leigh?
+  # Do you want to help make a Real Change in Wigan & Leigh?
 
 
   Whether you're interested in getting involved personally, on behalf of your
