@@ -11,10 +11,12 @@ content: >-
   you can help. 
 
 
-  As well as donating directly to the fund, you might want to:
+  As well as
+  [donating](www.justgiving.com/campaign/realchangewiganandleigh.co.uk) directly
+  to the fund, you might be interested in:
 
 
-  * ## Take part in a "fundraising challenge"
+  * **Take part in a "fundraising challenge"**
 
 
   Sign up to a sponsored run, walk or anything you like and raise money for
@@ -25,7 +27,7 @@ content: >-
   too, including Top 10 Tips and ideas for promoting your page.
 
 
-  * ## Invite us to speak at an event
+  * **Invite us to speak at an event**
 
 
   Our Action Group includes people with lived experience of homelessness as well
@@ -36,7 +38,7 @@ content: >-
   sports team's AGM. 
 
 
-  * ## Play a role in organising Campaign activities
+  * **Play a role in organising Campaign activities**
 
 
   There are lots of roles that need doing to make the campaign a success,
@@ -58,7 +60,7 @@ content: >-
   groups.
 
 
-  * ## Share your skills or knowledge
+  * **Share your skills or knowledge**
 
 
   What are you good at? What do you know lots about? How do you think a campaign
