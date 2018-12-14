@@ -14,7 +14,7 @@ content: >-
   As well as donating directly to the fund, you might want to:
 
 
-  * ## Do a "fundraising challenge"
+  * ## Take part in a "fundraising challenge"
 
 
   Sign up to a sponsored run, walk or anything you like and raise money for
