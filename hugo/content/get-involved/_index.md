@@ -14,12 +14,13 @@ content: >-
   <mailto:info@realchangewiganandleigh.co.uk> with any inquiries.
 
 
+  <br>
+
+
   As well as
   [donating](www.justgiving.com/campaign/realchangewiganandleigh.co.uk) directly
   to the fund, you might be interested in:
 
-
-  <br>
 
 
   ## **Take part in a "fundraising challenge"**
