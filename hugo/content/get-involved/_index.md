@@ -3,12 +3,15 @@ title: Get Involved |
 header:
   hero: Real Change in Wigan & Leigh **Get Involved**
 content: >-
+
+
   ## Do you want to help make a Real Change in Wigan & Leigh?
 
 
   Whether you're interested in getting involved personally, on behalf of your
   community group, workplace or college, or as a business, there are many ways
-  you can help. 
+  you can help. Get in touch by emailing
+  <mailto:info@realchangewiganandleigh.co.uk> with any inquiries.
 
 
   As well as
@@ -24,7 +27,10 @@ content: >-
   Sign up to a sponsored run, walk or anything you like and raise money for
   people in your area who are homeless. You can set up a fundraiser page by
   going to www.justgiving.com/campaign/realchangewiganandleigh and clicking
-  'Start Fundraising'. Check out [Just Giving's Fundraising
+  'Start Fundraising'. 
+
+
+  Check out [Just Giving's Fundraising
   Toolkit](https://www.justgiving.com/fundraising/tips/fundraising-page-toolkit)
   too, including Top 10 Tips and ideas for promoting your page.
 
@@ -35,10 +41,12 @@ content: >-
 
 
   Our Action Group includes people with lived experience of homelessness as well
-  as charities working directly with people who are homeless. We'd be delighted
-  to come and talk to you about the Campaign at an event you are involved in
-  organising, whether that's the weekly meeting at your church, a
-  concert/cultural event, a conference your business in putting on or your
+  as charities working directly with people who are homeless. 
+
+
+  We'd be delighted to come and talk to you about the Campaign at an event you
+  are involved in organising, whether that's the weekly meeting at your church,
+  a concert/cultural event, a conference your business in putting on or your
   sports team's AGM. 
 
 
