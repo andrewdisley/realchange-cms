@@ -3,8 +3,6 @@ title: Get Involved |
 header:
   hero: Real Change in Wigan & Leigh **Get Involved**
 content: >-
-
-
   # Do you want to help make a Real Change in Wigan & Leigh?
 
 
@@ -19,8 +17,7 @@ content: >-
 
   As well as
   [donating](www.justgiving.com/campaign/realchangewiganandleigh.co.uk) directly
-  to the fund, you might be interested in:
-
+  to the fund, you might want to:
 
 
   ## **Take part in a "fundraising challenge"**
