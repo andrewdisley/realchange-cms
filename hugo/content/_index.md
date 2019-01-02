@@ -2,18 +2,18 @@
 title: Welcome to
 header:
   classes: home-header
-  hero: <span>Help make</span> a Real Change in **Wigan & Leigh**
+  hero: <span>Help make</span> a Real Change in **Rochdale**
 whatis:
   body: >-
     **Real Change pays for practical items individuals need to build independent
     lives away from the streets.**
 
 
-    If everyone who lives, works or visits Wigan & Leigh donates, together we
+    If everyone who lives, works or visits Rochdale donates, together we
     can make a Real Change to homelessness!
   button:
     text: Donate and make a real change
-    url: 'https://www.justgiving.com/campaign/realchangewiganandleigh'
+    url: 'https://www.justgiving.com/campaign/realchangerochdale'
   heading: What is Real Change?
   image: assets/uploads/home-intro-whatis.png
 who:
@@ -27,7 +27,7 @@ who:
     spent.](/how-it-works/)
   heading: Who does Real Change help?
 how:
-  body: "If your organisation provides a service to support people who are homeless in Wigan & Leigh and you would like to discuss how to become an approved Real Change partner, please contact us on [07788 105 078](tel:07788105078) or email <mailto:info@realchangewiganandleigh.co.uk> or \L[find out more here](/how-to-apply/)."
+  body: "If your organisation provides a service to support people who are homeless in Rochdale and you would like to discuss how to become an approved Real Change partner, please contact us on [07788 105 078](tel:07788105078) or email <mailto:info@realchangerochdale.co.uk> or \L[find out more here](/how-to-apply/)."
   heading: How can you apply?
 partners:
   body: >-
@@ -36,7 +36,7 @@ partners:
     organisations who will work with you to apply for funds on your behalf.**
 
 
-    Real Change Wigan & Leigh currently works in partnership with the following
+    Real Change Rochdale currently works in partnership with the following
     organisations:
   heading: Help from our Partners
   image: ''

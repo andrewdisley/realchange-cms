@@ -3,7 +3,7 @@ story: 'yes'
 title: Alison's Story |
 date: 2018-08-26T01:00:00.000Z
 header:
-  hero: "Real Change in Wigan & Leigh **\LAlison's Story**"
+  hero: "Real Change in Rochdale **\LAlison's Story**"
 summary:
   heading: “The support I received made a Real Change to my life”
   image: /assets/uploads/alison-5by2.jpg.png
@@ -32,7 +32,7 @@ realchange:
     hard to turn around their own situation!
   button:
     text: Donate and make a real change
-    url: 'https://www.justgiving.com/campaign/realchangewiganandleigh'
+    url: 'https://www.justgiving.com/campaign/realchangerochdale'
   heading: The real change you made
 ---
 

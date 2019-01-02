@@ -1,7 +1,7 @@
 ---
 title: How to Apply |
 header:
-  hero: Real Change in Wigan & Leigh **How to Apply**
+  hero: Real Change in Rochdale **How to Apply**
 content: >-
   **If you are sleeping rough, homeless or at risk of homelessness and want to
   apply for funds to help you, get in touch with one of our partner
@@ -43,7 +43,7 @@ partners:
     Tel: 07788 105 078
 
 
-    Email: <mailto:info@realchangewiganandleigh.co.uk>
+    Email: <mailto:info@realchangerochdale.co.uk>
   heading: Want to become a Partner?
 ---
 

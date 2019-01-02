@@ -1,22 +1,22 @@
 ---
 title: Get Involved |
 header:
-  hero: Real Change in Wigan & Leigh **Get Involved**
+  hero: Real Change in Rochdale **Get Involved**
 content: >-
-  # Do you want to help make a Real Change in Wigan & Leigh?
+  # Do you want to help make a Real Change in Rochdale?
 
 
   Whether you're interested in getting involved personally, on behalf of your
   community group, workplace or college, or as a business, there are many ways
   you can help. Get in touch by emailing
-  <mailto:info@realchangewiganandleigh.co.uk> with any inquiries.
+  <mailto:info@realchangerochdale.co.uk> with any inquiries.
 
 
   <br>
 
 
   As well as
-  [donating](www.justgiving.com/campaign/realchangewiganandleigh.co.uk) directly
+  [donating](www.justgiving.com/campaign/realchangerochdale.co.uk) directly
   to the fund, you might want to:
 
 
@@ -28,7 +28,7 @@ content: >-
 
   Sign up to a sponsored run, walk or anything you like and raise money for
   people in your area who are homeless. You can set up a fundraiser page by
-  going to www.justgiving.com/campaign/realchangewiganandleigh and clicking
+  going to www.justgiving.com/campaign/realchangerochdale and clicking
   'Start Fundraising'. 
 
 
@@ -93,7 +93,7 @@ content: >-
 
 
   Every bit helps, so if you want to help people in your area who are homeless,
-  please [get in touch](mailto:info@realchangewiganandleigh.co.uk).
+  please [get in touch](mailto:info@realchangerochdale.co.uk).
 section:
   body: >-
     The Street Support Network is an online resource dedicated to connecting
@@ -101,7 +101,7 @@ section:
     or **Give Help** please go to 
 
 
-    **[streetsupport.net/wigan-and-leigh](http://www.streetsupport.net/wigan-and-leigh)**
+    **[streetsupport.net/rochdale](http://www.streetsupport.net/rochdale)**
   heading: Street Support Wigan And Leigh
   image: /assets/uploads/streetsupport.png
 ---

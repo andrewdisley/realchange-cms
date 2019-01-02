@@ -1,6 +1,6 @@
-baseurl = "https://realchangewiganandleigh.co.uk/"
+baseurl = "https://realchangerochdale.co.uk/"
 languageCode = "en-gb"
-title = "Real Change Wigan & Leigh"
+title = "Real Change Rochdale"
 disableKinds = ["RSS", "taxonomyTerm"]
 [blackfriday]
    hrefTargetBlank = true

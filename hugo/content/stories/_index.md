@@ -2,7 +2,7 @@
 title: Stories |
 showonhome: true
 header:
-  hero: Real Change in Wigan & Leigh **Stories**
+  hero: Real Change in Rochdale **Stories**
 intro: >
   **Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque laborum
   voluptatibus, eius in a quas aspernatur harum autem, amet, nostrum libero
@@ -12,6 +12,6 @@ heading: |-
   people like Alison and Stuart.
 button:
   text: Donate and make a real change
-  url: 'https://www.justgiving.com/campaign/realchangewiganandleigh'
+  url: 'https://www.justgiving.com/campaign/realchangerochdale'
 ---
 

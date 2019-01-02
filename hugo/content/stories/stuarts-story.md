@@ -3,7 +3,7 @@ story: 'yes'
 title: Stuart's Story |
 date: 2018-08-25T20:24:10.347Z
 header:
-  hero: "Real Change in Wigan & Leigh **\LStuart's Story**"
+  hero: "Real Change in Rochdale **\LStuart's Story**"
 summary:
   heading: “Real Change helped me when I needed it most”
   image: /assets/uploads/story-stuart-5by2.jpg
@@ -37,7 +37,7 @@ realchange:
     \*names have been changed for the benefit of Stuart and his family
   button:
     text: Donate and make a real change
-    url: 'https://www.justgiving.com/campaign/realchangewiganandleigh'
+    url: 'https://www.justgiving.com/campaign/realchangerochdale'
   heading: The Real Change You Made
 ---
 

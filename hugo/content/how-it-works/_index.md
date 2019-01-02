@@ -1,14 +1,14 @@
 ---
 title: How it Works |
 header:
-  hero: Real Change in Wigan & Leigh **How it Works**
+  hero: Real Change in Rochdale **How it Works**
 intro:
   body: >-
-    **Real Change is a fund for Wigan & Leigh that pays for items that local
+    **Real Change is a fund for Rochdale that pays for items that local
     people need to end and prevent homelessness.**
   button:
     text: Donate and make a real change
-    url: 'https://www.justgiving.com/campaign/realchangewiganandleigh'
+    url: 'https://www.justgiving.com/campaign/realchangerochdale'
 where:
   body: >-
     For every £1 you give, 85p goes directly to helping someone in need, and not
@@ -41,7 +41,7 @@ how:
     There are two types of application:
   button:
     text: Donate and make a real change
-    url: 'https://www.justgiving.com/campaign/realchangewiganandleigh'
+    url: 'https://www.justgiving.com/campaign/realchangerochdale'
   card1:
     body: >-
       If the request is for under £100, applications which meet the criteria are
