@@ -12,7 +12,7 @@ whatis:
     Together we **can** make a difference, so donate now to help tackle
     homelessness in our community.
   button:
-    text: Donate and make a real change
+    text: Donate and make a Real Change in Rochdale
     url: 'https://www.justgiving.com/campaign/realchangerochdale'
   heading: What is Real Change?
   image: assets/uploads/home-intro-whatis.png
@@ -27,7 +27,7 @@ who:
     spent.](/how-it-works/)
   heading: Who does Real Change help?
 how:
-  body: "If your organisation provides a service to support people who are homeless in Rochdale and you would like to discuss how to become an approved Real Change partner, please contact us at <mailto:info@realchangerochdale.co.uk> or \L[find out more here](/how-to-apply/)."
+  body: "If your organisation provides a service to support people who are homeless in Rochdale Borough and you would like to discuss how to become an approved Real Change partner, please contact us at <mailto:info@realchangerochdale.co.uk> or \L[find out more here](/how-to-apply/)."
   heading: How can you apply?
 partners:
   body: >-
