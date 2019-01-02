@@ -39,11 +39,12 @@ where:
       donating!)
 how:
   body: >-
-    Your donation is combined with other donations in one central pot. [Local
-    charities](/how-to-apply/) and organisations then work directly with
-    individuals who are homeless, and apply for funds to pay for items they
-    need. Money is transferred to the partner organisations to get where it is
-    needed as quickly as possible, but is never given out as cash. 
+    Your donation is combined with other donations into one central pot for
+    everyone in Rochdale Borough. [Local charities](/how-to-apply/) and
+    organisations then work directly with individuals who are homeless, and
+    apply for funds to pay for items they need. Money is transferred to the
+    partner organisations to get where it is needed as quickly as possible, but
+    is never given out as cash. 
 
 
     There are three types of application:
