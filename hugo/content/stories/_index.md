@@ -2,7 +2,7 @@
 title: Stories |
 showonhome: true
 header:
-  hero: Real Change in Wigan & Leigh **Stories**
+  hero: Real Change Wigan & Leigh **Stories**
 intro: >
   **Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque laborum
   voluptatibus, eius in a quas aspernatur harum autem, amet, nostrum libero
