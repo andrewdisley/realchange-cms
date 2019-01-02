@@ -1,7 +1,7 @@
 ---
 title: How it Works |
 header:
-  hero: Real Change in Wigan & Leigh **How it Works**
+  hero: Real Change Wigan & Leigh **How it Works**
 intro:
   body: >-
     **Real Change is a fund for Wigan & Leigh that pays for items that local
