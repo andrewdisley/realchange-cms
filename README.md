@@ -45,3 +45,8 @@ Any changes to CSS / JS / Image assets here must be manually copied to the hugo 
 
 * create branch
 * update hugo/static/admin/config.yml to point at new branch
+* setup identity in netlify
+* setup ssl
+* update dns
+* create banner for ssn
+* update city data in ssn
