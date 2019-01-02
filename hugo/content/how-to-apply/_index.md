@@ -1,49 +1,28 @@
 ---
 title: How to Apply |
 header:
-  hero: Real Change in Rochdale **How to Apply**
+  hero: Real Change Rochdale **How to Apply**
 content: >-
   **If you are sleeping rough, homeless or at risk of homelessness and want to
   apply for funds to help you, get in touch with one of our partner
   organisations who will work with you to apply:**
 list: >-
-  * [Addaction](https://www.addaction.org.uk/services/addaction-wigan-leigh)
+  * [S](https://www.addaction.org.uk/services/addaction-wigan-leigh)anctuary
+  Trust
 
-  * [EDs Homes](https://www.edshomes.org.uk/housing)
+  * Petrus
 
-  * [Helping The Homeless](https://www.helpingthehomelesscharity.co.uk/)
+  * Rochdale Borough Housing
 
-  * [Homeless Support Project](https://www.hspleigh.co.uk/)
-
-  * [Jigsaw Homes](https://www.jigsawhomes.org.uk/)
-
-  * [Riverside](https://www.riverside.org.uk/care-and-support/)
-
-  * [Society Support](https://societysupport.co.uk)
-
-  * [The Brick](http://www.thebrick.org.uk/)
-
-  * [Wigan Wellbeing & Resilience](https://www.facebook.com/WiganWellbeing/)
-
-  * Wigan Council - [Live
-  Well](https://www.wigan.gov.uk/Council/Data-Statistics/Borough-Story/Live-Well.aspx)
-  & [Start
-  Well](https://www.wigan.gov.uk/Council/Data-Statistics/Borough-Story/Start-Well.aspx)
-  teams
-
-  * [Your Housing
-  Group](https://www.yourhousinggroup.co.uk/find-a-home/young-peoples-housing/foyers/)
+  * Riverside Housing Association
 partners:
   body: >-
-    If your organisation provides support to people who are homeless in Wigan &
-    Leigh and you would like to discuss how to become an approved Real Change
-    partner, please contact us at:
+    If your organisation provides support to people who are homeless in Rochdale
+    Borough - including Middleton, Heywood, Littlebrough and Milnrow - and you
+    would like to become an approved Real Change partner, please contact us at:
 
 
-    Tel: 07788 105 078
-
-
-    Email: <mailto:info@realchangerochdale.co.uk>
+    <mailto:info@realchangerochdale.co.uk>
   heading: Want to become a Partner?
 ---
 
