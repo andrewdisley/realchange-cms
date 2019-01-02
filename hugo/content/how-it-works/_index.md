@@ -1,7 +1,7 @@
 ---
 title: How it Works |
 header:
-  hero: Real Change in Rochdale **How it Works**
+  hero: Real Change Rochdale **How it Works**
 intro:
   body: >-
     **Real Change is a fund for Rochdale that pays for items that local people
