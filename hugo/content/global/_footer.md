@@ -11,6 +11,8 @@ row2: >-
 row3: >-
   Find out how your business or workplace can become a [Corporate
   Partner](mailto:robbie.cowbury@riverside.org.uk)
+row4: >-
+  Join our [Mailing List](http://eepurl.com/gbvLdD)
 links: '[Privacy Policy](/privacy/)'
 ---
 
