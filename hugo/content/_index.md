@@ -13,7 +13,7 @@ whatis:
     homelessness in our community.
   button:
     text: Donate and make a Real Change in Rochdale
-    url: 'https://www.justgiving.com/campaign/realchangerochdale'
+    url: 'https://secure.thebiggive.org.uk/projects/view/31176'
   heading: What is Real Change?
   image: assets/uploads/home-intro-whatis.png
 who:
