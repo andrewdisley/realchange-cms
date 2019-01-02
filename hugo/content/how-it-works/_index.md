@@ -8,7 +8,7 @@ intro:
     need to end and prevent homelessness.**
   button:
     text: Donate and make a real change
-    url: 'https://www.justgiving.com/campaign/realchangerochdale'
+    url: 'https://secure.thebiggive.org.uk/projects/view/31176'
 where:
   body: >-
     All but 5% goes **directly** to people who are homeless via partner
@@ -50,7 +50,7 @@ how:
     There are three types of application:
   button:
     text: Donate and make a real change
-    url: 'https://www.justgiving.com/campaign/realchangerochdale'
+    url: 'https://secure.thebiggive.org.uk/projects/view/31176'
   card1:
     body: >-
       If the request is for under £100, applications which meet the criteria are
