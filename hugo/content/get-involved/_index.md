@@ -18,7 +18,7 @@ content: >-
   <br>
 
 
-  As well as [donating](www.justgiving.com/campaign/realchangerochdale.co.uk)
+  As well as [donating](https://secure.thebiggive.org.uk/projects/view/31176)
   directly to the fund, you might want to:
 
 
