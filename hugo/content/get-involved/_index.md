@@ -95,7 +95,8 @@ content: >-
 
 
   Every bit helps, so if you want to help people in your area who are homeless,
-  please [get in touch](mailto:info@realchangewiganandleigh.co.uk).
+  please [get in touch](mailto:info@realchangewiganandleigh.co.uk) or [sign up
+  to our mailing list](http://eepurl.com/gbvLdD) so we can keep you up to date
 section:
   body: >-
     The Street Support Network is an online resource dedicated to connecting
