@@ -3,13 +3,14 @@ title: Get Involved |
 header:
   hero: Real Change in Wigan & Leigh **Get Involved**
 content: >-
-  # Do you want to help make a Real Change in Wigan & Leigh?
+  # \    Click [here](http://eepurl.com/gbvLdD) to join to the mailing list
+
+
 
 
   Whether you're interested in getting involved personally, on behalf of your
   community group, workplace or college, or as a business, there are many ways
-  you can help. Get in touch by emailing
-  <mailto:info@realchangewiganandleigh.co.uk> with any inquiries.
+  you can help. 
 
 
   <br>
