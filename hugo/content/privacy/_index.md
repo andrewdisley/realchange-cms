@@ -106,7 +106,13 @@ content: >-
   advertising tracking cookie or use a browser plugin to opt out of all Google
   Analytics tracking software.
 partners:
-  body: "If your organisation provides support to people who are homeless in Rochdale and you would like to discuss how to become an approved Real Change partner, please contact us at:\r\n\nTel: 07788 105 078\r\n\nEmail: info@realchangerochdale.co.uk"
+  body: >-
+    If your organisation provides support to people who are homeless in Rochdale
+    and you would like to discuss how to become an approved Real Change partner,
+    please contact us at:
+
+
+    Email: info@realchangerochdale.co.uk
   heading: Want to become a Partner?
 ---
 
