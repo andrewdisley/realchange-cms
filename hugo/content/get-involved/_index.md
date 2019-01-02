@@ -3,21 +3,7 @@ title: Get Involved |
 header:
   hero: Real Change in Wigan & Leigh **Get Involved**
 content: >-
-  > Click 
-
-  >
-
-  > [here](http://eepurl.com/gbvLdD)
-
-  >
-
-  >  to join our mailing list 
-
-
-  <br>
-
-
-  # Do you want to make a Real Change to homelessness in Wigan & Leigh?
+  # Click [here](http://eepurl.com/gbvLdD) to join our mailing list
 
 
   Whether you're interested in getting involved personally, on behalf of your
