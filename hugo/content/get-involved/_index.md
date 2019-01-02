@@ -102,7 +102,7 @@ section:
 
 
     **[streetsupport.net/rochdale](http://www.streetsupport.net/rochdale)**
-  heading: Street Support Wigan And Leigh
+  heading: Street Support Rochdale
   image: /assets/uploads/streetsupport.png
 ---
 
