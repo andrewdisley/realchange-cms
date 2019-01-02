@@ -1,7 +1,7 @@
 ---
 title: Get Involved |
 header:
-  hero: Real Change in Rochdale **Get Involved**
+  hero: Real Change Rochdale **Get Involved**
 content: >-
   # To join our mailing list, click [here](http://eepurl.com/gbvxdn)
 
