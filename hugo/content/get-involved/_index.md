@@ -3,21 +3,23 @@ title: Get Involved |
 header:
   hero: Real Change in Rochdale **Get Involved**
 content: >-
-  # Do you want to help make a Real Change in Rochdale?
-
-
-  Whether you're interested in getting involved personally, on behalf of your
-  community group, workplace or college, or as a business, there are many ways
-  you can help. Get in touch by emailing
-  <mailto:info@realchangerochdale.co.uk> with any inquiries.
+  # To join our mailing list, click [here](http://eepurl.com/gbvxdn)
 
 
   <br>
 
 
-  As well as
-  [donating](www.justgiving.com/campaign/realchangerochdale.co.uk) directly
-  to the fund, you might want to:
+  Whether you're interested in getting involved personally, on behalf of your
+  community group, workplace or college, or as a business, there are many ways
+  you can help. Get in touch by emailing <mailto:info@realchangerochdale.co.uk>
+  with any inquiries.
+
+
+  <br>
+
+
+  As well as [donating](www.justgiving.com/campaign/realchangerochdale.co.uk)
+  directly to the fund, you might want to:
 
 
   <br>
@@ -27,9 +29,7 @@ content: >-
 
 
   Sign up to a sponsored run, walk or anything you like and raise money for
-  people in your area who are homeless. You can set up a fundraiser page by
-  going to www.justgiving.com/campaign/realchangerochdale and clicking
-  'Start Fundraising'. 
+  people in your area who are homeless.
 
 
   Check out [Just Giving's Fundraising
@@ -73,8 +73,8 @@ content: >-
   \- Helping administer grants to people who are homeless
 
 
-  \- Being an 'ambassador' for the campaign within a specific area of Wigan
-  Borough, or with particular networks such as colleges, churches or community
+  \- Being an 'ambassador' for the campaign within a specific area of the
+  borough, or with particular networks such as colleges, churches or community
   groups.
 
 
@@ -93,7 +93,8 @@ content: >-
 
 
   Every bit helps, so if you want to help people in your area who are homeless,
-  please [get in touch](mailto:info@realchangerochdale.co.uk).
+  please [get in touch](mailto:info@realchangerochdale.co.uk) or [sign up to our
+  mailing list](http://eepurl.com/gbvxdn) so we can keep you up to date.
 section:
   body: >-
     The Street Support Network is an online resource dedicated to connecting
