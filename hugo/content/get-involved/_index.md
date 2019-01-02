@@ -3,7 +3,10 @@ title: Get Involved |
 header:
   hero: Real Change in Wigan & Leigh **Get Involved**
 content: >-
-  # \    Click [here](http://eepurl.com/gbvLdD) to join our mailing list
+  # To join our mailing list, click [here](http://eepurl.com/gbvLdD)
+
+
+  <br>
 
 
   Whether you're interested in getting involved personally, on behalf of your
