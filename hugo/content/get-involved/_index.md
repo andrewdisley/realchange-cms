@@ -65,8 +65,9 @@ content: >-
   including:
 
 
-  \- Assisting with public awareness and creation of content to share with local
-  people
+  \- Helping us spread the word by sponsoring public advertising space (JC
+  Decaux are matching any ads we can fund-raise for so we reach a bigger
+  audience in your local area)
 
 
   \- Supporting our efforts to get the message out via social media
