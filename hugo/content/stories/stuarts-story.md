@@ -37,7 +37,7 @@ realchange:
     \*names have been changed for the benefit of Stuart and his family
   button:
     text: Donate and make a real change
-    url: 'https://www.justgiving.com/campaign/realchangerochdale'
+    url: 'https://secure.thebiggive.org.uk/projects/view/31176'
   heading: The Real Change You Made
 ---
 
