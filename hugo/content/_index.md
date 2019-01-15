@@ -37,21 +37,27 @@ partners:
     behalf.**
 
 
-    Real Change Rochdale currently works in partnership with the following
+    Real Change Rochdale is working in partnership with the following
     organisations:
   heading: Help from our Partners
   image: ''
   list: >-
-    * [S](https://www.addaction.org.uk/services/addaction-wigan-leigh)anctuary
-    Trust
+    * [Angie's Angels](https://www.facebook.com/groups/987871367991380/)
 
-    * Petrus
+    * [Bond Board](https://www.thebondboard.org.uk/)
 
-    * Rochdale Borough Housing
+    * [Petrus](https://www.petrus.org.uk/)
 
-    * Riverside Housing Association
+    * [Rochdale Borough Housing](https://www.rbh.org.uk/)
 
-    *
+    * [Riverside Housing Association](www.riverside.org.uk)
+
+    * [Sanctuary Trust](http://www.sanctuarytrust.org.uk/) - including the Soup
+    Kitchen and STEP Hostel
+
+    * [Stepping Stone](https://www.stepping-stone.org.uk/)
+
+    * [Turning Point](http://wellbeing.turning-point.co.uk/rochdale-and-oldham/)
   youtube: 'https://www.youtube.com/embed/h5THJZgLznM'
 ---
 
