@@ -4,8 +4,8 @@ header:
   hero: Real Change Rochdale **How to Apply**
 content: >-
   **If you are sleeping rough, homeless or at risk of homelessness and want to
-  apply for funds to help you, get in touch with one of our partner
-  organisations who will work with you to apply:**
+  apply for funds to help, get in touch with one of our partner organisations
+  who will work with you to apply:**
 list: >-
   * [Angie's Angels](https://www.facebook.com/groups/987871367991380/)
 
