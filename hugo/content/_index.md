@@ -33,12 +33,7 @@ partners:
   body: >-
     **If you are sleeping rough, homeless or at risk of homelessness in the
     borough of Rochdale and want to apply for funds, get in touch with one of
-    our partner organisations who will work with you to apply for funds on your
-    behalf.**
-
-
-    Real Change Rochdale is working in partnership with the following
-    organisations:
+    our partner organisations who will be able to provide support:**
   heading: Help from our Partners
   image: ''
   list: >-
