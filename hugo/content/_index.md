@@ -45,7 +45,7 @@ partners:
 
     * [Rochdale Borough Housing](https://www.rbh.org.uk/)
 
-    * [Riverside Housing Association](www.riverside.org.uk)
+    * [Riverside Housing Association](https://www.riverside.org.uk/)
 
     * [Sanctuary Trust](http://www.sanctuarytrust.org.uk/) - including the Soup
     Kitchen and STEP Hostel
