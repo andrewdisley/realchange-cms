@@ -2,7 +2,7 @@
 title: Welcome to
 header:
   classes: home-header
-  hero: '<span>Real Change Rochdale:</span> Change for real'
+  hero: '<span>Real Change Rochdale:</span> Change for Real'
 whatis:
   body: >-
     **Real Change pays for practical items individuals need to build lives away
