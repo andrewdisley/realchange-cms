@@ -43,7 +43,7 @@ partners:
 
     * [Petrus](https://www.petrus.org.uk/)
 
-    * [Rochdale Borough Housing](https://www.rbh.org.uk/)
+    * [Rochdale Boroughwide Housing](https://www.rbh.org.uk/)
 
     * [Riverside Housing Association](https://www.riverside.org.uk/)
 
