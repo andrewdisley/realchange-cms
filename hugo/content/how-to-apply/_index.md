@@ -13,7 +13,7 @@ list: >-
 
   * [Petrus](https://www.petrus.org.uk/)
 
-  * [Rochdale Borough Housing](https://www.rbh.org.uk/)
+  * [Rochdale Boroughwide Housing](https://www.rbh.org.uk/)
 
   * [Riverside Housing Association](www.riverside.org.uk)
 
