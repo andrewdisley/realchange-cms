@@ -5,8 +5,8 @@ hero:
   title: How to apply
 content: >-
   **If you think this support can help you and you want to apply for funds, get
-  in touch with one of our partner organisations (see home page) who will work
-  with you to apply:**
+  in touch with one of our partner organisations (see home page) who will guide
+  or support you to apply:**
 
 
   **APPLICATIONS ARE NOW OPEN **
