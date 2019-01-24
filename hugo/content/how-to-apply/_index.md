@@ -5,14 +5,14 @@ hero:
   title: How to apply
 content: >-
   **If you think this support can help you and you want to apply for funds, get
-  in touch with one of our partner organisations who will work with you to
-  apply:**
+  in touch with one of our partner organisations (see home page) who will work
+  with you to apply:**
 
 
-  **APPLICATIONS WILL BE OPEN IN EARLY DECEMBER**
+  **APPLICATIONS ARE NOW OPEN **
 
 
-  ****
+  - - -
 list: >-
   * [Aspire](http://www.aspire.community/)
 
