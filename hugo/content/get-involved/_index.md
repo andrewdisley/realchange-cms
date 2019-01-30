@@ -1,7 +1,7 @@
 ---
 title: Get Involved |
 header:
-  hero: Real Change Rochdale **Get Involved**
+  hero: Real Change Oldham **Get Involved**
 content: >-
   # To join our mailing list, click [here](http://eepurl.com/gbvxdn)
 
@@ -103,8 +103,8 @@ section:
     or **Give Help** please go to 
 
 
-    **[streetsupport.net/rochdale](http://www.streetsupport.net/rochdale)**
-  heading: Street Support Rochdale
+    **[streetsupport.net/oldham](http://www.streetsupport.net/oldham)**
+  heading: Street Support Oldham
   image: /assets/uploads/streetsupport.png
 ---
 

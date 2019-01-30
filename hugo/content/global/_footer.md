@@ -6,7 +6,7 @@ row1: >-
   and
   [Twitter](https://twitter.com/home?status=I%27m%20making%20a%20Real%20Change%20to%20homelessness%20in%20Rochdale%20%23RealChangeRochdale%20%40RealChangeGM)
 row2: >-
-  Visit [Street Support](https://streetsupport.net/rochdale/) to see what
+  Visit [Street Support](https://streetsupport.net/oldham/) to see what
   else you can give
 row3: >-
   Find out how your business or workplace can become a [Corporate

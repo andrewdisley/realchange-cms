@@ -107,7 +107,7 @@ content: >-
   Analytics tracking software.
 partners:
   body: >-
-    If your organisation provides support to people who are homeless in Rochdale
+    If your organisation provides support to people who are homeless in Oldham
     and you would like to discuss how to become an approved Real Change partner,
     please contact us at:
 
