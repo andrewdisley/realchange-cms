@@ -25,6 +25,8 @@ list: >-
   * [Hall Gate United Reform
   Church](https://urcyorkshire.org.uk/churchfinder/churches/hall-gate-urc/)
 
+  * [Manna Community CIC](http://www.manna.me.uk/cic/)
+
   * [Riverside](https://www.riverside.org.uk/care-and-support/)
 
   * [St Leger
