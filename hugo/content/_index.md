@@ -60,6 +60,8 @@ partners:
     * [Hall Gate United Reformed Church
     ](https://urcyorkshire.org.uk/churchfinder/churches/hall-gate-urc/)
 
+    * [Manna Community CIC](http://www.manna.me.uk/cic/)
+
     * [St Leger
     Homes](http://www.stlegerhomes.co.uk/looking-for-a-home/housing-options-and-homelessness/)
 
