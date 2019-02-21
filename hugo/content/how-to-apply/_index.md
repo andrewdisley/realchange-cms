@@ -1,7 +1,7 @@
 ---
 title: How to Apply |
 header:
-  background: /assets/uploads/blank-4by3.png
+  background: /assets/uploads/moss.png
   hero: Real Change Rochdale **How to Apply**
 content: >-
   **If you are sleeping rough, homeless or at risk of homelessness and want to
