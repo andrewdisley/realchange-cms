@@ -8,17 +8,21 @@ content: >-
   apply for funds to help, the following local charities are Registered Partners
   and able to access Grants:**
 list: >-
+  Current partners accross the borough who can support you to make an
+  application to Real Change Rochdale are:
+
+
+  * [Angie's Angels](https://www.facebook.com/groups/987871367991380/)
+
+  * [Brentwood Day
+  Centre](https://www.ourrochdale.org.uk/kb5/rochdale/directory/service.page?id=7qV0nqw0O6c)
+
   * [Bond Board](https://www.thebondboard.org.uk/)
 
   * [Sanctuary Trust](http://www.sanctuarytrust.org.uk/) - including the Soup
   Kitchen and STEP Hostel
 
   * [Stepping Stone](https://www.stepping-stone.org.uk/)
-
-
-  We hope to register more partners soon to ensure more people who are homeless
-  or at risk can access the flexible funding they need to help end or prevent
-  their homelessness.
 partners:
   body: >-
     If your organisation provides support to people who are homeless in Rochdale
