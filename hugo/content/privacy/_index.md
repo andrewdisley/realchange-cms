@@ -112,7 +112,7 @@ partners:
     please contact us at:
 
 
-    Email: info@realchangerochdale.co.uk
+    Email: info@realchangeoldham.co.uk
   heading: Want to become a Partner?
 ---
 

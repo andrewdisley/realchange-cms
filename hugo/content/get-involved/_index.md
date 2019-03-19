@@ -94,7 +94,7 @@ content: >-
 
 
   Every bit helps, so if you want to help people in your area who are homeless,
-  please [get in touch](mailto:info@realchangerochdale.co.uk) or [sign up to our
+  please [get in touch](mailto:info@realchangeoldham.co.uk) or [sign up to our
   mailing list](http://eepurl.com/gbvxdn) so we can keep you up to date.
 section:
   body: >-
