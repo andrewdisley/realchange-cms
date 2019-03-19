@@ -48,7 +48,7 @@ Any changes to CSS / JS / Image assets here must be manually copied to the hugo 
 * setup identity in netlify
 * enable git gateway
 * set registration to invite only
-* setup ssl
-* update dns
+* update dns in 123-reg
+* go to 'domain settings' in netlify, and confirm ssl has been setup
 * create banner for ssn
 * update city data in ssn
