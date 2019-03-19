@@ -433,7 +433,7 @@ p + .button { margin-top: 1rem; }
 
 @media (min-width: 768px) { .header-wrap { padding-bottom: 1.5rem; } }
 
-.header-wrap::before { background-color: #388269; bottom: 0; content: ""; display: block; left: 172px; margin-right: -400px; position: absolute; right: 50%; top: 0; -webkit-transform: skew(-44deg, 0deg); -ms-transform: skew(-44deg, 0deg); transform: skew(-44deg, 0deg); -webkit-transform-origin: 0 0; -ms-transform-origin: 0 0; transform-origin: 0 0; -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none; z-index: 1; }
+.header-wrap::before { background-color: #E96187; bottom: 0; content: ""; display: block; left: 172px; margin-right: -400px; position: absolute; right: 50%; top: 0; -webkit-transform: skew(-44deg, 0deg); -ms-transform: skew(-44deg, 0deg); transform: skew(-44deg, 0deg); -webkit-transform-origin: 0 0; -ms-transform-origin: 0 0; transform-origin: 0 0; -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none; z-index: 1; }
 
 @media (min-width: 576px) { .header-wrap::before { left: 252px; margin-right: 0; right: -152px; } }
 
