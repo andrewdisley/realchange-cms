@@ -18,11 +18,11 @@ list: >-
 partners:
   body: >-
     If your organisation provides support to people who are homeless in Oldham
-    Borough - including Middleton, Heywood, Littlebrough and Milnrow - and you
+    Borough - including Chadderton, Failsworth, Royton and Shaw and Crompton - and you
     would like to become an approved Real Change partner, please contact us at:
 
 
-    <mailto:info@realchangerochdale.co.uk>
+    <mailto:info@realchangeoldham.co.uk>
   heading: Want to become a Partner?
 ---
 
