@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-gb"
-title = "Real Change Oldham"
+title = "Real Change Guildford"
 disableKinds = ["RSS", "taxonomyTerm"]
 [blackfriday]
    hrefTargetBlank = true

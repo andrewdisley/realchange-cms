@@ -1,10 +1,10 @@
 ---
 title: How it Works |
 header:
-  hero: Real Change Oldham **How it Works**
+  hero: Real Change Guildford **How it Works**
 intro:
   body: >-
-    **Real Change is a fund for Oldham that pays for items that local people
+    **Real Change is a fund for Guildford that pays for items that local people
     need to end and prevent homelessness.**
   button:
     text: Donate and make a real change
@@ -40,7 +40,7 @@ where:
 how:
   body: >-
     Your donation is combined with other donations into one central pot for
-    everyone in Oldham Borough. [Local charities](/how-to-apply/) and
+    everyone in Guildford Borough. [Local charities](/how-to-apply/) and
     organisations then work directly with individuals who are homeless, and
     apply for funds to pay for items they need. Money is transferred to the
     partner organisations to get where it is needed as quickly as possible, but

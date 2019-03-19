@@ -107,12 +107,12 @@ content: >-
   Analytics tracking software.
 partners:
   body: >-
-    If your organisation provides support to people who are homeless in Oldham
+    If your organisation provides support to people who are homeless in Guildford
     and you would like to discuss how to become an approved Real Change partner,
     please contact us at:
 
 
-    Email: info@realchangeoldham.co.uk
+    Email: info@realchangeguildford.co.uk
   heading: Want to become a Partner?
 ---
 

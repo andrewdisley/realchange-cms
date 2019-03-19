@@ -3,7 +3,7 @@ story: 'yes'
 title: Stuart's Story |
 date: 2018-08-25T20:24:10.347Z
 header:
-  hero: "Real Change in Oldham **\LStuart's Story**"
+  hero: "Real Change in Guildford **\LStuart's Story**"
 summary:
   heading: “Real Change helped me when I needed it most”
   image: /assets/uploads/story-stuart-5by2.jpg

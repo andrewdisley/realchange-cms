@@ -1,7 +1,7 @@
 ---
 title: Get Involved |
 header:
-  hero: Real Change Oldham **Get Involved**
+  hero: Real Change Guildford **Get Involved**
 content: >-
   # To join our mailing list, click [here](http://eepurl.com/gbvxdn)
 
@@ -11,7 +11,7 @@ content: >-
 
   Whether you're interested in getting involved personally, on behalf of your
   community group, workplace or college, or as a business, there are many ways
-  you can help. Get in touch by emailing <mailto:info@realchangerochdale.co.uk>
+  you can help. Get in touch by emailing <mailto:info@realchangeguildford.co.uk>
   with any inquiries.
 
 
@@ -94,7 +94,7 @@ content: >-
 
 
   Every bit helps, so if you want to help people in your area who are homeless,
-  please [get in touch](mailto:info@realchangeoldham.co.uk) or [sign up to our
+  please [get in touch](mailto:info@realchangeguildford.co.uk) or [sign up to our
   mailing list](http://eepurl.com/gbvxdn) so we can keep you up to date.
 section:
   body: >-
@@ -103,8 +103,8 @@ section:
     or **Give Help** please go to 
 
 
-    **[streetsupport.net/oldham](http://www.streetsupport.net/oldham)**
-  heading: Street Support Oldham
+    **[streetsupport.net/guildford](http://www.streetsupport.net/guildford)**
+  heading: Street Support Guildford
   image: /assets/uploads/streetsupport.png
 ---
 

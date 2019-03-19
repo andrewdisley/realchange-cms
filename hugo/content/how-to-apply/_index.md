@@ -1,7 +1,7 @@
 ---
 title: How to Apply |
 header:
-  hero: Real Change Oldham **How to Apply**
+  hero: Real Change Guildford **How to Apply**
 content: >-
   **If you are sleeping rough, homeless or at risk of homelessness and want to
   apply for funds to help you, get in touch with one of our partner
@@ -12,17 +12,17 @@ list: >-
 
   * Petrus
 
-  * Oldham Borough Housing
+  * Guildford Borough Housing
 
   * Riverside Housing Association
 partners:
   body: >-
-    If your organisation provides support to people who are homeless in Oldham
-    Borough - including Chadderton, Failsworth, Royton and Shaw and Crompton - and you
+    If your organisation provides support to people who are homeless in Guildford
+    Borough - and you
     would like to become an approved Real Change partner, please contact us at:
 
 
-    <mailto:info@realchangeoldham.co.uk>
+    <mailto:info@realchangeguildford.co.uk>
   heading: Want to become a Partner?
 ---
 
