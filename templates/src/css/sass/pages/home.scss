@@ -155,20 +155,20 @@
 // }
 
 .home-stories-header {
-  background-image: url(assets/home-stories-header.png), url(assets/home-stories-header.png);
-  background-repeat: no-repeat;
-  background-position: 50% 0%, 50% 100%;
-  background-size: 100% 10px, 100% 10px;
+  // background-image: url(assets/home-stories-header.png), url(assets/home-stories-header.png);
+  // background-repeat: no-repeat;
+  // background-position: 50% 0%, 50% 100%;
+  // background-size: 100% 10px, 100% 10px;
   margin-bottom: 1.25rem;
   margin-left: (0.75rem + 1.625rem);
   margin-right: (0.75rem + 1.625rem);
-  padding-bottom: 0.25rem;
-  padding-top: 0.25rem;
-  position: relative;
+  // padding-bottom: 0.25rem;
+  // padding-top: 0.25rem;
+  // position: relative;
   text-align: center;
 
   @include media-breakpoint-up(md) {
-    margin-bottom: 3.5rem;
+    margin-bottom: 2rem;
   }
 
   @media (min-width: 900px) {
@@ -181,42 +181,42 @@
     margin-right: 0;
   }
 
-  &::before,
-  &::after {
-    background-image: url(assets/home-stories-header-ba.png);
-    background-position: 0 50%;
-    background-repeat: no-repeat;
-    bottom: 0;
-    content: "";
-    display: block;
-    height: 100%;
-    position: absolute;
-    top: 0;
-    width: 26px;
-  }
+  // &::before,
+  // &::after {
+  //   background-image: url(assets/home-stories-header-ba.png);
+  //   background-position: 0 50%;
+  //   background-repeat: no-repeat;
+  //   bottom: 0;
+  //   content: "";
+  //   display: block;
+  //   height: 100%;
+  //   position: absolute;
+  //   top: 0;
+  //   width: 26px;
+  // }
 
-  &::before {
-    left: -1.625rem;
-  }
+  // &::before {
+  //   left: -1.625rem;
+  // }
 
-  &::after {
-    background-position: 100% 50%;
-    right: -1.625rem;
-  }
+  // &::after {
+  //   background-position: 100% 50%;
+  //   right: -1.625rem;
+  // }
 }
 
 .home-stories-title {
   margin-bottom: 0;
-  padding: 0.75rem 1rem;
+  // padding: 0.75rem 1rem;
 }
 
 // MS Edge 13&14
 //
-@supports (-ms-ime-align: auto) {
-  .home-stories-title {
-    padding-top: 0.5rem;
-  }
-}
+// @supports (-ms-ime-align: auto) {
+//   .home-stories-title {
+//     padding-top: 0.5rem;
+//   }
+// }
 
 .home-stories-body {
   margin-bottom: 2rem;

@@ -45,6 +45,10 @@
   background-image: url(assets/edge-rc-dive-top.png);
 }
 
+.edge-rc-moss-top::before {
+  background-image: url(assets/edge-rc-moss-top.png);
+}
+
 .edge-rc-sunny-top::before {
   background-image: url(assets/edge-rc-sunny-top.png);
 }
@@ -102,5 +106,17 @@
 
   &::after {
     background-image: url(assets/edges-rc-dive-bottom.png);
+  }
+}
+
+.edges-rc-moss {
+  background-image: url(assets/edges-rc-moss-left.png), url(assets/edges-rc-moss-right.png);
+
+  &::before {
+    background-image: url(assets/edges-rc-moss-top.png);
+  }
+
+  &::after {
+    background-image: url(assets/edges-rc-moss-bottom.png);
   }
 }

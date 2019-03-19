@@ -5,7 +5,7 @@
 
   <section class="section home-intro">
     <div class="container">
-      <div class="boxed edges bg-rc-sunny home-intro-whatis">
+      <div class="boxed edges bg-rc-flame home-intro-whatis">
         <div class="boxed-inner">
           <h2>{{ .Params.whatis.heading }}</h2>
           {{ $whatisBodyMarkdown := .Params.whatis.body | markdownify }}
@@ -36,10 +36,10 @@
   </section>
 
   {{ with .Site.GetPage "section" "stories" }}{{ if eq .Params.showonhome true }}
-  <section class="section home-stories bg-rc-aubergine edge edge-top edge-rc-aubergine-top">
+  <section class="section home-stories bg-rc-flame edge edge-top edge-rc-flame-top">
     <div class="container">
       <div class="home-stories-header">
-        <h2 class="h1 home-stories-title bg-rc-sunny">
+        <h2 class="h1 home-stories-title">
           {{ with .Site.GetPage "section" "stories" }}{{ .Params.heading }}{{ end }}
         </h2>
       </div>
@@ -47,7 +47,7 @@
         {{ range first 2 (where .Site.RegularPages.ByDate.Reverse "Section" "stories") }}
         <div class="card-story card-stroy-witharrow">
           <h3 class="card-story-title">{{ .Params.summary.heading }}</h3>
-          <div class="card-story-image aspect aspect-5by2 bg-rc-dream">
+          <div class="card-story-image aspect aspect-5by2 bg-rc-spark">
             <img alt="" src="{{ .Params.summary.image }}">
           </div>
           <a class="card-story-cta" href="{{ .Permalink }}">{{ .Params.summary.text }}</a>
@@ -55,7 +55,7 @@
         {{ end }}
       </div>
       <div class="home-stories-footer text-center">
-        {{ with .Site.GetPage "section" "stories" }}<a class="button button-primary" href="{{ .Params.button.url }}">{{ .Params.button.text }}</a>{{ end }}
+        {{ with .Site.GetPage "section" "stories" }}<a class="button" href="{{ .Params.button.url }}">{{ .Params.button.text }}</a>{{ end }}
       </div>
     </div>
   </section>

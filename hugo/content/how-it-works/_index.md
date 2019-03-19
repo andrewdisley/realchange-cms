@@ -1,47 +1,56 @@
 ---
 title: How it Works |
 header:
-  hero: Real Change in Wigan & Leigh **How it Works**
+  hero: Real Change Guildford **How it Works**
 intro:
   body: >-
-    **Real Change is a fund for Wigan & Leigh that pays for items that local
-    people need to end and prevent homelessness.**
+    **Real Change is a fund for Guildford that pays for items that local people
+    need to end and prevent homelessness.**
   button:
     text: Donate and make a real change
-    url: 'https://www.justgiving.com/campaign/realchangewiganandleigh'
+    url: 'https://secure.thebiggive.org.uk/projects/view/31176'
 where:
   body: >-
-    For every £1 you give, 85p goes directly to helping someone in need, and not
-    a penny on salaries for Campaign.  This is because Real Change partners have
-    committed the time and energy of their staff to help run the campaign for
-    free.
+    All but 5% goes **directly** to people who are homeless via partner
+    charities. In fact, if you select gift aid while donating we can even
+    increase your donation! 
+
+
+    Not a penny goes to salaries for running the campaign. This is because Real
+    Change partners have committed the time and energy of their staff to help
+    run the campaign for free.
   heading: Where does your money go?
   image: /assets/uploads/howitworks-stats.png
   stat1:
-    count: 85%
+    count: 95%
     image: /assets/uploads/howitworks-stat-85.png
     text: Goes to the individual
   stat2:
-    count: 10%
-    image: /assets/uploads/howitworks-stat-10.png
-    text: Goes to local charity Forever Manchester to manage the fund safely
-  stat3:
     count: 5%
+    image: /assets/uploads/howitworks-stat-10.png
+    text: >-
+      covers the processing fee for the donation website, which also allows us
+      to claim back gift aid
+  stat3:
+    count: +20%
     image: /assets/uploads/howitworks-stat-5.png
-    text: Goes to Just Giving for administering donations
+    text: >-
+      Is claimed back through gift aid (so long as you select that option when
+      donating!)
 how:
   body: >-
-    Your donation is combined with other donations in one central pot. [Local
-    charities](/how-to-apply/) and organisations then work directly with
-    individuals who are homeless, and apply for funds to pay for items they
-    need. Money is transferred to the partner organisations to get where it is
-    needed as quickly as possible. 
+    Your donation is combined with other donations into one central pot for
+    everyone in Guildford Borough. [Local charities](/how-to-apply/) and
+    organisations then work directly with individuals who are homeless, and
+    apply for funds to pay for items they need. Money is transferred to the
+    partner organisations to get where it is needed as quickly as possible, but
+    is never given out as cash. 
 
 
-    There are two types of application:
+    There are three types of application:
   button:
     text: Donate and make a real change
-    url: 'https://www.justgiving.com/campaign/realchangewiganandleigh'
+    url: 'https://secure.thebiggive.org.uk/projects/view/31176'
   card1:
     body: >-
       If the request is for under £100, applications which meet the criteria are
@@ -50,7 +59,7 @@ how:
 
       This excludes cash, emergency accommodation, food or other items which are
       available for free elsewhere.
-    heading: Under £100
+    heading: £20-100
     subheading: >-
       (e.g. Education or training courses, essential household items, clothes
       for interviews)

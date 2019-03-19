@@ -1,39 +1,28 @@
 ---
 title: How to Apply |
 header:
-  hero: Real Change in Wigan & Leigh **How to Apply**
+  hero: Real Change Guildford **How to Apply**
 content: >-
   **If you are sleeping rough, homeless or at risk of homelessness and want to
   apply for funds to help you, get in touch with one of our partner
   organisations who will work with you to apply:**
 list: >-
-  * [Addaction](https://www.addaction.org.uk/services/addaction-wigan-leigh)
+  * [S](https://www.addaction.org.uk/services/addaction-wigan-leigh)anctuary
+  Trust
 
-  * [EDs Homes](https://www.edshomes.org.uk/housing)
+  * Petrus
 
-  * [Helping The Homeless](https://www.helpingthehomelesscharity.co.uk/)
+  * Guildford Borough Housing
 
-  * [Jigsaw Homes](https://www.jigsawhomes.org.uk/)
-
-  * [Riverside](https://www.riverside.org.uk/care-and-support/)
-
-  * [The Brick](http://www.thebrick.org.uk/)
-
-  * [Wigan Wellbeing & Resilience](https://www.facebook.com/WiganWellbeing/)
-
-  * [Your Housing
-  Group](https://www.yourhousinggroup.co.uk/find-a-home/young-peoples-housing/foyers/)
+  * Riverside Housing Association
 partners:
   body: >-
-    If your organisation provides support to people who are homeless in Wigan &
-    Leigh and you would like to discuss how to become an approved Real Change
-    partner, please contact us at:
+    If your organisation provides support to people who are homeless in Guildford
+    Borough - and you
+    would like to become an approved Real Change partner, please contact us at:
 
 
-    Tel: 07788 105 078
-
-
-    Email: <mailto:info@realchangewiganandleigh.co.uk>
+    <mailto:info@realchangeguildford.co.uk>
   heading: Want to become a Partner?
 ---
 
