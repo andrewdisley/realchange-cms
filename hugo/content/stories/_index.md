@@ -2,7 +2,7 @@
 title: Stories |
 showonhome: false
 header:
-  hero: Real Change in Rochdale **Stories**
+  hero: Real Change in Oldham **Stories**
 intro: >
   **Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque laborum
   voluptatibus, eius in a quas aspernatur harum autem, amet, nostrum libero
