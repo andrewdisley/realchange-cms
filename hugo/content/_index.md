@@ -1,8 +1,9 @@
 ---
 title: Welcome to
 header:
+  background: /assets/uploads/blank-4by3.png
   classes: home-header
-  hero: '<span>Real Change Oldham:</span> Change for real'
+  hero: Let's make a <span>Real Change </span> to homelessness in Oldham
 whatis:
   body: >-
     **Real Change pays for practical items individuals need to build lives away
@@ -32,15 +33,15 @@ how:
 partners:
   body: >-
     **If you are sleeping rough, homeless or at risk of homelessness in the
-    borough of Oldham and want to apply for funds, get in touch with one of
-    our partner organisations who will work with you to apply for funds on your
+    borough of Oldham and want to apply for funds, get in touch with one of our
+    partner organisations who will work with you to apply for funds on your
     behalf.**
 
 
     Real Change Oldham currently works in partnership with the following
     organisations:
   heading: Help from our Partners
-  image: ''
+  image: /assets/uploads/blank-4by3.png
   list: >-
     * [S](https://www.addaction.org.uk/services/addaction-wigan-leigh)anctuary
     Trust
