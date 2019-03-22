@@ -12,6 +12,18 @@
     </div>
   </div>
 
+  <section class="section home-intro">
+    <div class="container">
+      <div class="boxed edges bg-rc-flame">
+        <div class="boxed-inner">
+          <h2>{{ .Params.champions.title }}</h2>
+          {{ $championsBodyMarkdown := .Params.champions.body | markdownify }}
+          {{ if not ( strings.Contains $championsBodyMarkdown "<p>" ) }}<p>{{ $championsBodyMarkdown }}</p>{{ else }}{{ $championsBodyMarkdown }}{{ end }}
+        </div> 
+      </div>
+    </div>
+  </section>
+
   {{ if .Params.section }}
   <section class="section bg-rc-flame pre-footer-withcityscape edge edge-top edge-rc-flame-top">
     <div class="container">
