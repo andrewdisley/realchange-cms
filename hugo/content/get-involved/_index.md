@@ -3,7 +3,7 @@ title: Get Involved |
 header:
   hero: Real Change Oldham **Get Involved**
 content: >-
-  # To join our mailing list, click [here](http://eepurl.com/gbvxdn)
+  # To join our mailing list, click [here](http://eepurl.com/ghoer9)
 
 
   <br>
@@ -11,8 +11,9 @@ content: >-
 
   Whether you're interested in getting involved personally, on behalf of your
   community group, workplace or college, or as a business, there are many ways
-  you can help. Get in touch by emailing <mailto:info@realchangerochdale.co.uk>
-  with any inquiries.
+  you can help. Get in touch by emailing
+  [info@realchangeoldham.co.uk](mailto:info@realchangerochdale.co.uk) with any
+  inquiries.
 
 
   <br>
