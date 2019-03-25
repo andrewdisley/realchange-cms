@@ -24,21 +24,15 @@ content: >-
   * Threshold [Inside Out Starter Packs](http://thp.org.uk/services/inside-out):
   support workers for people leaving homelessness or temporary accomodation can
   apply for up to £50 worth of household items to help start their home,
-  including pots, pans and small eletrical items, 
+  including pots, pans and small electrical items, 
 
 
   **If you are sleeping rough, homeless or at risk of homelessness and want to
-  apply for funds to help you, get in touch with one of our partner
-  organisations who will work with you to apply:**
-list: >-
-  * [S](https://www.addaction.org.uk/services/addaction-wigan-leigh)anctuary
-  Trust
-
-  * Petrus
-
-  * Oldham Borough Housing
-
-  * Riverside Housing Association
+  apply for funds to help you, we are currently signing up partners who will be
+  able to apply on your behalf. In the meantime, please go to**[
+  **streetsupport.net/Oldham**](http://streetsupport.net/Oldham) **for support
+  available near you.**
+list: Registered partner organisations will be listed here when the fund is live
 partners:
   body: >-
     If your organisation provides support to people who are homeless in Oldham
