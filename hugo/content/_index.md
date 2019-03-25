@@ -1,7 +1,7 @@
 ---
 title: Welcome to
 header:
-  background: /assets/uploads/blank-4by3.png
+  background: ''
   classes: home-header
   hero: Let's make a <span>Real Change </span> to homelessness in Oldham
 whatis:
