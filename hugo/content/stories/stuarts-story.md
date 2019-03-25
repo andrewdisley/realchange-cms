@@ -1,40 +1,21 @@
 ---
 story: 'yes'
-title: Stuart's Story |
+title: John's Story |
 date: 2018-08-25T20:24:10.347Z
 header:
-  hero: "Real Change in Rochdale **\LStuart's Story**"
+  hero: "Real Change in Rochdale \L**John's Story**"
 summary:
-  heading: “Real Change helped me when I needed it most”
-  image: /assets/uploads/story-stuart-5by2.jpg
-  text: Read Stuart's story
+  heading: '“If it wasn''t for Real Change, i don''t know what i''d do”'
+  image: /assets/uploads/john-5x2.png
+  text: Read John's story
 content:
-  age: Late 40s
-  body: "## \LStuart's Story *\n\nStuart is an ex-serviceman who had been living in a tent for over a year. Local organisation EDs Homes had been in touch with him and building up their trust and relationship.\n\nJust before Real Change was launched, Stuart received a job offer for full time work. This was great news, but very hard to take up without secure, stable accomodation where he could properly sleep, live and go out to work without worrying about his things being safe.\n\nEDs enquired whether this would be suitable for Real Change, and started looking for appropriate places Stuart could live. When one was found an application was put in and Real Change was able to help cover the deposit and first months’ rent. Having been out of work and with no landlord who could provide a reference, the grant was about more than just money. It also unlocked a door into the private sector when landlords might otherwise have been nervous about taking on a new tenant.\n\n**There were tears in Stuart’s eyes when he moved into the flat, and he was immediately offering to pay it back!**"
-  help: Received help with deposit and rent up front for a flat
-  image: /assets/uploads/story-stuart-4by3.jpg
-  name: Stuart
+  age: '29'
+  body: "## John's Story\n\nHomelessness is a difficult experience, but John got used to it.  After a while it didn’t feel so strange, and in a funny way there is a kind of freedom to it.  But after a while John yearned for a place to call his own.  His own home, somewhere safe, stable and warm.  He didn’t much care where he lived, as long as he had his own set of keys. \rAfter a long wait on the housing register, John bid for a one bedroom flat and was successful.  Finally he would move from emergency overnight provision into his own tenancy."
+  help: Electric meter top-up to make new flat livable
+  image: /assets/uploads/john-rochdale.jpg
+  name: John
 realchange:
-  body: >-
-    Our first concern is making sure he’s got enough to cover his own costs, but
-    his generosity after everything he’s been through is an example to everyone.
-    If he has the cash spare in the future it will go straight back into the pot
-    to help others who are homeless!
-
-
-    Since moving in, Stuart has decorated the flat to make it feel like home and
-    is working hard at his new job. He is also spending lots of time with his
-    family, something that is very hard to do if you are living in a tent, an
-    aspect of homelessness we often forget.
-
-
-    It’s been a privilege to help Stuart, and we look forward to hearing more
-    about his journey in the future!
-
-
-
-
-    \*names have been changed for the benefit of Stuart and his family
+  body: "On the day John moved in he hadn’t realised he would need to top up his electric metre; it had been such a long time since he had his own tenancy and in the excitement he hadn’t considered this.  Unfortunately he would have to wait a week until he could top up his metre, and as the boiler required electric this meant no heating (not to mention a kettle, a tv or anything else that we take for granted in our own homes)! \n\nAfter a few days of no electric and no heating, John thought about giving up.  \"I was freezing in the flat and couldn’t do anything there\" John said, \"In fact i might as well have been homeless again\".  At least in the emergency night shelter he could have a brew and watch Coronation Street!  \r\n\nThat is when local charity Sanctuary Trust - who had been support John in the night shelter - put an application in to Real Change. Rochdale. Thanks for donations to the fund, they we were able to access £20 for John's electric meter.  ‘I don’t know what I would do if it wasn’t for the Real Change.  I felt like posting my keys in and getting off’\", John said after. For just a small amount, he didn't and had the support to keep on the path to rebuilding his life away from streets."
   button:
     text: Donate and make a real change
     url: 'https://secure.thebiggive.org.uk/projects/view/31176'
