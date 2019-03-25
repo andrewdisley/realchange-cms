@@ -1,6 +1,6 @@
 ---
 title: Stories |
-showonhome: false
+showonhome: true
 header:
   hero: Real Change in Rochdale **Stories**
 intro: >
@@ -9,7 +9,7 @@ intro: >
   facilis. Neque impedit quidem fugit adipisci, eius perspiciatis. Maiores?**
 heading: |-
   Your donations go toward real people experiencing homelessness in our area,
-  people like Alison and Stuart.
+  people like John and Paul.
 button:
   text: Donate and make a real change
   url: 'https://secure.thebiggive.org.uk/projects/view/31176'
