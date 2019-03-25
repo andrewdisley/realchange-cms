@@ -3,7 +3,7 @@ title: Welcome to
 header:
   background: ''
   classes: home-header
-  hero: Let's make a <span>Real Change </span> to homelessness in Oldham
+  hero: Make a Real Change to homelessness in Oldham
 whatis:
   body: >-
     **Real Change pays for practical items individuals need to build lives away
