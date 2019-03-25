@@ -6,7 +6,7 @@ header:
   hero: Real Change Rochdale **Paul's Story***
 summary:
   heading: Working together prevents pensioner losing their home
-  image: /assets/uploads/apartment-carpet-chair-105004.jpg
+  image: /assets/uploads/chair.png
   text: Read Paul's Story
 content:
   age: '68'
