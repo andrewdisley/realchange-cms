@@ -96,6 +96,13 @@ content: >-
   Every bit helps, so if you want to help people in your area who are homeless,
   please [get in touch](mailto:info@realchangeguildford.co.uk) or [sign up to our
   mailing list](http://eepurl.com/gbvxdn) so we can keep you up to date.
+
+champions:
+  title: Our Champions
+  
+  body: >-
+    A huge thank you to everyone who attended our community fun day at Burnside Community Centre in Middleton last week with Onward Homes. There were lots of exciting activities for kids like face painting and craft sessions and we raised £70 for Real Change Rochdale.
+
 section:
   body: >-
     The Street Support Network is an online resource dedicated to connecting
