@@ -6,15 +6,15 @@ header:
   hero: Make a Real Change to homelessness in Oldham
 whatis:
   body: >-
-    **Real Change pays for practical items individuals need to build lives away
-    from the streets.**
+    **Real Change covers essential costs that help people who are homeless or at
+    risk in our area build lives away from the streets.**
 
 
-    Together we **can** make a difference, so donate now to help tackle
-    homelessness in our community.
+    By giving a little you could do a lot, so donate now to help end
+    homelessness in Oldham.
   button:
-    text: Donate and make a Real Change in Oldham
-    url: 'https://secure.thebiggive.org.uk/projects/view/31176'
+    text: Donate to make a Real Change
+    url: url here
   heading: What is Real Change?
   image: assets/uploads/home-intro-whatis.png
 who:
@@ -33,26 +33,19 @@ how:
 partners:
   body: >-
     **If you are sleeping rough, homeless or at risk of homelessness in the
-    borough of Oldham and want to apply for funds, get in touch with one of our
-    partner organisations who will work with you to apply for funds on your
-    behalf.**
+    borough of Oldham and want to apply for funds, our partner organisations can
+    apply for funds on your behalf.**
 
 
-    Real Change Oldham currently works in partnership with the following
-    organisations:
+    Real Change Oldham is currently signing up local charities who will be able
+    to help. In the meantime, please go to
+    [streetsupport.net/Oldham](https://streetsupport.net/Oldham) for other
+    support available in your area.
   heading: Help from our Partners
-  image: /assets/uploads/blank-4by3.png
+  image: ''
   list: >-
-    * [S](https://www.addaction.org.uk/services/addaction-wigan-leigh)anctuary
-    Trust
-
-    * Petrus
-
-    * Oldham Borough Housing
-
-    * Riverside Housing Association
-
-    *
+    If you'd like to become a registered partner organisation, contact
+    info@realchangeoldham.co.uk
   youtube: 'https://www.youtube.com/embed/h5THJZgLznM'
 ---
 
