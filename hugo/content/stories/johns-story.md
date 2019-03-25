@@ -3,11 +3,11 @@ story: 'yes'
 title: John's Story |
 date: 2019-03-25T15:09:31.733Z
 header:
-  background: /assets/uploads/john-5x2.png
+  background: ''
   hero: Real Change Rochdale **John's Story***
 summary:
   heading: '"If it wasn''t for Real Change Rochdale, I don''t what i''d do"'
-  image: /assets/uploads/john-rochdale.jpg
+  image: /assets/uploads/john-5x2.png
   text: Read John's Story
 content:
   age: '29'
