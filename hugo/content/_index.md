@@ -3,7 +3,7 @@ title: Welcome to
 header:
   background: ''
   classes: home-header
-  hero: Make a Real Change to homelessness in Oldham
+  hero: Make a <span> Real Change to homelessness <span> in Oldham
 whatis:
   body: >-
     **Real Change covers essential costs that help people who are homeless or at
