@@ -130,7 +130,7 @@ collections:
               {label: "Image", name: "image", widget: "image"}
             ]}
           - {label: Champions, name: "champions", widget: "object", fields: [
-              {label: "Title", name: "title", widget: "string"}
+              {label: "Title", name: "title", widget: "string"},
               {label: "Body", name: "content", widget: "markdown"}
           ]}
           
