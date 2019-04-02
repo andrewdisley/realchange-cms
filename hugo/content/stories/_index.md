@@ -1,6 +1,6 @@
 ---
 title: Stories |
-showonhome: false
+showonhome: true
 header:
   hero: Real Change in Guildford **Stories**
 intro: >
@@ -9,9 +9,9 @@ intro: >
   facilis. Neque impedit quidem fugit adipisci, eius perspiciatis. Maiores?**
 heading: |-
   Your donations go toward real people experiencing homelessness in our area, 
-  people like Alison and Stuart.
+  people like x and y
 button:
   text: Donate and make a real change
-  url: 'https://www.justgiving.com/campaign/realchangerochdale'
+  url: donate
 ---
 
