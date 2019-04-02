@@ -110,6 +110,11 @@ section:
   image: /assets/uploads/streetsupport.png
 champions:
   title: Upcoming Events
-  content: Insert upcoming fundraising events here
+  content: |-
+    Insert upcoming fundraising events here
+
+    Here
+
+    Here
 ---
 
