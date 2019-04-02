@@ -2,7 +2,7 @@
 title: Welcome to
 header:
   classes: home-header
-  hero: '<span>Real Change Guildford:</span> Change for real'
+  hero: <span>Real Change Guildford</span>
 whatis:
   body: >-
     **Real Change pays for practical items individuals need to build lives away
@@ -12,8 +12,8 @@ whatis:
     Together we **can** make a difference, so donate now to help tackle
     homelessness in our community.
   button:
-    text: Donate and make a Real Change in Guildford
-    url: 'https://secure.thebiggive.org.uk/projects/view/31176'
+    text: Donate now and make a Real Change in Guildford
+    url: insert link
   heading: What is Real Change?
   image: assets/uploads/home-intro-whatis.png
 who:
@@ -41,17 +41,7 @@ partners:
     organisations:
   heading: Help from our Partners
   image: ''
-  list: >-
-    * [S](https://www.addaction.org.uk/services/addaction-wigan-leigh)anctuary
-    Trust
-
-    * Petrus
-
-    * Guildford Borough Housing
-
-    * Riverside Housing Association
-
-    *
+  list: insert partner organisations here
   youtube: 'https://www.youtube.com/embed/h5THJZgLznM'
 ---
 
