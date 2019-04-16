@@ -47,7 +47,7 @@ how:
     is never given out as cash. 
 
 
-    There are three types of application:
+    There are two types of application:
   button:
     text: Donate and make a real change
     url: 'https://secure.thebiggive.org.uk/projects/view/31176'
