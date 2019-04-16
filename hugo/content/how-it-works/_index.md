@@ -11,7 +11,7 @@ intro:
     url: 'https://secure.thebiggive.org.uk/projects/view/31176'
 where:
   body: >-
-    All but 5% goes **directly** to people who are homeless via partner
+    All but 15% goes **directly** to people who are homeless via partner
     charities. In fact, if you select gift aid while donating we can even
     increase your donation! 
 
@@ -22,21 +22,21 @@ where:
   heading: Where does your money go?
   image: /assets/uploads/howitworks-stats.png
   stat1:
-    count: 95%
+    count: 85%
     image: /assets/uploads/howitworks-stat-85.png
     text: Goes to the individual
   stat2:
     count: 5%
     image: /assets/uploads/howitworks-stat-10.png
     text: >-
-      covers the processing fee for the donation website, which also allows us
+      Covers the processing fee for the donation website, which also allows us
       to claim back gift aid
   stat3:
-    count: +20%
+    count: 10%
     image: /assets/uploads/howitworks-stat-5.png
     text: >-
-      Is claimed back through gift aid (so long as you select that option when
-      donating!)
+      Goes to Voluntary Action South West Surrey who administrate the donation
+      pot. 
 how:
   body: >-
     Your donation is combined with other donations into one central pot for
