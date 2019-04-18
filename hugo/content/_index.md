@@ -41,18 +41,15 @@ partners:
 
     * [Bond Board](https://www.thebondboard.org.uk/)
 
-    * [Petrus](https://www.petrus.org.uk/)
-
-    * [Rochdale Boroughwide Housing](https://www.rbh.org.uk/)
-
-    * [Riverside Housing Association](https://www.riverside.org.uk/)
+    * [Brentwood Day
+    Centre](https://www.homeless.org.uk/homeless-england/service/middleton-day-centre)
 
     * [Sanctuary Trust](http://www.sanctuarytrust.org.uk/) - including the Soup
     Kitchen and STEP Hostel
 
     * [Stepping Stone](https://www.stepping-stone.org.uk/)
 
-    * [Turning Point](http://wellbeing.turning-point.co.uk/rochdale-and-oldham/)
+    * [WHAG](http://www.whag.info/)
   youtube: 'https://www.youtube.com/embed/h5THJZgLznM'
 ---
 
