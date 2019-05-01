@@ -41,7 +41,46 @@ partners:
     organisations:
   heading: Help from our Partners
   image: ''
-  list: insert partner organisations here
+  list: >-
+    [Vaughan
+    House](https://www.riverside.org.uk/in-your-neighbourhood/surrey/care-and-support/vaughan-house-surrey/)
+
+
+    [Number Five Project](http://numberfiveproject.co.uk/)
+
+
+    [Homeless Outreach and Support Team
+    (HOST](https://www.guildford.gov.uk/roughsleeping))
+
+
+    [Catalyst](https://www.catalystsupport.org.uk/)
+
+
+    [Guildford Action](https://www.surreycommunity.info/guildfordaction/)
+
+
+    [i-access](https://www.surreydrugandalcohol.com/contact-us)
+
+
+    [Cyrenian
+    House](https://www.homeless.org.uk/homeless-england/service/stonham-cyrenian-house)
+
+
+    [Citizens Advice
+    Guildford](https://www.guildfordcab.org.uk/get-advice/visit-us/)
+
+
+    [Mulberry House](https://saha.org.uk/property/mulberry-house/)
+
+
+    [Adult Social Care](https://www.surreyinformationpoint.org.uk/Services/3112)
+
+
+    [Community Mental Health Recovery
+    Services](https://www.sabp.nhs.uk/our-services/mental-health/community-services/CMHRSguildford)
+
+
+    [The Salvation Army](https://www.salvationarmy.org.uk/guildford)
   youtube: 'https://www.youtube.com/embed/h5THJZgLznM'
 ---
 
