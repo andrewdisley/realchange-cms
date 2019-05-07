@@ -132,7 +132,6 @@ collections:
           - {label: "How you can help", name: "howYou", widget: "object", fields: [
               {label: "Heading", name: "heading", widget: "string"},
               {label: "Body", name: "body", widget: "markdown"},
-              {label: "Image", name: "image", widget: "image"}
             ]}
           - {label: "Take part", name: "takePart", widget: "object", fields: [
               {label: "Heading", name: "heading", widget: "string"},
