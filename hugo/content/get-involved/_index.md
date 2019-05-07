@@ -13,6 +13,16 @@ content: >-
 
   ## click [here](http://eepurl.com/gbvxdn) to join our mailing list and stay up
   to date with how we're making a Real Change to homelessness in Guildford
+section:
+  body: >-
+    The Street Support Network is an online resource dedicated to connecting
+    people and organisations locally. To discover how else you can **Find Help**
+    or **Give Help** please go to 
+
+
+    **[streetsupport.net/gu](http://www.streetsupport.net/oldham)**ildford
+  heading: Street Support Guildford
+  image: /assets/uploads/streetsupport.png
 howYou:
   body: >-
     Whether you're interested in getting involved personally, on behalf of your
@@ -29,9 +39,8 @@ howYou:
 
 
     <br>
-  image: /assets/uploads/streetsupport.png
   heading: How you can help make a Real Change.
-
+  image: /assets/uploads/streetsupport.png
 takePart:
   body: >-
     Sign up to a sponsored run, walk or anything you like and raise money for
@@ -41,8 +50,7 @@ takePart:
     Check out [Just Giving's Fundraising
     Toolkit](https://www.justgiving.com/fundraising/tips/fundraising-page-toolkit)
     too, including Top 10 Tips and ideas for promoting your page.
-  heading: "Take part in a fundraising challenge"
-
+  heading: Take part in a fundraising challenge
 inviteUs:
   body: >-
     Our Action Group includes people with lived experience of homelessness as
@@ -57,7 +65,19 @@ inviteUs:
     church, a concert/cultural event, a conference your business in putting on
     or your sports team's AGM. 
   heading: Invite us to speak at an event
+shareSkills:
+  body: >-
+    What are you good at? What do you know lots about? How do you think a
+    campaign like ours could benefit from that? There are no bad ideas and we'd
+    love to hear yours! 
 
+    <br>
+
+    Every bit helps, so if you want to help people in your area who are
+    homeless, please [get in touch](mailto:info@realchangeguildford.co.uk) or
+    [sign up to our mailing list](http://eepurl.com/gbvxdn) so we can keep you
+    up to date.
+  heading: Share your skills or Knowledge
 playARole:
   body: >-
     There are lots of roles that need doing to make the campaign a success,
@@ -82,30 +102,5 @@ playARole:
 
     <br>
   heading: Play a role in organising something
-
-shareSkills:
-  body: >-
-    What are you good at? What do you know lots about? How do you think a
-    campaign like ours could benefit from that? There are no bad ideas and we'd
-    love to hear yours! 
-    
-    <br>
-    
-    Every bit helps, so if you want to help people in your area who are
-    homeless, please [get in touch](mailto:info@realchangeguildford.co.uk) or
-    [sign up to our mailing list](http://eepurl.com/gbvxdn) so we can keep you
-    up to date.
-  heading: Share your skills or Knowledge
-
-section:
-  body: >-
-    The Street Support Network is an online resource dedicated to connecting
-    people and organisations locally. To discover how else you can **Find Help**
-    or **Give Help** please go to 
-
-
-    **[streetsupport.net/oldham](http://www.streetsupport.net/oldham)**
-  heading: Street Support Oldham
-  image: /assets/uploads/streetsupport.png
 ---
 
