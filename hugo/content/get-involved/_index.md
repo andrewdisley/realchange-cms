@@ -20,7 +20,7 @@ section:
     or **Give Help** please go to 
 
 
-    **[streetsupport.net/gu](http://www.streetsupport.net/oldham)**ildford
+    **[streetsupport.net/guildford](http://www.streetsupport.net/guildford)**
   heading: Street Support Guildford
   image: /assets/uploads/streetsupport.png
 howYou:
