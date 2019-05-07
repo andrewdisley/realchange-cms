@@ -2,7 +2,7 @@
 title: Welcome to
 header:
   classes: home-header
-  hero: <span>Real Change Guildford</span>
+  hero: Make a <span> Real Change to homelessness </span> in Guildford
 whatis:
   body: >-
     **Real Change pays for practical items individuals need to build lives away

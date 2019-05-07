@@ -129,11 +129,27 @@ collections:
               {label: "Body", name: "body", widget: "markdown"},
               {label: "Image", name: "image", widget: "image"}
             ]}
-          - {label: Champions, name: "champions", widget: "object", fields: [
-              {label: "Title", name: "title", widget: "string"},
-              {label: "Body", name: "content", widget: "markdown"}
-          ]}
-          
+          - {label: "How you can help", name: "howYou", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"},
+              {label: "Image", name: "image", widget: "image"}
+            ]}
+            - {label: "Take part", name: "takePart", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"},
+            ]}
+            - {label: "Invite us", name: "inviteUs", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"},
+            ]}
+            - {label: "Share skills", name: "shareSkills", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"},
+            ]}
+            - {label: "Play a role", name: "playARole", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"},
+            ]}          
       - file: "hugo/content/privacy/_index.md"
         label: "Privacy Policy"
         name: "privacy"

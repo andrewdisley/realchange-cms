@@ -9,6 +9,14 @@
   }
 }
 
+.getinvolved-events {
+  margin-top: 72px;
+
+  @media screen {
+    
+  }
+}
+
 .getinvolved-section-body {
   flex: 1;
 }
@@ -22,3 +30,13 @@
     max-width: 320px;
   }
 }
+
+.getinvolved-bottom {
+  margin-top: 24px;
+
+  @media (max-width: 768px) { .getinvolved-bottom { margin-top: 16px; } }
+}
+
+.getinvolved-events { margin-top: 72px; }
+
+  @media (max-width: 768px) { .getinvolved-events { margin-top: 40px; } }

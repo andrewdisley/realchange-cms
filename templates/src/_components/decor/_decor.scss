@@ -26,3 +26,8 @@
     background-image: url(assets/decor-rc-sunny.png);
   }
 }
+.decor-rc-flame {
+  &.decor-bottom::after {
+    background-image: url(assets/decor-rc-flame.png);
+  }
+}
