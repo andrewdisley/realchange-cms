@@ -25,14 +25,8 @@ howYou:
     inquiries.
 
 
-    <br>
-
-
     As well as [donating](https://secure.thebiggive.org.uk/projects/view/31176)
     directly to the fund, you might want to:
-
-
-    <br>
   heading: How you can help make a Real Change.
 takePart:
   body: >-
