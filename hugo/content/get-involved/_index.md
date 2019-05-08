@@ -68,9 +68,6 @@ shareSkills:
     delighted to come and talk to you about the campaign.
 
 
-    <br>
-
-
     Our Action Group includes people with lived experience of homelessness as
     well as charities working directly with people who are homeless. Let us know
     about your event and we'll see who can make it - whether it's a weekly
