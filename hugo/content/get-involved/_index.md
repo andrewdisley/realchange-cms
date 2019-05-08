@@ -3,16 +3,9 @@ title: Get Involved |
 header:
   hero: Real Change Oldham **Get Involved**
 content: >-
-  # News
-
-
-  Enter news here
-
-
-
-
-  ## click [here](http://eepurl.com/gbvxdn) to join our mailing list and stay up
-  to date with how we're making a Real Change to homelessness in Oldham
+  ## Click [here](http://eepurl.com/gbvxdn) to join our mailing list and stay up
+  to date with what's happening locally to make a Real Change to homelessness in
+  Oldham.
 section:
   body: >-
     The Street Support Network is an online resource dedicated to connecting
@@ -27,8 +20,8 @@ howYou:
   body: >-
     Whether you're interested in getting involved personally, on behalf of your
     community group, workplace or college, or as a business, there are many ways
-    you can help. Get in touch by emailing
-    <mailto:realchangeoldham@gmail.com> with any inquiries.
+    you can help. Get in touch by emailing <mailto:realchangeoldham@gmail.com>
+    with any inquiries.
 
 
     <br>
@@ -40,7 +33,6 @@ howYou:
 
     <br>
   heading: How you can help make a Real Change.
-  image: /assets/uploads/streetsupport.png
 takePart:
   body: >-
     Sign up to a sponsored run, walk or anything you like and raise money for
@@ -53,17 +45,19 @@ takePart:
   heading: Take part in a fundraising challenge
 inviteUs:
   body: >-
-    Our Action Group includes people with lived experience of homelessness as
-    well as charities working directly with people who are homeless. 
+    If you'd like to find out more about what it's like being homeless in Oldham
+    and what makes a Real Change to the lives of people who are, we'd be
+    delighted to come and talk to you about the campaign.
 
 
     <br>
 
 
-    We'd be delighted to come and talk to you about the Campaign at an event you
-    are involved in organising, whether that's the weekly meeting at your
-    church, a concert/cultural event, a conference your business in putting on
-    or your sports team's AGM. 
+    Our Action Group includes people with lived experience of homelessness as
+    well as charities working directly with people who are homeless. Let us know
+    about your event and we'll see who can make it - whether it's a weekly
+    meeting at your church, a concert or performance, a conference your business
+    is putting on or your sports team's AGM.
   heading: Invite us to speak at an event
 shareSkills:
   body: >-
@@ -74,9 +68,9 @@ shareSkills:
     <br>
 
     Every bit helps, so if you want to help people in your area who are
-    homeless, please [get in touch](mailto:realchangeoldham@gmail.com) or
-    [sign up to our mailing list](http://eepurl.com/gbvxdn) so we can keep you
-    up to date.
+    homeless, please [get in touch](mailto:realchangeoldham@gmail.com) or [sign
+    up to our mailing list](http://eepurl.com/gbvxdn) so we can keep you up to
+    date.
   heading: Share your skills or Knowledge
 playARole:
   body: >-
@@ -84,22 +78,13 @@ playARole:
     including:
 
 
-    * Helping us spread the word by sponsoring public advertising space (JC
-    Decaux are matching any ads we can fund-raise for so we reach a bigger
-    audience in your local area)
+    * Finding and securing public space where we can display campaign messages 
 
+    * Sharing stories on social media
 
-    * Supporting our efforts to get the message out via social media
+    * Evaluating the impact of grants on people who are homeless
 
-
-    * Helping administer grants to people who are homeless
-
-
-    * Being an 'ambassador' for the campaign within a specific area of the
-    borough, or with particular networks such as colleges, churches or community
-    groups.
-
-
-    <br>
+    * Being an 'ambassador' within your network or community
   heading: Play a role in organising something
 ---
+
