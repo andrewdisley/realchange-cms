@@ -59,10 +59,12 @@ shareSkills:
 
 
     Our Action Group includes people with lived experience of homelessness as
-    well as charities working directly with people who are homeless. Let us know
-    about your event and we'll see who can make it - whether it's a weekly
-    meeting at your church, a concert or performance, a conference your business
-    is putting on or your sports team's AGM.
+    well as charities working directly with people who are homeless. 
+
+
+    Let us know about your event and we'll see who can make it - whether it's a
+    weekly meeting at your church, a concert or performance, a conference your
+    business is putting on or your sports team's AGM.
   heading: Invite us to speak at an event
 playARole:
   body: >-
