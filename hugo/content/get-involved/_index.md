@@ -86,7 +86,14 @@ playARole:
 
     * Evaluating the impact of grants on people who are homeless
 
-    * Being an 'ambassador' within your network or community
+    * Become an 'ambassador' within your network or community to let others know
+    how they can get involved
+
+
+    Everyone is invited to join the Action Group, whether you are have
+    experience of homelessness yourself, work for an organisation or are new to
+    the whole issue. Email info@realchangeoldham.co.uk to find out when the next
+    meeting is.
   heading: Help organise the campaign
 ---
 
