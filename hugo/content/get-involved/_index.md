@@ -74,7 +74,7 @@ shareSkills:
   heading: Share your skills or Knowledge
 playARole:
   body: >-
-    There are lots of roles that need doing to make the campaign a success,
+    There are lots of roles that need doing to keep the campaign going,
     including:
 
 
@@ -85,6 +85,6 @@ playARole:
     * Evaluating the impact of grants on people who are homeless
 
     * Being an 'ambassador' within your network or community
-  heading: Play a role in organising something
+  heading: Help organise the campaign
 ---
 
