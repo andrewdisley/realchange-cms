@@ -47,8 +47,8 @@ inviteUs:
 
 
     Every bit helps, so if you want to help people in your area who are
-    homeless, please [get in touch ](mailto://realchangeoldham.co.uk)or [sign up
-    to our mailing list](http://eepurl.com/gbvxdn) so we can keep you up to
+    homeless, please [get in touch](mailto:info@realchangeoldham.co.uk) or [sign
+    up to our mailing list](http://eepurl.com/gbvxdn) so we can keep you up to
     date.
   heading: Share your skills or Knowledge
 shareSkills:
@@ -62,9 +62,10 @@ shareSkills:
     well as charities working directly with people who are homeless. 
 
 
-    Let us know about your event and we'll see who can make it - whether it's a
-    weekly meeting at your church, a concert or performance, a conference your
-    business is putting on or your sports team's AGM.
+    [Let us know](mailto:info@realchangeoldham.co.uk) about your event and we'll
+    see who can make it - whether it's a weekly meeting at your church, a
+    concert or performance, a conference your business is putting on or your
+    sports team's AGM.
   heading: Invite us to speak at an event
 playARole:
   body: >-
@@ -78,14 +79,12 @@ playARole:
 
     * Evaluating the impact of grants on people who are homeless
 
-    * Become an 'ambassador' within your network or community to let others know
-    how they can get involved
+    * Become an 'ambassador' within your network or community
 
 
-    Everyone is invited to join the Action Group, whether you are have
-    experience of homelessness yourself, work for an organisation or are new to
-    the whole issue. Email info@realchangeoldham.co.uk to find out when the next
-    meeting is.
+    If you want to pitch in and help make Real Change happen, contact us at
+    <mailto:info@realchangeoldham.co.uk> and come along to the next meeting of
+    the coordinating 'Action Group'.
   heading: Help organise the campaign
 ---
 
