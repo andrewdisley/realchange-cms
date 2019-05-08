@@ -51,9 +51,6 @@ inviteUs:
     campaign like ours could benefit from that? There are no bad ideas and we'd
     love to hear yours! 
 
-    <br>
-
-
 
     Every bit helps, so if you want to help people in your area who are
     homeless, please [get in touch ](mailto://realchangeoldham.co.uk)or [sign up
