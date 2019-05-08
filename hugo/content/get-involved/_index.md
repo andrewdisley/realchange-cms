@@ -43,7 +43,7 @@ takePart:
     Check out [Just Giving's Fundraising
     Toolkit](https://www.justgiving.com/fundraising/tips/fundraising-page-toolkit)
     too, including Top 10 Tips and ideas for promoting your page.
-  heading: Take part in a fundraising challenge
+  heading: Take part in a fundraising event
 inviteUs:
   body: >-
     What are you good at? What do you know lots about? How do you think a
