@@ -7,33 +7,108 @@
     <div class="container">
       <div class="content">
         {{ $contentMarkdown := .Params.content | markdownify }}
-        {{ if not ( strings.Contains $contentMarkdown "<p>" ) }}<p>{{ $contentMarkdown }}</p>{{ else }}{{ $contentMarkdown }}{{ end }}
+        {{ if not ( strings.Contains $contentMarkdown "<div>" ) }}<p>{{ $contentMarkdown }}</p>{{ else }}{{ $contentMarkdown }}{{ end }}
       </div>
     </div>
   </div>
 
-  {{ if .Params.section }}
-  <section class="section bg-rc-sunny pre-footer-withcityscape edge edge-top edge-rc-sunny-top">
+  <section class="home-intro pre-footer-withcityscape">
     <div class="container">
-      <div class="content">
-        <h2>{{ .Params.section.heading }}</h2>
-        <div class="getinvolved-section">
-          <div class="getinvolved-section-body">
-          {{ $sectionBodyMarkdown := .Params.section.body | markdownify }}
-          {{ if not ( strings.Contains $sectionBodyMarkdown "<p>" ) }}<p>{{ $sectionBodyMarkdown }}</p>{{ else }}{{ $sectionBodyMarkdown }}{{ end }}
+      <div class="boxed edges bg-rc-candy">
+        <div class="boxed-inner">
+          <h2>{{ .Params.howYou.heading }}</h2>
+          <div class="getinvolved-section-body">  
+            {{ $howYouBodyMarkdown := .Params.howYou.body | markdownify }}
+            {{ if not ( strings.Contains $howYouBodyMarkdown "</p>" ) }}<p>{{ $howYouBodyMarkdown }}</p>{{ else }}{{ $howYouBodyMarkdown }}{{ end }}
+            </p>
+          </div>  
+        </div>
+      </div>  
+      <div class="home-intro-split">
+        <div class="boxed edges bg-rc-flame">
+          <div class="boxed-inner">
+            <h2>{{ .Params.takePart.heading }}</h2>
+            {{ $takePartBodyMarkdown := .Params.takePart.body | markdownify }}
+            {{ if not ( strings.Contains $takePartBodyMarkdown "<p>" ) }}<p>{{ $takePartBodyMarkdown }}</p>{{ else }}{{ $takePartBodyMarkdown }}{{ end }}
           </div>
-          {{ if .Params.section.image }}
-          <div class="getinvolved-section-media aspect aspect-4by3">
-            <img alt="" src="{{ .Params.section.image }}">
+        </div>
+        <div class="boxed edges bg-rc-sunny">
+          <div class="boxed-inner">
+              <h2>{{ .Params.inviteUs.heading }}</h2>
+              {{ $inviteUsBodyMarkdown := .Params.inviteUs.body | markdownify }}
+              {{ if not ( strings.Contains $inviteUsBodyMarkdown "<p>" ) }}<p>{{ $inviteUsBodyMarkdown }}</p>{{ else }}{{ $inviteUsBodyMarkdown }}{{ end }}
           </div>
-          {{ end }}
         </div>
       </div>
-    </div>
+      <div class="home-intro-split getinvolved-bottom">
+        <div class="boxed edges bg-rc-sunny">
+          <div class="boxed-inner">
+              <h2>{{ .Params.shareSkills.heading }}</h2>
+              {{ $whoBodyMarkdown := .Params.shareSkills.body | markdownify }}
+              {{ if not ( strings.Contains $whoBodyMarkdown "<p>" ) }}<p>{{ $whoBodyMarkdown }}</p>{{ else }}{{ $whoBodyMarkdown }}{{ end }}
+          </div>
+        </div>
+        <div class="boxed edges bg-rc-flame">
+          <div class="boxed-inner">
+                <h2>{{ .Params.playARole.heading }}</h2>
+                {{ $howBodyMarkdown := .Params.playARole.body | markdownify }}
+                {{ if not ( strings.Contains $howBodyMarkdown "<p>" ) }}<p>{{ $howBodyMarkdown }}</p>{{ else }}{{ $howBodyMarkdown }}{{ end }}
+          </div>
+        </div>
+      </div> 
+    </div>  
   </section>
-  {{ end }}
 
-</div>
+
+<!-- {{ with .Site.GetPage "section" "events" }}{{ if eq .Params.showonhome true }}
+<section class="section getinvolved-events bg-rc-flame edge edge-top edge-rc-flame-top">
+  <div class="container">
+    <div class="home-stories-header">
+      <h2 class="h1 home-stories-title">
+        {{ with .Site.GetPage "section" "events" }}{{ .Params.heading }}{{ end }}
+      </h2>
+    </div>
+    <div class="home-stories-body">
+      {{ range first 2 (where .Site.RegularPages.ByDate.Reverse "Section" "events") }}
+      <div class="card-story card-stroy-witharrow">
+        <h3 class="card-story-title">{{ .Params.summary.heading }}</h3>
+        <div class="card-story-image aspect aspect-5by2 bg-rc-flame">
+          <img alt="" src="{{ .Params.summary.image }}">
+        </div>
+        <a class="card-story-cta" href="{{ .Permalink }}">{{ .Params.summary.text }}</a>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}{{ end }} -->
+
+
+  
+    {{ if .Params.section }}
+    <section class="section bg-rc-sunny pre-footer-withcityscape edge edge-top edge-rc-sunny-top">
+      <div class="container">
+        <div class="content">
+          <h2>{{ .Params.section.heading }}</h2>
+          <div class="getinvolved-section">
+            <div class="getinvolved-section-body">
+            {{ $sectionBodyMarkdown := .Params.section.body | markdownify }}
+            {{ if not ( strings.Contains $sectionBodyMarkdown "<p>" ) }}<p>{{ $sectionBodyMarkdown }}</p>{{ else }}{{ $sectionBodyMarkdown }}{{ end }}
+            </div>
+            {{ if .Params.section.image }}
+            <div class="getinvolved-section-media aspect aspect-4by3">
+              <img alt="" src="{{ .Params.section.image }}">
+            </div>
+            {{ end }}
+          </div>
+        </div>
+      </div>
+    </section>
+    {{ end }}
+  
+  
+
+
 
 {{ $footer := .Site.GetPage "_footer.md" }}
 {{ partial "footer.html" (dict "footer" $footer) }}

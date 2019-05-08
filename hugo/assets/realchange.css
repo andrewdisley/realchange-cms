@@ -671,6 +671,14 @@ p + .button { margin-top: 1rem; }
 
 @media (min-width: 576px) { .getinvolved-section-media { margin-left: 1em; margin-top: 0; max-width: 320px; } }
 
+.getinvolved-bottom { margin-top: 24px; }
+
+@media (max-width: 768px) { .getinvolved-bottom { margin-top: 16px; } }
+
+.getinvolved-events { margin-top: 72px; }
+
+@media (max-width: 768px) { .getinvolved-events { margin-top: 40px; } }
+
 .bg-black { background-color: #000000 !important; }
 
 .bg-white { background-color: #FFFFFF !important; }

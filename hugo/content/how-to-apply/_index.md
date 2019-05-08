@@ -30,7 +30,7 @@ content: >-
   **If you are sleeping rough, homeless or at risk of homelessness and want to
   apply for funds to help you, we are currently signing up partners who will be
   able to apply on your behalf. In the meantime, please go to**[
-  **streetsupport.net/Oldham**](http://streetsupport.net/Oldham) **for support
+  **streetsupport.net/oldham**](http://streetsupport.net/oldham) **for support
   available near you.**
 list: Registered partner organisations will be listed here when the fund is live
 partners:
@@ -41,7 +41,7 @@ partners:
     us at:
 
 
-    <mailto:info@realchangeoldham.co.uk>
+    <mailto:realchangeoldham@gmail.com>
   heading: Want to become a Partner?
 ---
 
