@@ -20,8 +20,9 @@ howYou:
   body: >-
     Whether you're interested in getting involved personally, on behalf of your
     community group, workplace or college, or as a business, there are many ways
-    you can help. Get in touch by emailing <mailto:realchangeoldham@gmail.com>
-    with any inquiries.
+    you can help. Get in touch by emailing
+    [info@realchangeoldham.co.uk](mailto://info@realchangeoldham.co.uk) with any
+    inquiries.
 
 
     <br>
@@ -50,15 +51,13 @@ inviteUs:
     campaign like ours could benefit from that? There are no bad ideas and we'd
     love to hear yours! 
 
-
-
     <br>
 
 
 
     Every bit helps, so if you want to help people in your area who are
-    homeless, please [get in touch](mailto:realchangeoldham@gmail.com) or [sign
-    up to our mailing list](http://eepurl.com/gbvxdn) so we can keep you up to
+    homeless, please [get in touch ](mailto://realchangeoldham.co.uk)or [sign up
+    to our mailing list](http://eepurl.com/gbvxdn) so we can keep you up to
     date.
   heading: Share your skills or Knowledge
 shareSkills:
