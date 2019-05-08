@@ -50,7 +50,11 @@ inviteUs:
     campaign like ours could benefit from that? There are no bad ideas and we'd
     love to hear yours! 
 
+
+
     <br>
+
+
 
     Every bit helps, so if you want to help people in your area who are
     homeless, please [get in touch](mailto:realchangeoldham@gmail.com) or [sign
@@ -79,7 +83,7 @@ playARole:
     including:
 
 
-    * Finding and securing public space where we can display campaign messages 
+    * Finding and securing public space where we can display key messages 
 
     * Sharing stories on social media
 
