@@ -13,7 +13,7 @@ section:
     or **Give Help** please go to 
 
 
-    **[streetsupport.net/Oldham](http://www.streetsupport.net/Oldham)**
+    **[streetsupport.net/Oldham](http://www.streetsupport.net/oldham)**
   heading: Street Support Oldham
   image: /assets/uploads/streetsupport.png
 howYou:
@@ -21,7 +21,7 @@ howYou:
     Whether you're interested in getting involved personally, on behalf of your
     community group, workplace or college, or as a business, there are many ways
     you can help. Get in touch by emailing
-    [info@realchangeoldham.co.uk](mailto://info@realchangeoldham.co.uk) with any
+    [info@realchangeoldham.co.uk](mailto://realchangeoldham@gmail.com) with any
     inquiries.
 
 
@@ -47,7 +47,7 @@ inviteUs:
 
 
     Every bit helps, so if you want to help people in your area who are
-    homeless, please [get in touch](mailto:info@realchangeoldham.co.uk) or [sign
+    homeless, please [get in touch](mailto:realchangeoldham@gmail.com) or [sign
     up to our mailing list](http://eepurl.com/gbvxdn) so we can keep you up to
     date.
   heading: Share your skills or Knowledge
@@ -62,7 +62,7 @@ shareSkills:
     well as charities working directly with people who are homeless. 
 
 
-    [Let us know](mailto:info@realchangeoldham.co.uk) about your event and we'll
+    [Let us know](mailto:realchangeoldham@gmail.com) about your event and we'll
     see who can make it - whether it's a weekly meeting at your church, a
     concert or performance, a conference your business is putting on or your
     sports team's AGM.
@@ -83,7 +83,7 @@ playARole:
 
 
     If you want to pitch in and help make Real Change happen, contact us at
-    <mailto:info@realchangeoldham.co.uk> and come along to the next meeting of
+    <mailto:realchangeoldham@gmail.com> and come along to the next meeting of
     the coordinating 'Action Group'.
   heading: Help organise the campaign
 ---
