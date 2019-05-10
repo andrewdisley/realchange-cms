@@ -48,7 +48,7 @@ inviteUs:
 
     Every bit helps, so if you want to help people in your area who are
     homeless, please [get in touch](mailto:realchangeoldham@gmail.com) or [sign
-    up to our mailing list](http://eepurl.com/gbvxdn) so we can keep you up to
+    up to our mailing list](http://eepurl.com/ghoer9) so we can keep you up to
     date.
   heading: Share your skills or Knowledge
 shareSkills:
