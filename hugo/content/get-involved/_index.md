@@ -3,7 +3,7 @@ title: Get Involved |
 header:
   hero: Real Change Oldham **Get Involved**
 content: >-
-  ## Click [here](http://eepurl.com/gbvxdn) to join our mailing list and stay up
+  ## Click [here](http://eepurl.com/ghoer9) to join our mailing list and stay up
   to date with what's happening locally to make a Real Change to homelessness in
   Oldham.
 section:
