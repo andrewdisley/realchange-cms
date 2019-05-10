@@ -39,7 +39,7 @@ partners:
 
     Real Change Oldham is currently signing up local charities who will be able
     to help. In the meantime, please go to
-    [streetsupport.net/Oldham](https://streetsupport.net/oldham) for other
+    [streetsupport.net/oldham](https://streetsupport.net/oldham) for other
     support available in your area.
   heading: Help from our Partners
   image: ''
