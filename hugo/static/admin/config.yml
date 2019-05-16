@@ -17,10 +17,10 @@ collections:
         fields:
           - {label: "Title (Real Help Doncaster prepended)", name: "title", widget: "string"}
           - {label: "Hero", name: "hero", widget: "object", fields: [
-              {label: "Pretitle (optional - white text above title)", name: "pretitle", widget: "string"},
+              {label: "Pretitle (optional - white text above title)", name: "pretitle", widget: "string", required: false},
               {label: "Title (optional - yellow)", name: "title", widget: "string"},
-              {label: "Subtitle (optional - white text below title)", name: "subtitle", widget: "string"},
-              {label: "Body (optional)", name: "body", widget: "markdown"},
+              {label: "Subtitle (optional - white text below title)", name: "subtitle", widget: "string", required: false},
+              {label: "Body (optional)", name: "body", widget: "markdown", required: false},
               {label: "Button", name: "button", widget: "object", fields: [
                 {label: "URL (inc. http://)", name: "url", widget: "string"},
                 {label: "Text", name: "text", widget: "string"}
@@ -56,8 +56,8 @@ collections:
         fields:
           - {label: "Title (Real Help Doncaster prepended)", name: "title", widget: "string"}
           - {label: "Hero", name: "hero", widget: "object", fields: [
-              {label: "Pretitle (optional - yellow text above title)", name: "pretitle", widget: "string"},
-              {label: "Title (optional - white)", name: "title", widget: "string"},
+              {label: "Pretitle (optional - yellow text above title)", name: "pretitle", widget: "string", required: false},
+              {label: "Title (optional - white)", name: "title", widget: "string", required: false},
             ]}
           - {label: "Intro", name: "intro", widget: "object", fields: [
               {label: "First Paragraph", name: "firstpara", widget: "markdown"},
@@ -69,10 +69,10 @@ collections:
         fields:
           - {label: "Title (Real Help Doncaster prepended)", name: "title", widget: "string"}
           - {label: "Hero", name: "hero", widget: "object", fields: [
-              {label: "Pretitle (optional - yellow text above title)", name: "pretitle", widget: "string"},
-              {label: "Title (optional - white)", name: "title", widget: "string"},
-              {label: "Subtitle (optional - white text below title)", name: "subtitle", widget: "string"},
-              {label: "Body (optional)", name: "body", widget: "markdown"},
+              {label: "Pretitle (optional - yellow text above title)", name: "pretitle", widget: "string", required: false},
+              {label: "Title (optional - white)", name: "title", widget: "string", required: false},
+              {label: "Subtitle (optional - white text below title)", name: "subtitle", widget: "string", required: false},
+              {label: "Body (optional)", name: "body", widget: "markdown", required: false},
               {label: "Button", name: "button", widget: "object", fields: [
                 {label: "URL (inc. http://)", name: "url", widget: "string"},
                 {label: "Text", name: "text", widget: "string"}
@@ -129,10 +129,10 @@ collections:
         fields:
           - {label: "Title (Real Help Doncaster prepended)", name: "title", widget: "string"}
           - {label: "Hero", name: "hero", widget: "object", fields: [
-              {label: "Pretitle (optional - yellow text above title)", name: "pretitle", widget: "string"},
-              {label: "Title (optional - white)", name: "title", widget: "string"},
+              {label: "Pretitle (optional - yellow text above title)", name: "pretitle", widget: "string", required: false},
+              {label: "Title (optional - white)", name: "title", widget: "string", required: false},
               {label: "Subtitle (optional - white text below title)", name: "subtitle", widget: "string"},
-              {label: "Body (optional)", name: "body", widget: "markdown"},
+              {label: "Body (optional)", name: "body", widget: "markdown", required: false},
               {label: "Button", name: "button", widget: "object", fields: [
                 {label: "URL (inc. http://)", name: "url", widget: "string"},
                 {label: "Text", name: "text", widget: "string"}
@@ -150,10 +150,10 @@ collections:
         fields:
           - {label: "Title (Real Help Doncaster prepended)", name: "title", widget: "string"}
           - {label: "Hero", name: "hero", widget: "object", fields: [
-              {label: "Pretitle (optional - yellow text above title)", name: "pretitle", widget: "string"},
-              {label: "Title (optional - white)", name: "title", widget: "string"},
-              {label: "Subtitle (optional - white text below title)", name: "subtitle", widget: "string"},
-              {label: "Body (optional)", name: "body", widget: "markdown"},
+              {label: "Pretitle (optional - yellow text above title)", name: "pretitle", widget: "string", required: false},
+              {label: "Title (optional - white)", name: "title", widget: "string", required: false},
+              {label: "Subtitle (optional - white text below title)", name: "subtitle", widget: "string"}, required: false,
+              {label: "Body (optional)", name: "body", widget: "markdown", required: false},
               {label: "Button", name: "button", widget: "object", fields: [
                 {label: "URL (inc. http://)", name: "url", widget: "string"},
                 {label: "Text", name: "text", widget: "string"}
@@ -171,10 +171,10 @@ collections:
         fields:
           - {label: "Title (Real Help Doncaster prepended)", name: "title", widget: "string"}
           - {label: "Hero", name: "hero", widget: "object", fields: [
-              {label: "Pretitle (optional - yellow text above title)", name: "pretitle", widget: "string"},
-              {label: "Title (optional - white)", name: "title", widget: "string"},
-              {label: "Subtitle (optional - white text below title)", name: "subtitle", widget: "string"},
-              {label: "Body (optional)", name: "body", widget: "markdown"},
+              {label: "Pretitle (optional - yellow text above title)", name: "pretitle", widget: "string", required: false},
+              {label: "Title (optional - white)", name: "title", widget: "string", required: false},
+              {label: "Subtitle (optional - white text below title)", name: "subtitle", widget: "string", required: false},
+              {label: "Body (optional)", name: "body", widget: "markdown", required: false},
               {label: "Button", name: "button", widget: "object", fields: [
                 {label: "URL (inc. http://)", name: "url", widget: "string"},
                 {label: "Text", name: "text", widget: "string"}
