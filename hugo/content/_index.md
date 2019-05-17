@@ -53,8 +53,6 @@ partners:
 
     * [Changing Lives](https://www.changing-lives.org.uk/services/)
 
-    * Complex Lives 
-
     * [Doncaster Housing for Young People](http://www.dhyp.org.uk/) 
 
     * [Doncaster Mind ](http://doncastermind.org.uk/)
