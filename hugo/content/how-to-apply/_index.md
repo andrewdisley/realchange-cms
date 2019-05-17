@@ -13,7 +13,7 @@ content: >-
 
 
   - - -
-list: >-
+list: >
   * [Aspire](http://www.aspire.community/)
 
   * [Changing Lives](https://www.changing-lives.org.uk/services/)
@@ -31,6 +31,8 @@ list: >-
 
   * [St Leger
   Homes](https://www.stlegerhomes.co.uk/looking-for-a-home/housing-options-and-homelessness/)
+
+  * [Aspire](http://www.aspire.community/)
 partners:
   body: >-
     If your organisation provides support to people who are homeless or at risk
