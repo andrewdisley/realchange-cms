@@ -13,7 +13,7 @@ content: >-
 
 
   - - -
-list: >
+list: >-
   * [Aspire](http://www.aspire.community/)
 
   * [Changing Lives](https://www.changing-lives.org.uk/services/)
@@ -22,7 +22,7 @@ list: >
 
   * [Doncaster Mind ](http://doncastermind.org.uk/)
 
-  * [Hall Gate United Reform
+  * [Hall Gate United Reformed
   Church](https://urcyorkshire.org.uk/churchfinder/churches/hall-gate-urc/)
 
   * [Manna Community CIC](http://www.manna.me.uk/cic/)
