@@ -18,7 +18,7 @@ collections:
           - {label: "Title (Real Help Doncaster prepended)", name: "title", widget: "string"}
           - {label: "Hero", name: "hero", widget: "object", fields: [
               {label: "Pretitle (optional - white text above title)", name: "pretitle", widget: "string", required: false},
-              {label: "Title (optional - yellow)", name: "title", widget: "string"},
+              {label: "Title (optional - yellow)", name: "title", widget: "string", required: false},
               {label: "Subtitle (optional - white text below title)", name: "subtitle", widget: "string", required: false},
               {label: "Body (optional)", name: "body", widget: "markdown", required: false},
               {label: "Button", name: "button", widget: "object", fields: [
@@ -81,8 +81,8 @@ collections:
           - {label: "Intro", name: "intro", widget: "object", fields: [
               {label: "Body", name: "body", widget: "markdown"},
               {label: "Button", name: "button", widget: "object", fields: [
-                {label: "URL (inc. http://)", name: "url", widget: "string"},
-                {label: "Text", name: "text", widget: "string"}
+                {label: "URL (inc. http://)", name: "url", widget: "string", required: false},
+                {label: "Text", name: "text", widget: "string", required: false}
               ]}
             ]}
           - {label: "Where", name: "where", widget: "object", fields: [
@@ -131,11 +131,11 @@ collections:
           - {label: "Hero", name: "hero", widget: "object", fields: [
               {label: "Pretitle (optional - yellow text above title)", name: "pretitle", widget: "string", required: false},
               {label: "Title (optional - white)", name: "title", widget: "string", required: false},
-              {label: "Subtitle (optional - white text below title)", name: "subtitle", widget: "string"},
+              {label: "Subtitle (optional - white text below title)", name: "subtitle", widget: "string", required: false},
               {label: "Body (optional)", name: "body", widget: "markdown", required: false},
               {label: "Button", name: "button", widget: "object", fields: [
-                {label: "URL (inc. http://)", name: "url", widget: "string"},
-                {label: "Text", name: "text", widget: "string"}
+                {label: "URL (inc. http://)", name: "url", widget: "string", required: false},
+                {label: "Text", name: "text", widget: "string", required: false}
               ]}
             ]}
           - {label: "Body", name: "content", widget: "markdown"}
@@ -155,8 +155,8 @@ collections:
               {label: "Subtitle (optional - white text below title)", name: "subtitle", widget: "string"}, required: false,
               {label: "Body (optional)", name: "body", widget: "markdown", required: false},
               {label: "Button", name: "button", widget: "object", fields: [
-                {label: "URL (inc. http://)", name: "url", widget: "string"},
-                {label: "Text", name: "text", widget: "string"}
+                {label: "URL (inc. http://)", name: "url", widget: "string", required: false},
+                {label: "Text", name: "text", widget: "string", required: false}
               ]}
             ]}
           - {label: "Body", name: "content", widget: "markdown"}
@@ -176,8 +176,8 @@ collections:
               {label: "Subtitle (optional - white text below title)", name: "subtitle", widget: "string", required: false},
               {label: "Body (optional)", name: "body", widget: "markdown", required: false},
               {label: "Button", name: "button", widget: "object", fields: [
-                {label: "URL (inc. http://)", name: "url", widget: "string"},
-                {label: "Text", name: "text", widget: "string"}
+                {label: "URL (inc. http://)", name: "url", widget: "string", required: false},
+                {label: "Text", name: "text", widget: "string", required: false}
               ]}
             ]}
           - {label: "Body", name: "content", widget: "markdown"}
