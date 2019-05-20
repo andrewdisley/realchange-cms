@@ -18,6 +18,12 @@ section:
   image: /assets/uploads/streetsupport.png
 howYou:
   body: >-
+    Real Change is a partnership between everyone who wants to end homelessness
+    in Oldham. That's because we know we'll struggle to do it alone, but
+    together we **can** make a difference. If like us you believe that no one
+    should be homeless or beg on our streets, then come and get involved.
+
+
     Whether you're interested in getting involved personally, on behalf of your
     community group, workplace or college, or as a business, there are many ways
     you can help. Get in touch by emailing
@@ -25,8 +31,7 @@ howYou:
     inquiries.
 
 
-    As well as [donating](https://secure.thebiggive.org.uk/projects/view/31176)
-    directly to the fund, you might want to:
+    As well as donating directly to the fund, you might want to:
   heading: How you can help make a Real Change.
 takePart:
   body: >-
@@ -83,7 +88,7 @@ playARole:
 
 
     If you want to pitch in and help make Real Change happen, contact us at
-    <mailto:realchangeoldham@gmail.com> and come along to the next meeting of
+    <mailto:info@realchangeoldham.co.uk> and come along to the next meeting of
     the coordinating 'Action Group'.
   heading: Help organise the campaign
 ---
