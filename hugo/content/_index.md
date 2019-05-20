@@ -28,24 +28,23 @@ who:
     spent.](/how-it-works/)
   heading: Who does Real Change help?
 how:
-  body: "If your organisation provides a service to support people who are homeless in Oldham Borough and you would like to discuss how to become an approved Real Change partner, please contact us at <mailto:realchangeoldham@gmail.com> or \L[find out more here](/how-to-apply/)."
+  body: "If your organisation provides a service to support people who are homeless in Oldham Borough and you would like to discuss how to become an approved Real Change partner, please contact us at <mailto:info@realchangeoldham.co.uk> or \L[find out more here](/how-to-apply/)."
   heading: How can you apply?
 partners:
   body: >-
-    **If you are sleeping rough, homeless or at risk of homelessness in the
-    borough of Oldham and want to apply for funds, our partner organisations can
-    apply for funds on your behalf.**
+    We need to reach our fundraising target before we can start providing
+    grants, but in the meantime there are a number of places you can go to get
+    financial support. Details on those can be found on the [How To Apply
+    ](https://realchangeoldham.co.uk/how-to-apply/)page.
 
 
-    Real Change Oldham is currently signing up local charities who will be able
-    to help. In the meantime, please go to
-    [streetsupport.net/oldham](https://streetsupport.net/oldham) for other
-    support available in your area.
+    For local services that can support you if you're homeless or at risk, go to
+    [streetsupport.net/oldham](https://streetsupport.net/oldham).
   heading: Help from our Partners
   image: ''
   list: >-
     If you'd like to become a registered partner organisation, contact
-    realchangeoldham@gmail.com
+    <mailto:info@realchangeoldham.co.uk>
   youtube: 'https://www.youtube.com/embed/h5THJZgLznM'
 ---
 
