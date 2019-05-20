@@ -14,7 +14,7 @@ whatis:
     homelessness in Oldham.
   button:
     text: Donate to make a Real Change
-    url: url here
+    url: coming soon!
   heading: What is Real Change?
   image: assets/uploads/home-intro-whatis.png
 who:
