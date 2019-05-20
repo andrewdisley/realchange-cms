@@ -42,7 +42,7 @@ partners:
     us at:
 
 
-    <mailto:realchangeoldham@gmail.com>
+    <mailto:info@realchangeoldham.co.uk>
   heading: Want to become a Partner?
 ---
 
