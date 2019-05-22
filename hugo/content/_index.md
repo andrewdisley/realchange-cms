@@ -40,7 +40,7 @@ partners:
     Real Change Guildford currently works in partnership with the following
     organisations:
   heading: Help from our Partners
-  image: /assets/uploads/keys-in-door.jpeg
+  image: ''
   list: >-
     [Vaughan
     House](https://www.riverside.org.uk/in-your-neighbourhood/surrey/care-and-support/vaughan-house-surrey/)
