@@ -4,7 +4,7 @@ title: Event One |
 date: 2018-08-25T20:24:10.347Z
 header:
   hero: "Real Change in Guildford **\LEvent One**"
-removethis:
+rename:
   heading: Event and location of event
   image: https://picsum.photos/400/160
   text: Read more about the event
