@@ -15,13 +15,14 @@ content: >-
   to date with how we're making a Real Change to homelessness in Guildford
 section:
   body: >-
-    The Street Support Network is an online resource dedicated to connecting
-    people and organisations locally. To discover how else you can **Find Help**
-    or **Give Help** please go to 
+    Voluntary Action South West Surrey is  dedicated to connecting people and
+    organisations locally. To discover how else you can **Find Help** or **Give
+    Help** please go to
 
 
-    **[Street Support](http://www.streetsupport.net/)**
-  heading: Street Support Guildford
+    [Voluntary Action South West
+    Surrey](https://voluntaryactionsws.org.uk/volunteering/i-want-to-volunteer/)
+  heading: Voluntary Action South West Surrey
   image: /assets/uploads/streetsupport.png
 howYou:
   body: >-
@@ -40,7 +41,6 @@ howYou:
 
     <br>
   heading: How you can help make a Real Change.
-  image: /assets/uploads/streetsupport.png
 takePart:
   body: >-
     Sign up to a sponsored run, walk or anything you like and raise money for
