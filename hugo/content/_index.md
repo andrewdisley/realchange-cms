@@ -13,7 +13,7 @@ whatis:
     homelessness in our community.
   button:
     text: Donate now and make a Real Change in Guildford
-    url: insert link
+    url: 'https://www.justgiving.com/campaign/RealChangeGuildford'
   heading: What is Real Change?
   image: assets/uploads/home-intro-whatis.png
 who:
