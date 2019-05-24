@@ -2,6 +2,7 @@
 title: Stories |
 showonhome: true
 header:
+  background: /assets/uploads/real-change-image-resize-for-just-giving.jpg
   hero: Real Change in Guildford **Stories**
 intro: >-
   **Michael had lived and worked in Guildford all his life. 2 years ago Michael
