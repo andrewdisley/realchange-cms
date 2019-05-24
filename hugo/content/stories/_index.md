@@ -29,6 +29,6 @@ heading: |-
   people like Michael.
 button:
   text: Donate and make a real change
-  url: donate
+  url: 'https://www.justgiving.com/campaign/RealChangeGuildford'
 ---
 
