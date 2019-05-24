@@ -9,7 +9,7 @@ intro: >
   facilis. Neque impedit quidem fugit adipisci, eius perspiciatis. Maiores?**
 heading: |-
   Your donations go toward real people experiencing homelessness in our area, 
-  people like x and y
+  people like Michael.
 button:
   text: Donate and make a real change
   url: donate
