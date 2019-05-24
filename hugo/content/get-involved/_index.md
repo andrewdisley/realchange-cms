@@ -23,7 +23,7 @@ section:
     [Voluntary Action South West
     Surrey](https://voluntaryactionsws.org.uk/volunteering/i-want-to-volunteer/)
   heading: Voluntary Action South West Surrey
-  image: /assets/uploads/streetsupport.png
+  image: /assets/uploads/vasw-1.jpg
 howYou:
   body: >-
     Whether you're interested in getting involved personally, on behalf of your
