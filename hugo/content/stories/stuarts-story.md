@@ -3,6 +3,7 @@ story: 'yes'
 title: Michael's story
 date: 2019-05-24T13:00:10.347Z
 header:
+  background: /assets/uploads/real-change-image-resize-for-just-giving.jpg
   hero: "Real Change in Guildford \L**Michael's Story**"
 summary:
   heading: '"Real Change could help get me moving in the right direction"'
