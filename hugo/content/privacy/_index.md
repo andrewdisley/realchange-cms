@@ -112,7 +112,7 @@ partners:
     please contact us at:
 
 
-    Email: info@realchangeguildford.co.uk
+    Email: realchangeguildford@gmail.com
   heading: Want to become a Partner?
 ---
 

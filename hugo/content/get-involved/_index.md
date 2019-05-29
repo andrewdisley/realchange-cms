@@ -29,7 +29,7 @@ howYou:
     Whether you're interested in getting involved personally, on behalf of your
     community group, workplace or college, or as a business, there are many ways
     you can help. Get in touch by emailing
-    <mailto:info@realchangeguildford.co.uk> with any inquiries.
+    <mailto:realchangeguildford@gmail.com> with any inquiries.
 
 
     <br>
@@ -74,7 +74,7 @@ shareSkills:
     <br>
 
     Every bit helps, so if you want to help people in your area who are
-    homeless, please [get in touch](mailto:info@realchangeguildford.co.uk) or
+    homeless, please [get in touch](mailto:realchangeguildford@gmail.com) or
     [sign up to our mailing list](http://eepurl.com/gbvxdn) so we can keep you
     up to date.
   heading: Share your skills or Knowledge
