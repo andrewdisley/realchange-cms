@@ -4,7 +4,7 @@ title: Event One |
 date: 2018-08-25T20:24:10.347Z
 header:
   hero: "Real Change in Guildford **\LEvent One**"
-rename:
+summary:
   heading: Event and location of event
   image: https://picsum.photos/400/160
   text: Read more about the event
@@ -13,5 +13,8 @@ content:
   image: https://picsum.photos/200/300
   eventName: Event name
   location: Address of event
+  button: 
+    text: See more events
+    url: https://realchangeguildford.co.uk/events
 ---
 

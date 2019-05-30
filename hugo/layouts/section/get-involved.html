@@ -60,7 +60,7 @@
   </section>
 
 
-<!-- {{ with .Site.GetPage "section" "events" }}{{ if eq .Params.showonhome true }}
+{{ with .Site.GetPage "section" "events" }}{{ if eq .Params.showonhome true }}
 <section class="section getinvolved-events bg-rc-spark edge edge-top edge-rc-spark-top">
   <div class="container">
     <div class="home-stories-header">
@@ -71,17 +71,17 @@
     <div class="home-stories-body">
       {{ range first 2 (where .Site.RegularPages.ByDate.Reverse "Section" "events") }}
       <div class="card-story card-stroy-witharrow">
-        <h3 class="card-story-title">{{ .Params.rename.heading }}</h3>
+        <h3 class="card-story-title">{{ .Params.summary.heading }}</h3>
         <div class="card-story-image aspect aspect-5by2 bg-rc-spark">
-          <img alt="" src="{{ .Params.rename.image }}">
+          <img alt="" src="{{ .Params.summary.image }}">
         </div>
-        <a class="card-story-cta" href="{{ .Permalink }}">{{ .Params.rename.text }}</a>
+        <a class="card-story-cta" href="{{ .Permalink }}">{{ .Params.summary.text }}</a>
       </div>
       {{ end }}
     </div>
   </div>
 </section>
-{{ end }}{{ end }} -->
+{{ end }}{{ end }}
 
 
   

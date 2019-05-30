@@ -214,6 +214,40 @@ collections:
             {label: "Text", name: "text", widget: "string"}
           ]}
         ]}
+  - name: "events"
+    label: "Events"
+    editor:
+      preview: false
+    folder: "hugo/content/events"
+    create: true
+    filter: {field: "event", value: "yes"}
+    fields:
+      - {label: "Event", name: "event", widget: "hidden", default: "yes"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Header", name: "header", widget: "object", fields: [
+          {label: "Background (optional)", name: "background", widget: "image", required: false},
+          {label: "Header Text (optional)", name: "hero", widget: "markdown", required: false}
+        ]}
+      - {label: "Summary (Card on Get involved and Events)", name: "summary", widget: "object", fields: [
+          {label: "Image (Aspect 5by2 - 540px by 216px)", name: "image", widget: "image"},
+          {label: "Heading", name: "heading", widget: "string"},
+          {label: "Text", name: "text", widget: "string"}
+        ]}
+      - {label: "Content", name: "content", widget: "object", fields: [
+          {label: "Image (Aspect 4by3 - 640px by 480px)", name: "image", widget: "image"},
+          {label: "Name of Event", name: "eventName", widget: "string"},
+          {label: "Location", name: "location", widget: "string"},
+          {label: "Body", name: "body", widget: "markdown"},
+          {label: "Button", name: "button", widget: "object", fields: [
+            {label: "URL (inc. http://)", name: "url", widget: "string"},
+            {label: "Text", name: "text", widget: "string"}
+          ]}
+        ]}
+      - {label: "Real change", name: "realchange", widget: "object", fields: [
+          {label: "Heading", name: "heading", widget: "string"},
+          {label: "Body", name: "body", widget: "markdown"},
+        ]}
   - name: "global"
     label: "Global"
     editor:
