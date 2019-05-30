@@ -1,5 +1,5 @@
 ---
-title: Events |
+title: Event |
 showongetinvolved: true
 header:
   hero: Real Change in Guildford **Events**
