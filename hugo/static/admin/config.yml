@@ -179,6 +179,14 @@ collections:
               {label: "URL (inc. http://)", name: "url", widget: "string"},
               {label: "Text", name: "text", widget: "string"}
             ]}
+      - file: "hugo/content/events/_index.md"
+        label: "Events"
+        name: "events"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Show on home", name: "showonhome", widget: "boolean", defailt: false}
+          - {label: "Intro", name: "intro", widget: "markdown"}
+          - {label: "Heading", name: "heading", widget: "text"}
   - name: "stories"
     label: "Story"
     editor:
@@ -243,10 +251,6 @@ collections:
             {label: "URL (inc. http://)", name: "url", widget: "string"},
             {label: "Text", name: "text", widget: "string"}
           ]}
-        ]}
-      - {label: "Real change", name: "realchange", widget: "object", fields: [
-          {label: "Heading", name: "heading", widget: "string"},
-          {label: "Body", name: "body", widget: "markdown"},
         ]}
   - name: "global"
     label: "Global"
