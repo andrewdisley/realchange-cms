@@ -53,7 +53,7 @@ partners:
     partner, please contact us at:
 
 
-    <mailto:realchangeguildford@gmail.com>
+    <mailto:info@realchangeguildford.co.uk>
   heading: Want to become a Partner?
 ---
 

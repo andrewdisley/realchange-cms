@@ -27,7 +27,7 @@ who:
     spent.](/how-it-works/)
   heading: Who does Real Change help?
 how:
-  body: "If your organisation provides a service to support people who are homeless in Guildford Borough and you would like to discuss how to become an approved Real Change partner, please contact us at <mailto:realchangeguildford@gmail.com> or \L[find out more here](/how-to-apply/)."
+  body: "If your organisation provides a service to support people who are homeless in Guildford Borough and you would like to discuss how to become an approved Real Change partner, please contact us at <mailto:info@realchangeguildford.co.uk> or \L[find out more here](/how-to-apply/)."
   heading: How can you apply?
 partners:
   body: >-
