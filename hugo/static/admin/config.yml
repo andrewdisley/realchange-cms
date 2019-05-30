@@ -184,9 +184,13 @@ collections:
         name: "events"
         fields:
           - {label: "Title", name: "title", widget: "string"}
-          - {label: "Show on home", name: "showonhome", widget: "boolean", defailt: false}
+          - {label: "Show on Get Involved", name: "showongetinvolved", widget: "boolean", defailt: false}
           - {label: "Intro", name: "intro", widget: "markdown"}
           - {label: "Heading", name: "heading", widget: "text"}
+          - {label: "Button", name: "button", widget: "object", fields: [
+              {label: "URL (inc. http://)", name: "url", widget: "string"},
+              {label: "Text", name: "text", widget: "string"}
+          ]}
   - name: "stories"
     label: "Story"
     editor:
@@ -235,7 +239,7 @@ collections:
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Header", name: "header", widget: "object", fields: [
           {label: "Background (optional)", name: "background", widget: "image", required: false},
-          {label: "Header Text (optional)", name: "hero", widget: "markdown", required: false}
+          {label: "Event page title", name: "hero", widget: "markdown", required: false}
         ]}
       - {label: "Summary (Card on Get involved and Events)", name: "summary", widget: "object", fields: [
           {label: "Image (Aspect 5by2 - 540px by 216px)", name: "image", widget: "image"},
@@ -244,9 +248,9 @@ collections:
         ]}
       - {label: "Content", name: "content", widget: "object", fields: [
           {label: "Image (Aspect 4by3 - 640px by 480px)", name: "image", widget: "image"},
-          {label: "Name of Event", name: "eventName", widget: "string"},
+          {label: "Name of event", name: "eventName", widget: "string"},
           {label: "Location", name: "location", widget: "string"},
-          {label: "Body", name: "body", widget: "markdown"},
+          {label: "Details of event", name: "body", widget: "markdown"},
           {label: "Button", name: "button", widget: "object", fields: [
             {label: "URL (inc. http://)", name: "url", widget: "string"},
             {label: "Text", name: "text", widget: "string"}

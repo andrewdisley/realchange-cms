@@ -13,8 +13,5 @@ content:
   image: https://picsum.photos/200/300
   eventName: Event name
   location: Address of event
-  button: 
-    text: See more events
-    url: https://realchangeguildford.co.uk/events
 ---
 

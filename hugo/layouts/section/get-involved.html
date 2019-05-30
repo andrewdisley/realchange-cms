@@ -60,7 +60,7 @@
   </section>
 
 
-{{ with .Site.GetPage "section" "events" }}{{ if eq .Params.showonhome true }}
+{{ with .Site.GetPage "section" "events" }}{{ if eq .Params.showongetinvolved true }}
 <section class="section getinvolved-events bg-rc-spark edge edge-top edge-rc-spark-top">
   <div class="container">
     <div class="home-stories-header">
@@ -78,6 +78,9 @@
         <a class="card-story-cta" href="{{ .Permalink }}">{{ .Params.summary.text }}</a>
       </div>
       {{ end }}
+    </div>
+    <div class="home-stories-footer text-center">
+      {{ with .Site.GetPage "section" "events" }}<a class="button" href="{{ .Params.button.url }}">{{ .Params.button.text }}</a>{{ end }}
     </div>
   </div>
 </section>
