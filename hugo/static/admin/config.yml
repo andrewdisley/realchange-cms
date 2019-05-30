@@ -251,10 +251,6 @@ collections:
           {label: "Name of event", name: "eventName", widget: "string"},
           {label: "Location", name: "location", widget: "string"},
           {label: "Details of event", name: "body", widget: "markdown"},
-          {label: "Button", name: "button", widget: "object", fields: [
-            {label: "URL (inc. http://)", name: "url", widget: "string"},
-            {label: "Text", name: "text", widget: "string"}
-          ]}
         ]}
   - name: "global"
     label: "Global"
