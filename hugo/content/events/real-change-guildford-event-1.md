@@ -3,7 +3,7 @@ event: 'yes'
 title: Real Change Guildford Event 1
 date: 2019-05-30T12:28:34.154Z
 header:
-  hero: EVENT 1
+  hero: Real Change Guildford Event One
 summary:
   heading: Summary box heading
   image: /assets/uploads/352-640x480.jpg
