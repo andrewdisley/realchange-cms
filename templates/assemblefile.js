@@ -75,10 +75,7 @@ app.task('sass:main', function() {
     // .pipe(sass({ outputStyle: 'compressed' }).on('error', sass.logError))
     .pipe(sass({ outputStyle: 'compact' }).on('error', sass.logError))
     .pipe(concat(config.project.shortname + '.css'))
-    .pipe(autoprefixer({
-      browsers: ['> 1%', 'last 3 versions'],
-      cascade: false
-    }))
+    .pipe(autoprefixer({ cascade: false }))
     .pipe(app.dest(config.paths.dist.css))
     .pipe(browserSync.stream());
 });
@@ -88,10 +85,7 @@ app.task('sass:styleguide', function() {
   return app.src('src/css/sass/styleguide.scss')
     .pipe(sass({ outputStyle: 'expanded' }).on('error', sass.logError))
     .pipe(concat(config.project.shortname + '.styleguide.css'))
-    .pipe(autoprefixer({
-      browsers: ['> 1%', 'last 3 versions'],
-      cascade: false
-    }))
+    .pipe(autoprefixer({ cascade: false }))
     .pipe(app.dest(config.paths.dist.css))
     .pipe(browserSync.stream());
 });
