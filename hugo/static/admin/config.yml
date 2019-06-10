@@ -19,7 +19,7 @@ collections:
           - {label: "Header", name: "header", widget: "object", fields: [
               {label: "Background (optional)", name: "background", widget: "image", required: false},
               {label: "Classes", name: "classes", widget: "hidden", default: "home-header"},
-              {label: "Header Text (optional)", name: "hero", widget: "markdown", required: false}
+              {label: "Header Text (optional)", name: "hero", widget: "markdown", required: false},
               {label: "Button", name: "button", widget: "object", fields: [
                 {label: "Header button text", name: "text", widget: "string"},
                 {label: "Header button URL", name: "url", widget: "string"}              
