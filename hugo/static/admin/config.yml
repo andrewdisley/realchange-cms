@@ -22,8 +22,8 @@ collections:
               {label: "Header Text (optional)", name: "hero", widget: "markdown", required: false}
             ]}
           - {label: "Button", name: "button", widget: "object", fields: [
-              label: "Header button text", name: "text", widget: "string",
-              label: "Header button URL", name: "url", widget: "string"              
+              {label: "Header button text", name: "text", widget: "string"},
+              {label: "Header button URL", name: "url", widget: "string"}              
           ]}
           - {label: "What Is", name: "whatis", widget: "object", fields: [
               {label: "Heading", name: "heading", widget: "string"},
