@@ -261,10 +261,8 @@ collections:
         label: "Header"
         name: "header"
         fields:
-          {label: Header Button, name: "header", widget: "object", fields: [
-          - {label: "Button Text", name: "buttonText", widget: "string"},
+          - {label: "Button Text", name: "buttonText", widget: "string"}
           - {label: "Button Url", name: "buttonUrl", widget: "string"}
-          ]}
       - file: "hugo/content/global/_footer.md"
         label: "Footer"
         name: "footer"
