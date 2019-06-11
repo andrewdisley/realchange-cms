@@ -1,0 +1,32 @@
+{{ define "main" }}
+{{ partial "header.html" .Params.header }}
+
+<div id="main">
+  <article class="section casestudy">
+    <div class="container">
+      <div class="casestudy-header">
+        {{ if .Params.content.image }}
+        <div class="casestudy-header-media aspect-bg aspect-bg-4by3">
+          <div class="aspect aspect-4by3">
+            <img alt="" src="{{ .Params.content.image }}">
+          </div>
+        </div>
+        {{ end }}
+        <div class="casestudy-header-body">
+          {{ if .Params.content.eventName }}<h4 class="h2 mb-n">Event:</h4><p>{{ .Params.content.eventName }}</p>{{ end }}
+          {{ if .Params.content.location }}<h4 class="h2 mb-n">Location:</h4><p>{{ .Params.content.location }}</p>{{ end }}
+        </div>
+      </div>
+      <div class="casestudy-body">
+        <div class="content">
+          {{ $contentBodyMarkdown := .Params.content.body | markdownify }}
+          {{ if not ( strings.Contains $contentBodyMarkdown "<p>" ) }}<p>{{ $contentBodyMarkdown }}</p>{{ else }}{{ $contentBodyMarkdown }}{{ end }}
+        </div>
+      </div>
+    </div>
+  </article>
+</div>
+
+{{ $footer := .Site.GetPage "_footer.md" }}
+{{ partial "footer.html" (dict "footer" $footer) }}
+{{ end }}
