@@ -16,3 +16,4 @@ content:
   image: /assets/uploads/352-640x480.jpg
   location: Oldham
 ---
+
