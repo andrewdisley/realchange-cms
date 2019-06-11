@@ -3,9 +3,6 @@ title: Welcome to
 header:
   classes: home-header
   hero: Make a <span> Real Change to homelessness </span> in Guildford
-  button:
-    text: Donate
-    url:  'https://www.justgiving.com/campaign/RealChangeGuildford'
 whatis:
   body: >-
     **Real Change pays for practical items individuals need to build lives away
