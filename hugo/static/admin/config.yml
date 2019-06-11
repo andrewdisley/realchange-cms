@@ -269,4 +269,5 @@ collections:
           - {label: "Row 1 (Share)", name: "row1", widget: "markdown"}
           - {label: "Row 2 (Link out)", name: "row2", widget: "markdown"}
           - {label: "Row 3 (Internal link)", name: "row3", widget: "markdown"}
+          - {label: "Row 4 (Mailing List)", name: "row4", widget: "markdown"}
           - {label: "Links", name: "links", widget: "markdown"}
