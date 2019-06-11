@@ -8,6 +8,6 @@ intro: >
 heading: Heading with information about upcoming events
 button:
   text: See more events
-  url: 'https://realchangeguildford.co.uk/events'
+  url: '/events'
 ---
 
