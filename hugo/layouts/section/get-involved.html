@@ -60,8 +60,8 @@
   </section>
 
 
-{{ with .Site.GetPage "section" "events" }}{{ if eq .Params.showonhome true }}
-<section class="section getinvolved-events bg-rc-flame edge edge-top edge-rc-flame-top">
+{{ with .Site.GetPage "section" "events" }}{{ if eq .Params.showongetinvolved true }}
+<section class="section getinvolved-events bg-rc-sunny edge edge-top edge-rc-sunny-top">
   <div class="container">
     <div class="home-stories-header">
       <h2 class="h1 home-stories-title">
@@ -72,12 +72,15 @@
       {{ range first 2 (where .Site.RegularPages.ByDate.Reverse "Section" "events") }}
       <div class="card-story card-stroy-witharrow">
         <h3 class="card-story-title">{{ .Params.summary.heading }}</h3>
-        <div class="card-story-image aspect aspect-5by2 bg-rc-flame">
+        <div class="card-story-image aspect aspect-5by2 bg-rc-sunny">
           <img alt="" src="{{ .Params.summary.image }}">
         </div>
         <a class="card-story-cta" href="{{ .Permalink }}">{{ .Params.summary.text }}</a>
       </div>
       {{ end }}
+    </div>
+    <div class="home-stories-footer text-center">
+      {{ with .Site.GetPage "section" "events" }}<a class="button" href="{{ .Params.button.url }}">{{ .Params.button.text }}</a>{{ end }}
     </div>
   </div>
 </section>
@@ -86,7 +89,7 @@
 
   
     {{ if .Params.section }}
-    <section class="section bg-rc-sunny pre-footer-withcityscape edge edge-top edge-rc-sunny-top">
+    <section class="section bg-rc-flame pre-footer-withcityscape edge edge-top edge-rc-flame-top">
       <div class="container">
         <div class="content">
           <h2>{{ .Params.section.heading }}</h2>
