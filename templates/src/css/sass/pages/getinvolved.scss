@@ -22,3 +22,9 @@
     max-width: 320px;
   }
 }
+
+.getinvolved-bottom {
+  margin-top: 24px;
+
+  @media (max-width: 768px) { .getinvolved-bottom { margin-top: 16px; } }
+}
