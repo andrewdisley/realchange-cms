@@ -1,6 +1,6 @@
 ---
 title: Event |
-showongetinvolved: true
+showongetinvolved: false
 intro: >
   **Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque laborum
   voluptatibus, eius in a quas aspernatur harum autem, amet, nostrum libero
