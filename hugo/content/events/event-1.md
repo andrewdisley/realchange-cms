@@ -10,9 +10,10 @@ summary:
   text: summary text
 content:
   body: >-
-    This is an event that will take place in two weeks in Rochdale. Come
-    and support
+    This is an event that will take place in two weeks in Rochdale. Come and
+    support
   eventName: Name of event
   image: /assets/uploads/352-640x480.jpg
   location: Rochdale
 ---
+
