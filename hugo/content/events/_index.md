@@ -1,8 +1,6 @@
 ---
 title: Event |
-showongetinvolved: false
-header:
-  hero: Real Change in Wigan and Leigh **Events**
+showongetinvolved: true
 intro: >
   **Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque laborum
   voluptatibus, eius in a quas aspernatur harum autem, amet, nostrum libero
