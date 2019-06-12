@@ -309,6 +309,8 @@ p + .button { margin-top: 1rem; }
 
 .decor-rc-flame.decor-bottom::after { background-image: url(assets/decor-rc-flame.png);  }
 
+.decor-rc-spark.decor-bottom::after { background-image: url(assets/decor-rc-spark.png);  }
+
 .edge { position: relative; }
 
 .edge-bottom::after, .edge-top::before { content: ''; display: block; height: 1rem; }
