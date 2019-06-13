@@ -2,8 +2,6 @@
 title: How it Works |
 header:
   hero: Real Change Guildford **How it Works**
-  buttontext: Donate
-  buttonurl: https://www.justgiving.com/campaign/RealChangeGuildford
 intro:
   body: >-
     **Real Change is a fund for Guildford that pays for items that local people

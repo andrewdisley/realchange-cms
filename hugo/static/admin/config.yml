@@ -271,9 +271,3 @@ collections:
           - {label: "Row 3 (Internal link)", name: "row3", widget: "markdown"}
           - {label: "Row 4 (Mailing List)", name: "row4", widget: "markdown"}
           - {label: "Links", name: "links", widget: "markdown"}
-      - file: "hugo/content/_index.md", "hugo/content/how-it-works/_index.md"
-        Label: "Header Button"
-        name: "header"
-        fields:
-          - {label: "Button Text", name: "buttontext", widget: "string"}
-          - {label: "Button Url", name: "buttonurl", widget: "string"}
