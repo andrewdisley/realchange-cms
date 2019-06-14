@@ -35,8 +35,9 @@ howYou:
     <br>
 
 
-    As well as [donating](https://secure.thebiggive.org.uk/projects/view/31176)
-    directly to the fund, you might want to:
+    As well as
+    [donating](https://www.justgiving.com/campaign/RealChangeGuildford) directly
+    to the fund, you might want to:
 
 
     <br>
