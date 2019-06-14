@@ -3,7 +3,7 @@ event: 'yes'
 title: Real Change Guildford Launch
 date: 2019-05-30T12:28:34.154Z
 header:
-  hero: Real Change Guildford Event One
+  hero: Real Change Guildford Launch
 summary:
   heading: Summary box heading
   image: /assets/uploads/352-640x480.jpg
