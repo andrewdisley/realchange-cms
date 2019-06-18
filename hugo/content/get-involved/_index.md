@@ -9,10 +9,8 @@ content: >-
   Enter news here
 
 
-
-
-  ## click [here](http://eepurl.com/gbvxdn) to join our mailing list and stay up
-  to date with how we're making a Real Change to homelessness in Guildford
+  ## contact info@realchangeguildford.co.uk if you'd like to keep up to date
+  with how we're making a Real Change to homelessness in Guildford
 section:
   body: >-
     Voluntary Action South West Surrey is  dedicated to connecting people and
