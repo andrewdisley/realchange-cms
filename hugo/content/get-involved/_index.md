@@ -2,8 +2,7 @@
 title: Get Involved |
 header:
   hero: Real Change Rochdale **Get Involved**
-content: >-
-  # To join our mailing list, click [here](http://eepurl.com/gbvxdn)
+content: '# To join our mailing list, click [here](http://eepurl.com/gbvxdn)'
 section:
   body: >-
     The Street Support Network is an online resource dedicated to connecting
@@ -18,19 +17,12 @@ howYou:
   body: >-
     Whether you're interested in getting involved personally, on behalf of your
     community group, workplace or college, or as a business, there are many ways
-    you can help. Get in touch by emailing <mailto:info@realchangerochdale.co.uk>
-    with any inquiries.
-
-
-    <br>
+    you can help. Get in touch by emailing
+    <mailto:info@realchangerochdale.co.uk> with any inquiries.
 
 
     As well as [donating](https://secure.thebiggive.org.uk/projects/view/31176)
     directly to the fund, you might want to:
-
-
-    <br>
-
   heading: How you can help make a Real Change.
 takePart:
   body: >-
@@ -45,31 +37,32 @@ takePart:
 
     <br>
   heading: Take part in a "fundraising challenge"
+inviteUs:
+  body: >-
+    Our Action Group includes people with lived experience of homelessness as
+    well as charities working directly with people who are homeless. 
+
+
+    We'd be delighted to come and talk to you about the Campaign at an event you
+    are involved in organising, whether that's the weekly meeting at your
+    church, a concert/cultural event, a conference your business in putting on
+    or your sports team's AGM. 
+  heading: Invite us to speak at an event
 shareSkills:
   body: >-
-    What are you good at? What do you know lots about? How do you think a campaign
-    like ours could benefit from that? There are no bad ideas and we'd love to
-    hear yours! 
+    What are you good at? What do you know lots about? How do you think a
+    campaign like ours could benefit from that? There are no bad ideas and we'd
+    love to hear yours! 
 
 
     <br>
 
 
-    Every bit helps, so if you want to help people in your area who are homeless,
-    please [get in touch](mailto:info@realchangerochdale.co.uk) or [sign up to our
-    mailing list](http://eepurl.com/gbvxdn) so we can keep you up to date.
+    Every bit helps, so if you want to help people in your area who are
+    homeless, please [get in touch](mailto:info@realchangerochdale.co.uk) or
+    [sign up to our mailing list](http://eepurl.com/gbvxdn) so we can keep you
+    up to date.
   heading: Share your skills or Knowledge
-inviteUs:
-  body: >-
-    Our Action Group includes people with lived experience of homelessness as well
-    as charities working directly with people who are homeless. 
-
-
-    We'd be delighted to come and talk to you about the Campaign at an event you
-    are involved in organising, whether that's the weekly meeting at your church,
-    a concert/cultural event, a conference your business in putting on or your
-    sports team's AGM. 
-  heading: Invite us to speak at an event
 playARole:
   body: >-
     There are lots of roles that need doing to make the campaign a success,
@@ -95,3 +88,4 @@ playARole:
     <br>
   heading: Play a role in organising Campaign activities
 ---
+
