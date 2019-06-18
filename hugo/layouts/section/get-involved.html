@@ -25,7 +25,7 @@
         </div>
       </div>  
       <div class="home-intro-split">
-        <div class="boxed edges bg-rc-spark">
+        <div class="boxed edges bg-rc-flame">
           <div class="boxed-inner">
             <h2>{{ .Params.takePart.heading }}</h2>
             {{ $takePartBodyMarkdown := .Params.takePart.body | markdownify }}
@@ -48,7 +48,7 @@
               {{ if not ( strings.Contains $whoBodyMarkdown "<p>" ) }}<p>{{ $whoBodyMarkdown }}</p>{{ else }}{{ $whoBodyMarkdown }}{{ end }}
           </div>
         </div>
-        <div class="boxed edges bg-rc-dive">
+        <div class="boxed edges bg-rc-flame">
           <div class="boxed-inner">
                 <h2>{{ .Params.playARole.heading }}</h2>
                 {{ $howBodyMarkdown := .Params.playARole.body | markdownify }}
