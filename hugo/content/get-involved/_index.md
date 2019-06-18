@@ -2,15 +2,10 @@
 title: Get Involved |
 header:
   hero: Real Change Guildford **Get Involved**
-content: >-
+content: |-
   # News
 
-
-  Enter news here
-
-
-  ## contact info@realchangeguildford.co.uk if you'd like to keep up to date
-  with how we're making a Real Change to homelessness in Guildford
+  Updates for Real Change Guildford
 section:
   body: >-
     Voluntary Action South West Surrey is  dedicated to connecting people and
