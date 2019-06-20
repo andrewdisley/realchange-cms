@@ -1,10 +1,10 @@
 ---
 title: Event |
 showongetinvolved: true
-intro: >
-  **Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque laborum
-  voluptatibus, eius in a quas aspernatur harum autem, amet, nostrum libero
-  facilis. Neque impedit quidem fugit adipisci, eius perspiciatis. Maiores?**
+intro: |-
+  **Real Change Guildford Launch**
+
+  Monday 8th July
 heading: Upcoming Events
 button:
   text: See more events
