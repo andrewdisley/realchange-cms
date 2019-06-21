@@ -1,0 +1,8 @@
+      {{ if .hero }}
+      <div class="header-hero">
+        <h1 class="header-hero-title">{{ .hero | markdownify | safeHTML }}</h1>
+      </div>
+    {{ end }}
+    </div>
+  </div>
+</header>
