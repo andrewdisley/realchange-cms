@@ -1,4 +1,4 @@
 ---
 buttontext: donate
-buttonurl: https://www.justgiving.com/campaign/RealChangeGuildford
+buttonurl: https://www.gofundme.com/f/real-change-oldham?member=2251952
 ---
