@@ -1,5 +1,8 @@
 {{ define "main" }}
 {{ partial "header.html" .Params.header }}
+{{ $nav := .Site.GetPage "_nav.md" }}
+{{ partial "nav.html" (dict "nav" $nav) }}
+{{ partial "header-end.html" .Params.header }}
 
 <div id="main">
   <article class="section casestudy">

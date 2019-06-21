@@ -184,8 +184,8 @@ collections:
         name: "events"
         fields:
           - {label: "Title", name: "title", widget: "string"}
-          - {label: "Show on Get Involved", name: "showongetinvolved", widget: "boolean", defailt: false}
-          - {label: "Intro", name: "intro", widget: "markdown"}
+          - {label: "Show on Get Involved", name: "showongetinvolved", widget: "boolean", default: false}
+          - {label: "Paragraph about events (optional)", name: "intro", widget: "markdown", required: false}
           - {label: "Heading", name: "heading", widget: "text"}
           - {label: "Button", name: "button", widget: "object", fields: [
               {label: "URL (inc. http://)", name: "url", widget: "string"},
@@ -267,3 +267,10 @@ collections:
           - {label: "Row 3 (Internal link)", name: "row3", widget: "markdown"}
           - {label: "Row 4 (Mailing List)", name: "row4", widget: "markdown"}
           - {label: "Links", name: "links", widget: "markdown"}
+      - file: hugo/content/global/_nav.md
+        label: "Donation button on header"
+        name: "nav"
+        fields:
+          - {label: "Button Text", name: "buttontext", widget: "string"}
+          - {label: "Button Url", name: "buttonurl", widget: "string"}
+
