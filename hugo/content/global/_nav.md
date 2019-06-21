@@ -1,4 +1,5 @@
 ---
-buttontext: donate
-buttonurl: https://www.justgiving.com/campaign/RealChangeGuildford
+buttontext: Donate
+buttonurl: 'https://www.justgiving.com/campaign/RealChangeGuildford'
 ---
+
