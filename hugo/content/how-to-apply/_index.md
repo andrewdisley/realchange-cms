@@ -33,7 +33,9 @@ content: >-
   able to apply on your behalf. In the meantime, please go to**[
   **streetsupport.net/oldham**](http://streetsupport.net/oldham) **for support
   available near you.**
-list: Registered partner organisations will be listed here when the fund is live
+list: >-
+  Applications to the fund will open when sufficient funds have been raised,
+  with all Registered Partners listed here.
 partners:
   body: >-
     If your organisation provides support to people who are homeless in Oldham
