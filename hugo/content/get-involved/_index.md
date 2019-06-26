@@ -21,7 +21,8 @@ howYou:
     <mailto:info@realchangerochdale.co.uk> with any inquiries.
 
 
-    As well as [donating](https://secure.thebiggive.org.uk/projects/view/31176)
+    As well as
+    [donating](https://www.thebiggive.org.uk/s/campaign?cId=a051r00001LjKtPAAV)
     directly to the fund, you might want to:
   heading: How you can help make a Real Change.
 takePart:
