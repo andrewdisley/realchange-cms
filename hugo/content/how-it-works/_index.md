@@ -8,7 +8,7 @@ intro:
     need to end and prevent homelessness.**
   button:
     text: Donate and make a real change
-    url: 'https://secure.thebiggive.org.uk/projects/view/31176'
+    url: 'https://www.thebiggive.org.uk/s/campaign?cId=a051r00001LjKtPAAV'
 where:
   body: >-
     All but 5% goes **directly** to people who are homeless via partner
