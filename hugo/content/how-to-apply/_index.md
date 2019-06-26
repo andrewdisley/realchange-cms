@@ -27,6 +27,9 @@ content: >-
   apply for up to £50 worth of household items to help start their home,
   including pots, pans and small electrical items, 
 
+  * Local Churches who are registered can apply for items to [Acts
+  435](https://acts435.org.uk/)
+
 
   **If you are sleeping rough, homeless or at risk of homelessness and want to
   apply for funds to help you, we are currently signing up partners who will be
