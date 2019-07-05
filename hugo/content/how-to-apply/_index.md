@@ -46,6 +46,10 @@ list: >-
 
 
   [The Salvation Army](https://www.salvationarmy.org.uk/guildford)
+
+
+  [Housing Advice Service - Guildford Borough
+  Council](https://www.guildford.gov.uk/housing)
 partners:
   body: >-
     If your organisation provides support to people who are homeless in
