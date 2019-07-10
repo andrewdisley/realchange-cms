@@ -6,12 +6,12 @@ content: >-
   # News
 
 
-  10/7: Thanks to the Rochdale Youth Offending Service for raising £28 via a
-  sweet sale! It all goes into one big pot for people who are homeless in
-  Rochdale Borough, so every little helps!
+  ## 10th July
 
 
-  ##
+  Thanks to the Rochdale Youth Offending Service for raising £28 via a sweet
+  sale! It all goes into one big pot for people who are homeless in Rochdale
+  Borough, so every little helps!
 section:
   body: >-
     The Street Support Network is an online resource dedicated to connecting
