@@ -2,7 +2,27 @@
 title: Get Involved |
 header:
   hero: Real Change Guildford **Get Involved**
-content: "# News\n\nUpdates for Real Change Guildford\n\n\n\nResidents and businesses of Guildford gathered at the Guildhall on Monday 8 July to celebrate the launch of Real Change Guildford.\r\n\nWorking in partnership with key organisations that aim to help the homeless or those at risk of becoming homeless, Real Change Guildford is a community initiative that provides practical solutions to assist individuals make steps to exit their life streets.\r\n\nClick for more info: <http://bit.ly/32kZnGM>\n\n![](/assets/uploads/launch-group-shot.jpg)"
+content: >-
+  # News
+
+
+  _**Updates for Real Change Guildford**_
+
+
+  Residents and businesses of Guildford gathered at the Guildhall on Monday 8
+  July to celebrate the launch of Real Change Guildford.
+
+
+  Working in partnership with key organisations that aim to help the homeless or
+  those at risk of becoming homeless, Real Change Guildford is a community
+  initiative that provides practical solutions to assist individuals make steps
+  to exit their life streets.
+
+
+  Click for more info: <http://bit.ly/32kZnGM>
+
+
+  ![](/assets/uploads/launch-group-shot-resize.jpg)
 section:
   body: >-
     Voluntary Action South West Surrey is  dedicated to connecting people and
