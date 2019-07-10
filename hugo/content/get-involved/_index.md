@@ -2,7 +2,16 @@
 title: Get Involved |
 header:
   hero: Real Change Rochdale **Get Involved**
-content: '# To join our mailing list, click [here](http://eepurl.com/gbvxdn)'
+content: >-
+  # News
+
+
+  10/7: Thanks to the Rochdale Youth Offending Service for raising £28 via a
+  sweet sale! It all goes into one big pot for people who are homeless in
+  Rochdale Borough, so every little helps!
+
+
+  ##
 section:
   body: >-
     The Street Support Network is an online resource dedicated to connecting
@@ -18,12 +27,13 @@ howYou:
     Whether you're interested in getting involved personally, on behalf of your
     community group, workplace or college, or as a business, there are many ways
     you can help. Get in touch by emailing
-    <mailto:info@realchangerochdale.co.uk> with any inquiries.
+    <mailto:info@realchangerochdale.co.uk> with any inquiries. To join our
+    mailing list, click [here](http://eepurl.com/gbvxdn).
 
 
     As well as
     [donating](https://www.thebiggive.org.uk/s/campaign?cId=a051r00001LjKtPAAV)
-    directly to the fund, you might want to:
+    directly to the fund, you might also want to:
   heading: How you can help make a Real Change.
 takePart:
   body: >-
