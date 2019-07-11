@@ -84,6 +84,9 @@ partners:
 
 
     [The Salvation Army](https://www.salvationarmy.org.uk/guildford)
+
+
+    [Guildford Action](https://www.guildfordaction.org.uk/)
   youtube: 'https://youtu.be/Njy884lX7EI'
 ---
 
