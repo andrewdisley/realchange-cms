@@ -6,7 +6,7 @@ content: >-
   # News
 
 
-  _**Updates for Real Change Guildford**_
+  **_Updates for Real Change Guildford_**
 
 
   Residents and businesses of Guildford gathered at the Guildhall on Monday 8
@@ -86,8 +86,9 @@ shareSkills:
 
     Every bit helps, so if you want to help people in your area who are
     homeless, please [get in touch](mailto:info@realchangeguildford.co.uk) or
-    [sign up to our mailing list](http://eepurl.com/gbvxdn) so we can keep you
-    up to date.
+    [sign up to our mailing
+    list](https://gmail.us3.list-manage.com/subscribe?u=2382ec521f820318b9d14928b&id=89dc842c31)
+    so we can keep you up to date.
   heading: Share your skills or Knowledge
 playARole:
   body: >-
