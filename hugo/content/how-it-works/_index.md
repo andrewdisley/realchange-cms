@@ -1,7 +1,7 @@
 ---
 title: How it Works |
 header:
-  hero: '**Real Change Oldham**'
+  hero: '# **Real Change Oldham**'
 intro:
   body: >-
     **Real Change is a fund for Oldham that pays for items that local people
