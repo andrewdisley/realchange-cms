@@ -87,6 +87,6 @@ partners:
 
 
     [Guildford Action](https://www.guildfordaction.org.uk/)
-  youtube: 'https://youtu.be/embed/Njy884lX7EI'
+  youtube: 'https://www.youtu.be/embed/Njy884lX7EI'
 ---
 
