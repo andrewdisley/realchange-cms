@@ -87,10 +87,6 @@ partners:
 
 
     [Guildford Action](https://www.guildfordaction.org.uk/)
-  youtube: >-
-    <blockquote class="embedly-card"><h4><a
-    href="https://youtu.be/Njy884lX7EI">Real Change Guildford</a></h4><p>Make a
-    Real Change to homelessness in Guildford.</p></blockquote> <script async
-    src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+  youtube: 'https://youtu.be/Njy884lX7EI'
 ---
 
