@@ -11,8 +11,6 @@ list: >-
 
   * [EDs Homes](https://www.edshomes.org.uk/housing)
 
-  * [Helping The Homeless](https://www.helpingthehomelesscharity.co.uk/)
-
   * [Homeless Support Project](https://www.hspleigh.co.uk/)
 
   * [Jigsaw Homes](https://www.jigsawhomes.org.uk/)
@@ -25,10 +23,10 @@ list: >-
 
   * [Wigan Wellbeing & Resilience](https://www.facebook.com/WiganWellbeing/)
 
-  * Wigan Council - [Live
-  Well](https://www.wigan.gov.uk/Council/Data-Statistics/Borough-Story/Live-Well.aspx)
-  & [Start
+  * Wigan Council - [Start
   Well](https://www.wigan.gov.uk/Council/Data-Statistics/Borough-Story/Start-Well.aspx)
+  and [Housing
+  Options](https://www.wigan.gov.uk/Resident/Housing/Council-homes/Find-a-home/Homelessness/index.aspx)
   teams
 
   * [Your Housing
