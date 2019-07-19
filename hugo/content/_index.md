@@ -45,8 +45,6 @@ partners:
 
     * [EDs Homes](https://www.edshomes.org.uk/housing)
 
-    * [Helping The Homeless](https://www.helpingthehomelesscharity.co.uk/)
-
     * [Homeless Support Project](https://www.hspleigh.co.uk/)
 
     * [Jigsaw Homes](https://www.jigsawhomes.org.uk/)
@@ -59,11 +57,9 @@ partners:
 
     * [Wigan Wellbeing & Resilience](https://www.facebook.com/WiganWellbeing/)
 
-    * Wigan Council - [Live
-    Well](https://www.wigan.gov.uk/Council/Data-Statistics/Borough-Story/Live-Well.aspx)
-    & [Start
+    * Wigan Council - [Start
     Well](https://www.wigan.gov.uk/Council/Data-Statistics/Borough-Story/Start-Well.aspx)
-    teams
+    & Housing Options teams
 
     * [Your Housing
     Group](https://www.yourhousinggroup.co.uk/find-a-home/young-peoples-housing/foyers/)
