@@ -31,10 +31,6 @@ list: >-
   House](https://www.homeless.org.uk/homeless-england/service/stonham-cyrenian-house)
 
 
-  [Citizens Advice
-  Guildford](https://www.guildfordcab.org.uk/get-advice/visit-us/)
-
-
   [Mulberry House](https://saha.org.uk/property/mulberry-house/)
 
 
