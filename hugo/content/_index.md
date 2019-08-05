@@ -35,7 +35,8 @@ how:
     If your organisation provides a service to support people who are sleeping
     rough, homeless or at risk of homelessness in Doncaster and you would like
     to discuss how to become an approved Real Help partner, please contact us
-    at: realhelpdoncaster@changing-lives.org.uk
+    at:
+    [realhelpdoncaster@changing-lives.org.uk](realhelpdoncaster@changing-lives.org.uk)
   heading: How can you apply?
 partners:
   body: >-
