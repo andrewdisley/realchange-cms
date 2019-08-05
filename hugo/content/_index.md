@@ -47,7 +47,7 @@ partners:
     Real Help Doncaster currently works in partnership with the following
     organisations:
   heading: Help from our Partners
-  image: /assets/uploads/homepage-banner-20181026.png
+  image: /assets/uploads/opengraph-20181026.jpg
   list: >-
     * [Aspire](http://www.aspire.community/)
 
