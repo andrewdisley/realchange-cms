@@ -39,7 +39,8 @@ partners:
     access the application process, please contact us at:
 
 
-    Email: realhelpdoncaster@changing-lives.org.uk
+    Email:
+    [realhelpdoncaster@changing-lives.org.uk](realhelpdoncaster@changing-lives.org.uk)
   heading: Become a Partner?
 ---
 
