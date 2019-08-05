@@ -111,7 +111,8 @@ partners:
     partner, please contact us at:
 
 
-    Email: realhelpdoncaster@changing-lives.org.uk
+    Email:
+    [realhelpdoncaster@changing-lives.org.uk](realhelpdoncaster@changing-lives.org.uk)
   heading: Want to become a Partner?
 ---
 
