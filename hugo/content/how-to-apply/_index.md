@@ -25,6 +25,9 @@ list: >-
   * [Stepping Stone](https://www.stepping-stone.org.uk/)
 
   * [WHAG](http://www.whag.info/)
+
+  * [Langley Housing
+  Trust](https://www.langleyhousetrust.org/our-projects/tekoa-house/)
 partners:
   body: >-
     If your organisation provides support to people who are homeless in Rochdale
