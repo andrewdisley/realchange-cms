@@ -50,6 +50,9 @@ partners:
     * [Stepping Stone](https://www.stepping-stone.org.uk/)
 
     * [WHAG](http://www.whag.info/)
+
+    * [Langeley House
+    Trust](https://www.langleyhousetrust.org/our-projects/tekoa-house/)
   youtube: 'https://www.youtube.com/embed/h5THJZgLznM'
 ---
 
