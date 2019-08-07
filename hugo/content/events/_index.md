@@ -1,8 +1,6 @@
 ---
-title: Event |
-showongetinvolved: false
-header:
-  hero: Real Change in Rochdalte **Events**
+title: News |
+showongetinvolved: true
 intro: >
   **Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque laborum
   voluptatibus, eius in a quas aspernatur harum autem, amet, nostrum libero
@@ -12,3 +10,4 @@ button:
   text: See more events
   url: /events
 ---
+
