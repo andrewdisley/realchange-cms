@@ -7,7 +7,7 @@ intro: >
   facilis. Neque impedit quidem fugit adipisci, eius perspiciatis. Maiores?**
 heading: Good news
 button:
-  text: See more good news
-  url: /news
+  text: See more good news and events
+  url: /events
 ---
 
