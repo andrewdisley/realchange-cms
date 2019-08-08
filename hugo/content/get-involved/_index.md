@@ -2,7 +2,7 @@
 title: Get Involved |
 header:
   hero: Real Change Rochdale **Get Involved**
-content: <>
+content: Help make a Real Change to homelessness in Rochdale
 section:
   body: >-
     The Street Support Network is an online resource dedicated to connecting
