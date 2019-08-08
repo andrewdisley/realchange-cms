@@ -2,16 +2,7 @@
 title: Get Involved |
 header:
   hero: Real Change Rochdale **Get Involved**
-content: >-
-  # News
-
-
-  ## 10th July
-
-
-  Thanks to the Rochdale Youth Offending Service for raising £28 via a sweet
-  sale! It all goes into one big pot for people who are homeless in Rochdale
-  Borough, so every little helps!
+content: <>
 section:
   body: >-
     The Street Support Network is an online resource dedicated to connecting
