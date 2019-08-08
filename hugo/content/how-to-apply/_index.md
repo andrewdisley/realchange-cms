@@ -26,8 +26,9 @@ list: >-
 
   * [WHAG](http://www.whag.info/)
 
-  * [Langley Housing
-  Trust](https://www.langleyhousetrust.org/our-projects/tekoa-house/)
+  * [Langley House
+  Trust](https://www.langleyhousetrust.org/our-projects/tekoa-house/)/ Tekoa
+  House
 partners:
   body: >-
     If your organisation provides support to people who are homeless in Rochdale
