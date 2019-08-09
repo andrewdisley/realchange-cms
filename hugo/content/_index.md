@@ -55,6 +55,8 @@ partners:
 
     * [Doncaster Housing for Young People](http://www.dhyp.org.uk/) 
 
+    * [Doncaster Metropolitan Borough Council](https://www.doncaster.gov.uk/)
+
     * [Doncaster Mind ](http://doncastermind.org.uk/)
 
     * [Hall Gate United Reformed Church
