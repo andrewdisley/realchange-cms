@@ -67,6 +67,9 @@ partners:
     * [St Leger
     Homes](http://www.stlegerhomes.co.uk/looking-for-a-home/housing-options-and-homelessness/)
 
+    * [Target Housing
+    ](https://targethousing.org.uk/services/target-doncaster-accommodation/)
+
     * [Riverside
     ](https://www.riverside.org.uk/in-your-neighbourhood/south-yorkshire/care-and-support/doncaster-homeless-floating-support-service/)
   youtube: ''
