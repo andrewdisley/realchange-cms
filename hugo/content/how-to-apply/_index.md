@@ -33,6 +33,9 @@ list: >-
 
   * [St Leger
   Homes](https://www.stlegerhomes.co.uk/looking-for-a-home/housing-options-and-homelessness/)
+
+  * [Target Housing
+  ](https://targethousing.org.uk/services/target-doncaster-accommodation/)
 partners:
   body: >-
     If your organisation provides support to people who are homeless or at risk
