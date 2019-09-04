@@ -43,17 +43,9 @@ partners:
   list: >-
     * [Addaction](https://www.addaction.org.uk/services/addaction-wigan-leigh)
 
-    * [EDs Homes](https://www.edshomes.org.uk/housing)
-
-    * [Homeless Support Project](https://www.hspleigh.co.uk/)
-
     * [Jigsaw Homes](https://www.jigsawhomes.org.uk/)
 
     * [Riverside](https://www.riverside.org.uk/care-and-support/)
-
-    * [Society Support](https://societysupport.co.uk)
-
-    * [The Brick](http://www.thebrick.org.uk/)
 
     * [Wigan Wellbeing & Resilience](https://www.facebook.com/WiganWellbeing/)
 
