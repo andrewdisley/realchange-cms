@@ -29,7 +29,29 @@ who:
     spent.](/how-it-works/)
   heading: Who does Real Change help?
 how:
-  body: "If your organisation provides a service to support people who are homeless in Oldham Borough and you would like to discuss how to become an approved Real Change partner, please contact us at <mailto:info@realchangeoldham.co.uk> or \L[find out more here](/how-to-apply/)."
+  body: >-
+    If you are sleeping rough, homeless or at risk of homelessness in the
+    borough of Rochdale and want to apply for funds, get in touch with one of
+    our partner organisations who will be able to provide support:
+
+
+    \- [Ancora
+    Keyring](https://www.keyring.org/keyring-north-west/the-ancora-project)
+
+
+    \- [De Paul](https://uk.depaulcharity.org/oldham-pathway)
+
+
+    \- Oldham Community Night Shelter
+
+
+    \- [SAWN](http://sawn.org.uk/about-us/)
+
+
+    \- [Sanctuary Trust](https://www.sanctuarytrust.org.uk/)
+
+
+    \- [Street Angels](https://www.facebook.com/OldhamAngels/)
   heading: How can you apply?
 partners:
   body: >-
