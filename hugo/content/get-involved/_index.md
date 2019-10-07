@@ -3,6 +3,24 @@ title: Get Involved |
 header:
   hero: Real Change Oldham **Get Involved**
 content: >-
+  Thanks to supporters for helping make Real Change Oldham happen, including:
+
+
+  * Action Together
+
+  * Live Oldham
+
+  * Oldham Community Leisure
+
+  * Oldham Council
+
+  * Oldham Youth Council
+
+  * Positive Steps Oldham
+
+  * Riverside
+
+
   ## Click [here](http://eepurl.com/ghoer9) to join our mailing list and stay up
   to date with what's happening locally to make a Real Change to homelessness in
   Oldham.
