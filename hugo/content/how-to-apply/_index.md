@@ -13,6 +13,8 @@ list: >-
 
   * [Riverside](https://www.riverside.org.uk/care-and-support/)
 
+  * [The Brick](https://thebrick.org.uk)
+
   * [Wigan Wellbeing & Resilience](https://www.facebook.com/WiganWellbeing/)
 
   * Wigan Council - [Start
