@@ -3,9 +3,10 @@ title: How to Apply |
 header:
   hero: Real Change Oldham **How to Apply**
 content: >-
-  The Real Change Oldham fund is currently fundraising so it can open to
-  applications. However, Oldham is lucky to have a number of schemes that can
-  help you now if you are homeless or in need.
+  Real Change Oldham exists to ensure access to cash is not barrier to people
+  getting what they need, when they need it, if they are homeless or at risk.
+  However, Oldham is lucky to have a number of schemes that can also help with
+  specific items or situations.
 
 
   * Job Centre Plus **Flexible Support Scheme:** anyone in receipt of benefits
