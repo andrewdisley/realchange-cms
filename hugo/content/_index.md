@@ -30,9 +30,9 @@ who:
   heading: Who does Real Change help?
 how:
   body: >-
-    If you are sleeping rough, homeless or at risk of homelessness in the
-    borough of Rochdale and want to apply for funds, get in touch with one of
-    our partner organisations who will be able to provide support:
+    If you are sleeping rough, homeless or at risk of homelessness in Oldham and
+    want to apply for funds, get in touch with one of our partner organisations
+    who will be able to provide support:
 
 
     \- [Ancora
