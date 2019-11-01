@@ -30,6 +30,16 @@ who:
   heading: Who does Real Change help?
 how:
   body: >-
+    People affected by homelessness can apply for grants through one of our
+    registered partners. Details on all our current partners can be found on the
+    [How To Apply ](https://realchangeoldham.co.uk/how-to-apply/)page.
+
+
+    For local services that can support you if you're homeless or at risk,
+    please go to [streetsupport.net/oldham](https://streetsupport.net/oldham).
+  heading: How can you apply?
+partners:
+  body: >-
     If you are sleeping rough, homeless or at risk of homelessness in Oldham and
     want to apply for funds, get in touch with one of our partner organisations
     who will be able to provide support:
@@ -52,17 +62,6 @@ how:
 
 
     \- [Street Angels](https://www.facebook.com/OldhamAngels/)
-  heading: How can you apply?
-partners:
-  body: >-
-    We need to reach our fundraising target before we can start providing
-    grants, but in the meantime there are a number of places you can go to get
-    financial support. Details on those can be found on the [How To Apply
-    ](https://realchangeoldham.co.uk/how-to-apply/)page.
-
-
-    For local services that can support you if you're homeless or at risk, go to
-    [streetsupport.net/oldham](https://streetsupport.net/oldham).
   heading: Help from our Partners
   image: ''
   list: >-
