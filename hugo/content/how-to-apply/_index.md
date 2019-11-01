@@ -29,17 +29,35 @@ content: >-
   including pots, pans and small electrical items, 
 
   * Local Churches who are registered can apply for items to [Acts
-  435](https://acts435.org.uk/)
+  435](https://acts435.org.uk/)****
 
 
-  **If you are sleeping rough, homeless or at risk of homelessness and want to
-  apply for funds to help you, we are currently signing up partners who will be
-  able to apply on your behalf. In the meantime, please go to**[
+  **In the meantime, please go to**[
   **streetsupport.net/oldham**](http://streetsupport.net/oldham) **for support
   available near you.**
 list: >-
-  Applications to the fund will open when sufficient funds have been raised,
-  with all Registered Partners listed here.
+  If you are sleeping rough, homeless or at risk of homelessness in Oldham and
+  want to apply for funds, get in touch with one of our partner organisations
+  who will be able to provide support:
+
+
+  \- [Ancora
+  Keyring](https://www.keyring.org/keyring-north-west/the-ancora-project)
+
+
+  \- [De Paul](https://uk.depaulcharity.org/oldham-pathway)
+
+
+  \- Oldham Community Night Shelter
+
+
+  \- [SAWN](http://sawn.org.uk/about-us/)
+
+
+  \- [Sanctuary Trust](https://www.sanctuarytrust.org.uk/)
+
+
+  \- [Street Angels](https://www.facebook.com/OldhamAngels/)
 partners:
   body: >-
     If your organisation provides support to people who are homeless in Oldham
