@@ -35,7 +35,7 @@ partners:
     borough of Rochdale and want to apply for funds, get in touch with one of
     our partner organisations who will be able to provide support:**
   heading: Help from our Partners
-  image: ''
+  image: /assets/uploads/opengraph-20181123.jpg
   list: >-
     * [Angie's Angels](https://www.facebook.com/groups/987871367991380/)
 
@@ -53,6 +53,6 @@ partners:
 
     * [Langeley House
     Trust](https://www.langleyhousetrust.org/our-projects/tekoa-house/)
-  youtube: 'https://www.youtube.com/embed/h5THJZgLznM'
+  youtube: n/a
 ---
 
