@@ -67,6 +67,6 @@ partners:
   list: >-
     If you'd like to become a registered partner organisation, contact
     <mailto:info@realchangeoldham.co.uk>
-  youtube: www.youtube.com/watch?v=EybDOSANjg8
+  youtube: 'https://youtu.be/EybDOSANjg8'
 ---
 
