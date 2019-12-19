@@ -28,7 +28,9 @@ list: >-
 
   * [Langley House
   Trust](https://www.langleyhousetrust.org/our-projects/tekoa-house/)/ Tekoa
-  House
+  Hous
+
+  * [The Limes Housing](https://www.facebook.com/TheLimes594/)
 partners:
   body: >-
     If your organisation provides support to people who are homeless in Rochdale
@@ -36,7 +38,7 @@ partners:
     would like to become an approved Real Change partner, please contact us at:
 
 
-    <mailto:info@realchangerochdale.co.uk>
+    [info@realchangerochdale.co.uk](mailto:info@realchangerochdale.co.uk)
   heading: Want to become a Partner?
 ---
 
