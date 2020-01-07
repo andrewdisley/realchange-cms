@@ -49,6 +49,10 @@ list: >-
   who will be able to provide support:
 
 
+  \-[ Action Together (Social Prescribing
+  Team)](https://www.actiontogether.org.uk/our-projects)
+
+
   \- [Ancora
   Keyring](https://www.keyring.org/keyring-north-west/the-ancora-project)
 
@@ -56,7 +60,14 @@ list: >-
   \- [De Paul](https://uk.depaulcharity.org/oldham-pathway)
 
 
+  \- Incredible Futures Oldham
+
+
   \- Oldham Community Night Shelter
+
+
+  \- [Positive Steps Oldham](https://www.positive-steps.org.uk/) (Early Help
+  Team)
 
 
   \- [SAWN](http://sawn.org.uk/about-us/)
@@ -65,7 +76,7 @@ list: >-
   \- [Sanctuary Trust](https://www.sanctuarytrust.org.uk/)
 
 
-  \- [Street Angels](https://www.facebook.com/OldhamAngels/)
+  \- [UKEFF ](https://www.ukeff.org/)
 partners:
   body: >-
     If your organisation provides support to people who are homeless in Oldham
