@@ -13,28 +13,36 @@ content: >-
   can apply to this scheme through their work coach for any job related costs,
   including clothing and travel.
 
-  * Oldham Council [**Local Welfare
-  Provision**](https://www.oldham.gov.uk/info/100001/benefits_and_money/1837/emergency_support_-_local_welfare_provision):
-  support workers can apply to Oldham Council to cover the items needed to
-  establish a home in Oldham, including furniture and white goods. 
+  * Oldham Council Local Welfare Provision (furniture and large items needed to
+  establish a home)
+  [https://www.oldham.gov.uk/info/100001/benefits*and_money/1837/emergency_support*-_local_welfare_provision](<*
+  https://www.oldham.gov.uk/info/100001/benefits*and_money/1837/emergency_support*-_local_welfare_provision>)
 
-  * Spend to Save: the [Housing Options
-  Team](https://www.oldham.gov.uk/info/200257/homelessness/2036/at_risk_of_becoming_homeless/12)
-  can also apply for funding to help prevent homelessness for anyone at risk
-  with 56 days.
+  * The inside out fund provides up to £50 for small household items
+  Insideout@thp.org.uk . Housing First Cavendish 249, Cavendish Street, Ashton,
+  OL6 7AT 0161 331 2000. 
 
-  * Threshold [Inside Out Starter Packs](http://thp.org.uk/services/inside-out):
-  support workers for people leaving homelessness or temporary accomodation can
-  apply for up to £50 worth of household items to help start their home,
-  including pots, pans and small electrical items, 
+  * Local grant makers for specific geographic areas including AV Davies (Shaw &
+  Crompton)
+  [https://www.oldham.gov.uk/downloads/file/3060/application*form*-_av_davies_charity](<*
+  https://www.oldham.gov.uk/downloads/file/3060/application*form*-_av_davies_charity>)
 
-  * Local Churches who are registered can apply for items to [Acts
-  435](https://acts435.org.uk/)****
+  * Royton Sick & Needy (Royton) ROYTON residents suffering from ill-health may
+  be able to get assistance from the Royton District Sick and Needy Fund. The
+  one-off grant can help towards the cost of domestic help, fuel, medical
+  appliances and other essentials. For more information contact the district
+  team at Royton Town Hall on 0161-770 3850.
 
+  * Warm homes Oldham [https://www.oldham.gov.uk/warm_homes_oldham](<*
+  https://www.oldham.gov.uk/warm_homes_oldham>)
 
-  **In the meantime, please go to**[
-  **streetsupport.net/oldham**](http://streetsupport.net/oldham) **for support
-  available near you.**
+  * Children in Need Emergency Essentials
+  [https://www.familyfundservices.co.uk/emergency-essentials/ ](<*
+  https://www.familyfundservices.co.uk/emergency-essentials/>)
+
+  * Acts 435 see [https://acts435.org.uk/](< https://acts435.org.uk/>) for how
+  the scheme works. Ancora, SAWN, Bethesda Church, Impact Church, Christians
+  Against Poverty have access to apply for these funds.
 list: >-
   If you are sleeping rough, homeless or at risk of homelessness in Oldham and
   want to apply for funds, get in touch with one of our partner organisations
@@ -66,7 +74,7 @@ partners:
     us at:
 
 
-    <mailto:info@realchangeoldham.co.uk>
+    [info@realchangeoldham.co.uk](mailto:info@realchangeoldham.co.uk)
   heading: Want to become a Partner?
 ---
 
