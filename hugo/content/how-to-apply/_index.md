@@ -27,11 +27,11 @@ content: >-
   [https://www.oldham.gov.uk/downloads/file/3060/application*form*-_av_davies_charity](<*
   https://www.oldham.gov.uk/downloads/file/3060/application*form*-_av_davies_charity>)
 
-  * Royton Sick & Needy (Royton) ROYTON residents suffering from ill-health may
-  be able to get assistance from the Royton District Sick and Needy Fund. The
-  one-off grant can help towards the cost of domestic help, fuel, medical
-  appliances and other essentials. For more information contact the district
-  team at Royton Town Hall on 0161-770 3850.
+  * Royton Sick & Needy Royton residents suffering from ill-health may be able
+  to get assistance from the Royton District Sick and Needy Fund. The one-off
+  grant can help towards the cost of domestic help, fuel, medical appliances and
+  other essentials. For more information contact the district team at Royton
+  Town Hall on 0161-770 3850.
 
   * Warm homes Oldham [https://www.oldham.gov.uk/warm_homes_oldham](<*
   https://www.oldham.gov.uk/warm_homes_oldham>)
