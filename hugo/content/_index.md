@@ -44,6 +44,9 @@ partners:
     * [Brentwood Day
     Centre](https://www.homeless.org.uk/homeless-england/service/middleton-day-centre)
 
+    * [Rochdale Boroughwide
+    Housing](https://www.rbh.org.uk/homelessness-service)
+
     * [Sanctuary Trust](http://www.sanctuarytrust.org.uk/) - including the Soup
     Kitchen and STEP Hostel
 
