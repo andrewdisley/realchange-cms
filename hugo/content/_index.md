@@ -58,6 +58,6 @@ partners:
     Trust](https://www.langleyhousetrust.org/our-projects/tekoa-house/)
 
     * [The Limes Housing](https://www.facebook.com/TheLimes594/)
-  youtube: n/a
+  youtube: 'https://youtu.be/6eOeINL-9zM'
 ---
 
