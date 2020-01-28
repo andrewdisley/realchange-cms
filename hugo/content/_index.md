@@ -57,6 +57,6 @@ partners:
 
     * [Your Housing
     Group](https://www.yourhousinggroup.co.uk/find-a-home/young-peoples-housing/foyers/)
-  youtube: 'https://youtu.be/6eOeINL-9zM'
+  youtube: 'https://www.youtube.com/embed/6eOeINL-9zM'
 ---
 
