@@ -27,7 +27,7 @@ who:
     spent.](/how-it-works/)
   heading: Who does Real Change help?
 how:
-  body: "If your organisation provides a service to support people who are homeless in Wigan & Leigh and you would like to discuss how to become an approved Real Change partner, please contact us on [07788 105 078](tel:07788105078) or email <mailto:info@realchangewiganandleigh.co.uk> or \L[find out more here](/how-to-apply/)."
+  body: "If your organisation provides a service to support people who are homeless in Wigan & Leigh and you would like to discuss how to become an approved Real Change partner, please email [info@realchangewiganandleigh.co.uk](mailto:info@realchangewiganandleigh.co.uk) or \L[find out more here](/how-to-apply/)."
   heading: How can you apply?
 partners:
   body: >-
