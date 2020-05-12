@@ -3,10 +3,9 @@ title: How to Apply |
 header:
   background: /assets/uploads/moss.png
   hero: Real Change Rochdale **How to Apply**
-content: >-
-  **If you are sleeping rough, homeless or at risk of homelessness and want to
-  apply for funds to help, the following local charities are Registered Partners
-  and able to access Grants:**
+content: "**If you are sleeping rough, homeless or at risk of homelessness and
+  want to apply for funds to help, the following local charities are Registered
+  Partners and able to access Grants:**"
 list: >-
   Current partners across the borough who can support you to make an application
   to Real Change Rochdale are:
@@ -14,23 +13,21 @@ list: >-
 
   * [Angie's Angels](https://www.facebook.com/groups/987871367991380/)
 
+  * [Awakening Minds CIC](https://www.facebook.com/awakeningmindscic/)
+
   * [Bond Board](https://www.thebondboard.org.uk/)
 
-  * [Brentwood Day
-  Centre](https://www.homeless.org.uk/homeless-england/service/middleton-day-centre)
+  * [Brentwood Day Centre](https://www.homeless.org.uk/homeless-england/service/middleton-day-centre)
 
   * [Rochdale Boroughwide Housing](https://www.rbh.org.uk/homelessness-service)
 
-  * [Sanctuary Trust](http://www.sanctuarytrust.org.uk/) - including the Soup
-  Kitchen and STEP Hostel
+  * [Sanctuary Trust](http://www.sanctuarytrust.org.uk/) - including the Soup Kitchen and STEP Hostel
 
   * [Stepping Stone](https://www.stepping-stone.org.uk/)
 
   * [WHAG](http://www.whag.info/)
 
-  * [Langley House
-  Trust](https://www.langleyhousetrust.org/our-projects/tekoa-house/)/ Tekoa
-  Hous
+  * [Langley House Trust](https://www.langleyhousetrust.org/our-projects/tekoa-house/)/ Tekoa Hous
 
   * [The Limes Housing](https://www.facebook.com/TheLimes594/)
 partners:
@@ -43,4 +40,3 @@ partners:
     [info@realchangerochdale.co.uk](mailto:info@realchangerochdale.co.uk)
   heading: Want to become a Partner?
 ---
-
