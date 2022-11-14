@@ -15,7 +15,7 @@
     "handlebars-helpers": "^0.10.0",
     "jshint": "^2.13.4",
     "jshint-stylish": "^2.2.1",
-    "node-sass": "^7.0.1"
+    "node-sass": "^7.0.3"
   },
   "browserslist": [
     "last 1 version",
